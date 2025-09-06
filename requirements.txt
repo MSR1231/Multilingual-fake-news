@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+sentencepiece
+pandas
+numpy
+scikit-learn
+gradio
+lime
+shap
+pillow
+opencv-python
+pytesseract
+requests
+beautifulsoup4
+sqlite-utils
