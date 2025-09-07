@@ -1,51 +1,69 @@
+"""
+fetch_newsapi.py
+
+Fetches English news articles from NewsAPI using the 'everything' endpoint.
+Saves raw data to both JSON and CSV.
+Requires 'config.yaml' in the main project folder with your NewsAPI key.
+"""
+
 import os
 import requests
 import json
 import pandas as pd
 import yaml
 
-def fetch_multilingual_news(queries_by_language, api_key, page_size=10):
-    """Fetch articles from NewsAPI by language."""
+def fetch_news(queries, api_key, page_size=100):
+    """Fetch articles from NewsAPI for each query."""
     all_articles = []
     base_url = 'https://newsapi.org/v2/everything'
 
-    for lang, queries in queries_by_language.items():
-        for term in queries:
-            params = {
-                'q': term,
-                'language': lang,
-                'pageSize': page_size,
-                'apiKey': api_key
-            }
+    for term in queries:
+        params = {
+            'q': term,
+            'language': 'en',  # English only
+            'pageSize': page_size,
+            'apiKey': api_key
+        }
 
-            try:
-                response = requests.get(base_url, params=params, timeout=10)
-                response.raise_for_status()
-                data = response.json()
-            except Exception as e:
-                print(f"[!] Error fetching '{term}' in '{lang}': {e}")
-                continue
+        try:
+            response = requests.get(base_url, params=params, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+        except requests.exceptions.Timeout:
+            print(f"[!] Timeout while fetching '{term}'. Try again later.")
+            continue
+        except requests.exceptions.RequestException as e:
+            print(f"[!] Request failed for '{term}': {e}")
+            continue
 
-            if 'articles' not in data or not data['articles']:
-                print(f"[!] No articles found for '{term}' in '{lang}'")
-                continue
+        articles_list = data.get('articles', [])
+        if not articles_list:
+            print(f"[!] No articles found for '{term}'.")
+            continue
 
-            for article in data['articles']:
-                all_articles.append({
-                    'source': article.get('source', {}).get('name', ''),
-                    'title': article.get('title', '') or '',
-                    'description': article.get('description', '') or '',
-                    'content': article.get('content', '') or '',
-                    'url': article.get('url', '') or '',
-                    'publishedAt': article.get('publishedAt', ''),
-                    'language': lang,
-                    'query': term
-                })
+        for article in articles_list:
+            all_articles.append({
+                'source': article.get('source', {}).get('name', ''),
+                'title': article.get('title', '') or '',
+                'description': article.get('description', '') or '',
+                'content': article.get('content', '') or '',
+                'url': article.get('url', '') or '',
+                'publishedAt': article.get('publishedAt', ''),
+                'query': term,
+                'language': 'en'
+            })
+
+        print(f"[+] Fetched {len(articles_list)} articles for '{term}'.")
 
     return all_articles
 
 def main():
-    # Load config.yaml
+    # Check if config.yaml exists
+    if not os.path.exists("config.yaml"):
+        print("[!] config.yaml not found. Please create it in the main project folder.")
+        return
+
+    # Load API key
     with open("config.yaml", "r") as file:
         config = yaml.safe_load(file)
 
@@ -54,31 +72,30 @@ def main():
         print("[!] newsapi_key not found in config.yaml.")
         return
 
-    # Define multilingual queries
-    queries_by_language = {
-        'en': ["fake news", "politics", "technology"],
-        'hi': ["फेक न्यूज़", "राजनीति", "प्रौद्योगिकी"],
-        'te': ["చీలో న్యూస్", "రాజకీయాలు", "సాంకేతికత"]
-    }
+    # Queries to fetch (English only)
+    queries = ["fake news", "misinformation", "politics", "technology", "health", "economy", "education", "weather"]
 
+    # Ensure data folder exists
     os.makedirs("data/raw_api_data", exist_ok=True)
 
-    articles = fetch_multilingual_news(queries_by_language, api_key)
+    # Fetch articles
+    articles = fetch_news(queries, api_key)
 
-    # Save to JSON
-    json_path = 'data/raw_api_data/newsapi_multilang_data.json'
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(articles, f, indent=4, ensure_ascii=False)
-
-    # Save to CSV
     if articles:
+        # Save CSV
         df = pd.DataFrame(articles)
         df.dropna(subset=['title', 'content'], inplace=True)
-        csv_path = 'data/raw_api_data/newsapi_multilang_data.csv'
-        df.to_csv(csv_path, index=False, encoding='utf-8')
-        print(f"[+] Saved {len(df)} articles to {csv_path}")
+        csv_path = os.path.join('data', 'raw_api_data', 'newsapi_data.csv')
+        df.to_csv(csv_path, index=False)
+        print(f"[+] CSV saved to {csv_path} with {len(df)} articles.")
+
+        # Save JSON
+        json_path = os.path.join('data', 'raw_api_data', 'newsapi_data.json')
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(articles, f, indent=4, ensure_ascii=False)
+        print(f"[+] JSON saved to {json_path}")
     else:
-        print("[!] No articles fetched.")
+        print("[!] No articles fetched from NewsAPI.")
 
 if __name__ == "__main__":
     main()

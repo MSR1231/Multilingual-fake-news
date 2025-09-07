@@ -23,3 +23,8 @@ source venv/bin/activate # on Mac/Linux
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+
+
+cp config.yaml.example config.yaml

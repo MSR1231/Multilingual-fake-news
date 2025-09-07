@@ -811,6 +811,16 @@
     },
     {
         "source": "ABC News",
+        "title": "WATCH: Twin waterspouts swirl side by side off coast of northern Italy",
+        "description": "Breathtaking video captured the moment two twin waterspouts merged off the Po River Delta on Italy's north-eastern coast, driven by strong winds that hit the area.",
+        "content": "<ul><li>United Airlines grounded flights nationwide amid tech issue\r\n</li><li>Trump's mass tariffs now in effect, what they mean\r\n</li><li>Millions under air quality alerts as wildfires rage in Canad… [+4464 chars]",
+        "url": "https://abcnews.go.com/International/video/twin-waterspouts-swirl-side-side-off-coast-northern-124441434",
+        "publishedAt": "2025-08-07T12:06:23Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
+        "source": "ABC News",
         "title": "WATCH: Suspect indicted in killing of Israeli Embassy staffers in Washington, D.C.",
         "description": "U.S. Attorney for the District of Columbia Jeanine Pirro spoke about prosecuting hate crimes at a press conference regarding the shooting of Israeli Embassy staffers in Washington, D.C., on May 21.",
         "content": "<ul><li>White House pushes back on claims that Trump and Putin are set to meet soon\r\n</li><li>Judge temporarily blocks further construction of 'Alligator Alcatraz'\r\n</li><li>Trump orders new census e… [+4458 chars]",
@@ -826,16 +836,6 @@
         "content": "<ul><li>White House pushes back on claims that Trump and Putin are set to meet soon\r\n</li><li>Judge temporarily blocks further construction of 'Alligator Alcatraz'\r\n</li><li>Trump orders new census e… [+4458 chars]",
         "url": "https://abcnews.go.com/Entertainment/video/jenna-ortega-talks-wednesday-season-2-124452953",
         "publishedAt": "2025-08-07T18:05:57Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "ABC News",
-        "title": "WATCH: Twin waterspouts swirl side by side off coast of northern Italy",
-        "description": "Breathtaking video captured the moment two twin waterspouts merged off the Po River Delta on Italy's north-eastern coast, driven by strong winds that hit the area.",
-        "content": "<ul><li>United Airlines grounded flights nationwide amid tech issue\r\n</li><li>Trump's mass tariffs now in effect, what they mean\r\n</li><li>Millions under air quality alerts as wildfires rage in Canad… [+4464 chars]",
-        "url": "https://abcnews.go.com/International/video/twin-waterspouts-swirl-side-side-off-coast-northern-124441434",
-        "publishedAt": "2025-08-07T12:06:23Z",
         "query": "fake news",
         "language": "en"
     },
@@ -2031,21 +2031,21 @@
     },
     {
         "source": "The Verge",
-        "title": "Intel will receive a $2 billion lifeline from SoftBank",
-        "description": "SoftBank will invest $2 billion into Intel as the struggling chipmaker pulls back on spending and lays off thousands of workers. In an announcement, SoftBank CEO Masayoshi Son said the investment aligns with the firm’s belief that “advanced semiconductor manu…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nby\r\nEmma Ro… [+2340 chars]",
-        "url": "https://www.theverge.com/news/761259/intel-softbank-2-billion-investment",
-        "publishedAt": "2025-08-19T12:44:27Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Florida man orders beautification of America after gold-plating the White House",
         "description": "President Donald Trump signed a new executive order on Thursday to improve the “usability and aesthetics” of US government services by creating “first-class online and offline experiences for Americans.” “It is time to update the Government’s design language …",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nMake America Design Again.\r\nMake America Design Again.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author will be added to your daily email diges… [+2092 chars]",
         "url": "https://www.theverge.com/news/764142/trump-executive-order-national-design-studio",
         "publishedAt": "2025-08-22T08:35:35Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Intel will receive a $2 billion lifeline from SoftBank",
+        "description": "SoftBank will invest $2 billion into Intel as the struggling chipmaker pulls back on spending and lays off thousands of workers. In an announcement, SoftBank CEO Masayoshi Son said the investment aligns with the firm’s belief that “advanced semiconductor manu…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nby\r\nEmma Ro… [+2340 chars]",
+        "url": "https://www.theverge.com/news/761259/intel-softbank-2-billion-investment",
+        "publishedAt": "2025-08-19T12:44:27Z",
         "query": "politics",
         "language": "en"
     },
@@ -2071,21 +2071,21 @@
     },
     {
         "source": "The Verge",
-        "title": "Trump is moving Space Command to Alabama",
-        "description": "President Donald Trump is moving US Space Command’s headquarters from Colorado to Alabama, he announced during a press conference on Tuesday. The change reverses former President Joe Biden’s 2023 decision to leave it in Colorado Springs, where its temporary h…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nPoliticians from Alabama and Colorado have been battling over the headquarters for four years. \r\nPoliticians from Alabama and Colorado have been battling over th… [+2523 chars]",
-        "url": "https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters",
-        "publishedAt": "2025-09-02T19:44:24Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Ousted Democratic FTC commissioner can return (again) for now",
         "description": "Rebecca Kelly Slaughter, the Democratic Federal Trade Commissioner fired by President Donald Trump without cause, can at least temporarily return to work while her legal case plays out. This happened once before when Slaughter briefly returned to her office m…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nRuling for the Trump administration would have to defy repeatedly preserved Supreme Court precedent, the court writes.\r\nRuling for the Trump administration would… [+2096 chars]",
         "url": "https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated",
         "publishedAt": "2025-09-02T23:19:51Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Trump is moving Space Command to Alabama",
+        "description": "President Donald Trump is moving US Space Command’s headquarters from Colorado to Alabama, he announced during a press conference on Tuesday. The change reverses former President Joe Biden’s 2023 decision to leave it in Colorado Springs, where its temporary h…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nPoliticians from Alabama and Colorado have been battling over the headquarters for four years. \r\nPoliticians from Alabama and Colorado have been battling over th… [+2523 chars]",
+        "url": "https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters",
+        "publishedAt": "2025-09-02T19:44:24Z",
         "query": "politics",
         "language": "en"
     },
@@ -2361,21 +2361,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Nigel Farage urges PM to appoint Reform peers to House of Lords",
-        "description": "Reform has four MPs in the House of Commons and controls ten councils in England, but currently has no peers.",
-        "content": "Iain Watson\r\nReform UK leader Nigel Farage has called on the prime minister to allow him to appoint peers to the House of Lords. \r\nIn a letter to Sir Keir Starmer, Farage said he wanted \"the democrat… [+2379 chars]",
-        "url": "https://www.bbc.com/news/articles/c8der86r6n0o",
-        "publishedAt": "2025-08-15T03:25:03Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "Anger in Italy over non-consensual photos of women shared online",
         "description": "The My Wife Facebook group had 32,000 members before it was shut down for violating adult sexual exploitation policies.",
         "content": "Facebook has removed an Italian group which saw men sharing intimate images of often unsuspecting women with thousands of people online.\r\nThe Mia Moglie group, which translates to My Wife in English,… [+2118 chars]",
         "url": "https://www.bbc.com/news/articles/ce874j4ye3no",
         "publishedAt": "2025-08-22T01:59:57Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Nigel Farage urges PM to appoint Reform peers to House of Lords",
+        "description": "Reform has four MPs in the House of Commons and controls ten councils in England, but currently has no peers.",
+        "content": "Iain Watson\r\nReform UK leader Nigel Farage has called on the prime minister to allow him to appoint peers to the House of Lords. \r\nIn a letter to Sir Keir Starmer, Farage said he wanted \"the democrat… [+2379 chars]",
+        "url": "https://www.bbc.com/news/articles/c8der86r6n0o",
+        "publishedAt": "2025-08-15T03:25:03Z",
         "query": "politics",
         "language": "en"
     },
@@ -2411,21 +2411,21 @@
     },
     {
         "source": "The Verge",
-        "title": "What is Laura Loomer?",
-        "description": "For the uninitiated, watching a Jeffrey Epstein truther such as Laura Loomer have such influence over the White House's decisions is nothing short of baffling. ABC News attributes \"the ouster of at least 15 individuals from Trump's second administration\" to L…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe most effective MAGA influencer happens to be the most shameless, IRL attention seeker of them all.\r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washi… [+8669 chars]",
-        "url": "https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump",
-        "publishedAt": "2025-08-08T13:51:24Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Why Donald Trump’s environmental data purge is so much worse this time",
         "description": "Now that we're about halfway into the first year of President Donald Trump's second term, we can take stock of his administration's destruction of online environmental resources. It's worse than last time. It's also, seemingly, just the beginning - paving the…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nResources on climate change and inequity have vanished, and disinformation is taking its place.\r\nResources on climate change and inequity have vanished, and disi… [+8603 chars]",
         "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
         "publishedAt": "2025-08-08T23:25:48Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "What is Laura Loomer?",
+        "description": "For the uninitiated, watching a Jeffrey Epstein truther such as Laura Loomer have such influence over the White House's decisions is nothing short of baffling. ABC News attributes \"the ouster of at least 15 individuals from Trump's second administration\" to L…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe most effective MAGA influencer happens to be the most shameless, IRL attention seeker of them all.\r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washi… [+8669 chars]",
+        "url": "https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump",
+        "publishedAt": "2025-08-08T13:51:24Z",
         "query": "politics",
         "language": "en"
     },
@@ -4141,21 +4141,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "How to Find Out If Microplastics Are Actually Destroying Our Health",
-        "description": "While researchers have yet to find evidence that proves plastic pollution is bad for your health, it's probably because there have been no human trials.",
-        "content": "Researchers have found plastic in almost every corner of the human body, from our brains and poop to blood and testicles (at least its not making our stomachs crunch yet). Is this plastic contaminati… [+2746 chars]",
-        "url": "https://gizmodo.com/how-to-find-out-if-microplastics-are-actually-destroying-our-health-2000642886",
-        "publishedAt": "2025-08-14T13:35:03Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "RFK Jr. Stares at Kids, Claims Their Mitochondria Are All Out of Whack",
         "description": "At an event Wednesday, RFK Jr. argued that children's dysfunctional mitochondria are responsible for a bevy of chronic health and behavioral issues.",
         "content": "It’s 10 o’clock somewhere. Do you know if your children are mitochondrially challenged? That’s apparently one major reason why kids in America are so unwell, according to antivaxxer-turned-health-sec… [+4308 chars]",
         "url": "https://gizmodo.com/rfk-jr-stares-at-kids-claims-their-mitochondria-are-all-out-of-whack-2000649715",
         "publishedAt": "2025-08-29T14:20:36Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "How to Find Out If Microplastics Are Actually Destroying Our Health",
+        "description": "While researchers have yet to find evidence that proves plastic pollution is bad for your health, it's probably because there have been no human trials.",
+        "content": "Researchers have found plastic in almost every corner of the human body, from our brains and poop to blood and testicles (at least its not making our stomachs crunch yet). Is this plastic contaminati… [+2746 chars]",
+        "url": "https://gizmodo.com/how-to-find-out-if-microplastics-are-actually-destroying-our-health-2000642886",
+        "publishedAt": "2025-08-14T13:35:03Z",
         "query": "health",
         "language": "en"
     },
@@ -4231,21 +4231,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Israel pounds Gaza City in preparation for planned offensive",
-        "description": "Sixty-four people were killed in Israeli attacks across Gaza in the past 24 hours, the territory's Hamas-run health ministry said.",
-        "content": "There are fears about the close to one million Palestinians in Gaza City\r\nPlanes and tanks have pounded parts of Gaza City as Israel's plans to seize the territory's largest urban area increase press… [+3444 chars]",
-        "url": "https://www.bbc.com/news/articles/cvg478y8l09o",
-        "publishedAt": "2025-08-24T12:18:44Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "Watch: London Zoo's capybaras and tortoises on weigh-in day",
         "description": "London Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.",
         "content": "London Zoo in Regent's Park has been holding its annual animal weigh-in event, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing. \r\nThe information is s… [+107 chars]",
         "url": "https://www.bbc.com/news/videos/c6267d6ng02o",
         "publishedAt": "2025-08-19T15:01:59Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Israel pounds Gaza City in preparation for planned offensive",
+        "description": "Sixty-four people were killed in Israeli attacks across Gaza in the past 24 hours, the territory's Hamas-run health ministry said.",
+        "content": "There are fears about the close to one million Palestinians in Gaza City\r\nPlanes and tanks have pounded parts of Gaza City as Israel's plans to seize the territory's largest urban area increase press… [+3444 chars]",
+        "url": "https://www.bbc.com/news/articles/cvg478y8l09o",
+        "publishedAt": "2025-08-24T12:18:44Z",
         "query": "health",
         "language": "en"
     },
@@ -4451,21 +4451,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "Birds Across the World Are Singing All Day for a Disturbing Reason",
-        "description": "After analyzing a dataset of more than 60 million recorded birdsongs, researchers found that birds are singing an average of 50 minutes longer per day.",
-        "content": "If the songbirds in your neighborhood are waking you up earlier and chirping well into the evening, blame light pollution. Artificial light touches nearly every corner of Earths surface, and a new st… [+3323 chars]",
-        "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
-        "publishedAt": "2025-08-21T18:00:30Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires",
         "description": "Researchers detected unusually tiny particles of carcinogenic hexavalent chromium that may be able to penetrate deeper inside the body.",
         "content": "The January wildfires left many scars on the city of Los Angeles, from rubble-reduced homes to torched abandoned vehicles. Though cleanup crews quickly cleared much of the debris, one alarming invisi… [+3951 chars]",
         "url": "https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102",
         "publishedAt": "2025-08-29T09:00:29Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "Birds Across the World Are Singing All Day for a Disturbing Reason",
+        "description": "After analyzing a dataset of more than 60 million recorded birdsongs, researchers found that birds are singing an average of 50 minutes longer per day.",
+        "content": "If the songbirds in your neighborhood are waking you up earlier and chirping well into the evening, blame light pollution. Artificial light touches nearly every corner of Earths surface, and a new st… [+3323 chars]",
+        "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
+        "publishedAt": "2025-08-21T18:00:30Z",
         "query": "health",
         "language": "en"
     },
@@ -4601,21 +4601,21 @@
     },
     {
         "source": "BBC News",
-        "title": "UK cases of mosquito-borne virus more than double",
-        "description": "More than 70 cases of the chikungunya virus were reported in the UK in the first six months of this year.",
-        "content": "There has been a significant increase in the number of UK cases of a mosquito-borne virus that can cause sudden fever and joint pain and is normally only found in Africa and southern Asia.\r\nThe UK He… [+2334 chars]",
-        "url": "https://www.bbc.com/news/articles/c7419g1l488o",
-        "publishedAt": "2025-08-14T01:22:10Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "Gazan woman flown to Italy dies of malnutrition",
         "description": "The woman was one of 180 Gazans evacuated by Italy in response to the humanitarian crisis",
         "content": "A Gazan woman who was evacuated to Italy for treatment while severely emaciated has died in hospital. \r\nThe 20-year-old, who was identified as Marah Abu Zuhri, flew to Pisa with her mother on an over… [+2318 chars]",
         "url": "https://www.bbc.com/news/articles/ce87n455dvxo",
         "publishedAt": "2025-08-16T18:50:17Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "UK cases of mosquito-borne virus more than double",
+        "description": "More than 70 cases of the chikungunya virus were reported in the UK in the first six months of this year.",
+        "content": "There has been a significant increase in the number of UK cases of a mosquito-borne virus that can cause sudden fever and joint pain and is normally only found in Africa and southern Asia.\r\nThe UK He… [+2334 chars]",
+        "url": "https://www.bbc.com/news/articles/c7419g1l488o",
+        "publishedAt": "2025-08-14T01:22:10Z",
         "query": "health",
         "language": "en"
     },
@@ -4670,22 +4670,22 @@
         "language": "en"
     },
     {
-        "source": "WOODTV.com",
-        "title": "Balloon festival unites Wayland, supports mental health",
-        "description": "The annual Wayland BalloonFest from nonprofit 4 One 2 Cares raises awareness for mental health issues affecting West Michigan through a weekend of community ...",
-        "content": "LEIGHTON TOWNSHIP, Mich. (WOOD) On Sept. 5 and Sept 6, visitors to Calkins Field at the Wayland Municipal Airport north of Wayland can attend the fifth annual Wayland BalloonFest.\r\nIts been growing e… [+1757 chars]",
-        "url": "https://www.woodtv.com/westmichiganguide/balloon-festival-unites-wayland-supports-mental-health/",
-        "publishedAt": "2025-08-25T16:50:25Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
         "source": "Yahoo Entertainment",
         "title": "TPG's Africa Health Push Raised Whistleblower Complaints",
         "description": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and ...",
         "content": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and Pakistan on behalf of investors, including… [+339 chars]",
         "url": "https://finance.yahoo.com/video/tpgs-africa-health-push-raised-061220727.html",
         "publishedAt": "2025-08-27T06:12:20Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "WOODTV.com",
+        "title": "Balloon festival unites Wayland, supports mental health",
+        "description": "The annual Wayland BalloonFest from nonprofit 4 One 2 Cares raises awareness for mental health issues affecting West Michigan through a weekend of community ...",
+        "content": "LEIGHTON TOWNSHIP, Mich. (WOOD) On Sept. 5 and Sept 6, visitors to Calkins Field at the Wayland Municipal Airport north of Wayland can attend the fifth annual Wayland BalloonFest.\r\nIts been growing e… [+1757 chars]",
+        "url": "https://www.woodtv.com/westmichiganguide/balloon-festival-unites-wayland-supports-mental-health/",
+        "publishedAt": "2025-08-25T16:50:25Z",
         "query": "health",
         "language": "en"
     },
@@ -4901,16 +4901,6 @@
     },
     {
         "source": "NPR",
-        "title": "A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals",
-        "description": "Amanda Anisimova beat Naomi Osaka in the U.S. Open semifinals early Friday in a tense, three-set match. Both players have been climbing up the rankings after taking mental health breaks from the sport.",
-        "content": "Two comeback stories collided on the tennis court Thursday night when American Amanda Anisimova and Naomi Osaka of Japan who was also raised in the U.S. played each other in the U.S. Open semifinals.… [+5354 chars]",
-        "url": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals",
-        "publishedAt": "2025-09-04T17:38:55Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
         "title": "HHS responds to report about autism and acetaminophen",
         "description": "A report that health secretary Robert F. Kennedy, Jr. has promised will come out this  month will look at the causes of autism. Many worry it will have claims unsupported by science.",
         "content": "The Trump administration is planning to release a report this month that will reportedly link use of the common painkiller acetaminophen (sold under the brand name Tylenol) during pregnancy, as well … [+3423 chars]",
@@ -4921,11 +4911,11 @@
     },
     {
         "source": "NPR",
-        "title": "He built Michigan's Medicaid work requirement system. Now he's warning other states",
-        "description": "Michigan's health director spent a year and $30 million building a work requirements system for Medicaid. The problems he encountered have him worried now that 40 states must do the same by 2027.",
-        "content": "It was March 2020, and Robert Gordon was about to kick some 80,000 people off health insurance.\r\nAs the Michigan state health director, he had just spent the past year, and some $30 million in state … [+10426 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/08/08/nx-s1-5493417/michigan-robert-gordon-medicaid-work-requirements",
-        "publishedAt": "2025-08-08T13:43:05Z",
+        "title": "A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals",
+        "description": "Amanda Anisimova beat Naomi Osaka in the U.S. Open semifinals early Friday in a tense, three-set match. Both players have been climbing up the rankings after taking mental health breaks from the sport.",
+        "content": "Two comeback stories collided on the tennis court Thursday night when American Amanda Anisimova and Naomi Osaka of Japan who was also raised in the U.S. played each other in the U.S. Open semifinals.… [+5354 chars]",
+        "url": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals",
+        "publishedAt": "2025-09-04T17:38:55Z",
         "query": "health",
         "language": "en"
     },
@@ -4941,6 +4931,16 @@
     },
     {
         "source": "NPR",
+        "title": "He built Michigan's Medicaid work requirement system. Now he's warning other states",
+        "description": "Michigan's health director spent a year and $30 million building a work requirements system for Medicaid. The problems he encountered have him worried now that 40 states must do the same by 2027.",
+        "content": "It was March 2020, and Robert Gordon was about to kick some 80,000 people off health insurance.\r\nAs the Michigan state health director, he had just spent the past year, and some $30 million in state … [+10426 chars]",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/08/08/nx-s1-5493417/michigan-robert-gordon-medicaid-work-requirements",
+        "publishedAt": "2025-08-08T13:43:05Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "NPR",
         "title": "Israel increasingly bars foreign doctors who want to volunteer in Gaza",
         "description": "Foreign doctors have been serving as medical volunteers, but must be approved by Israel to enter Gaza. The World Health Organization says denial rates have increased by 50% since March.",
         "content": "AMMAN, Jordan Dr. Mimi Syed, an emergency medicine physician from Washington state, is in an Amman hotel room, surrounded by infant formula and devices used for resuscitation that she had hoped to ta… [+8837 chars]",
@@ -4951,21 +4951,21 @@
     },
     {
         "source": "NPR",
-        "title": "Hurricane Katrina had a silver-lining for some: Post-traumatic growth",
-        "description": "The mental health effects of Hurricane Katrina have been studied for more than a decade, and that research found that post-traumatic growth can co-exist with post-traumatic stress.",
-        "content": "NhuNgoc Pham was a high school student living in the New Orleans metro area when Hurricane Katrina hit the Gulf Coast on August 29, 2005. Her parents, immigrants from Vietnam, had recently purchased … [+10932 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/09/03/nx-s1-5525985/hurricane-katrina-20-years-ptsd-post-traumatic-growth",
-        "publishedAt": "2025-09-03T18:10:40Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
         "title": "Whatever happened to mpox? Is it still a threat?",
         "description": "The virus took the world by storm. It was declared a \"public health emergency of continental concern.\" What's the current status? With the U.S. aid cuts, one doctor says, \"We're flying blind.\"",
         "content": "In August 2024, the news came in quick succession. On Tuesday Aug. 13, 2024 Africa Centers for Disease Control and Prevention declared mpox a public health emergency of continental concern. The very … [+8443 chars]",
         "url": "https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa",
         "publishedAt": "2025-09-02T11:05:02Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "NPR",
+        "title": "Hurricane Katrina had a silver-lining for some: Post-traumatic growth",
+        "description": "The mental health effects of Hurricane Katrina have been studied for more than a decade, and that research found that post-traumatic growth can co-exist with post-traumatic stress.",
+        "content": "NhuNgoc Pham was a high school student living in the New Orleans metro area when Hurricane Katrina hit the Gulf Coast on August 29, 2005. Her parents, immigrants from Vietnam, had recently purchased … [+10932 chars]",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/09/03/nx-s1-5525985/hurricane-katrina-20-years-ptsd-post-traumatic-growth",
+        "publishedAt": "2025-09-03T18:10:40Z",
         "query": "health",
         "language": "en"
     },
@@ -5021,21 +5021,21 @@
     },
     {
         "source": "Business Insider",
-        "title": "We're producing a generation of students who will feel they 'don't fit' in the AI world, economist Tyler Cowen warns",
-        "description": "Colleges are failing to prepare students for the AI economy — and the biggest cost may be psychological, Tyler Cowen said.",
-        "content": "Tyler Cowen says AI is forcing a reckoning in education — and most institutions aren't ready for it.Leon Neal/Getty Images\r\n<ul><li>Economist Tyler Cowen said college students were unprepared for an … [+2751 chars]",
-        "url": "https://www.businessinsider.com/economist-tyler-cowen-warns-students-unprepared-for-ai-economy-2025-8",
-        "publishedAt": "2025-08-06T11:52:41Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Business Insider",
         "title": "Keke Palmer says moms shouldn't feel guilty for working 'in this economy'",
         "description": "\"I think that's important, and especially in this economy where everybody's got to go to work,\" Keke Palmer said.",
         "content": "Keke Palmer.Axelle/Bauer-Griffin/FilmMagic\r\n<ul><li>Keke Palmer doesn't think that working moms should feel mom guilt — especially not in this economy.</li><li>\"But the reality is, if you got to work… [+2553 chars]",
         "url": "https://www.businessinsider.com/keke-palmer-single-working-mom-guilt-economy-parenting-2025-8",
         "publishedAt": "2025-08-12T06:43:34Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Business Insider",
+        "title": "We're producing a generation of students who will feel they 'don't fit' in the AI world, economist Tyler Cowen warns",
+        "description": "Colleges are failing to prepare students for the AI economy — and the biggest cost may be psychological, Tyler Cowen said.",
+        "content": "Tyler Cowen says AI is forcing a reckoning in education — and most institutions aren't ready for it.Leon Neal/Getty Images\r\n<ul><li>Economist Tyler Cowen said college students were unprepared for an … [+2751 chars]",
+        "url": "https://www.businessinsider.com/economist-tyler-cowen-warns-students-unprepared-for-ai-economy-2025-8",
+        "publishedAt": "2025-08-06T11:52:41Z",
         "query": "economy",
         "language": "en"
     },
@@ -5871,21 +5871,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "The Real Reason You Haven’t Been Replaced by AI Yet",
-        "description": "AI is already powerful enough to replace millions of jobs. The only thing stopping the mass layoffs isn't technology. It's that no CEO wants to be the first one to face the political firestorm.",
-        "content": "Its the ticking time bomb in the global economy, and every CEO knows it: AI is already powerful enough to replace millions of jobs. So why haven’t the mass layoffs begun? The answer has little to do … [+4163 chars]",
-        "url": "https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235",
-        "publishedAt": "2025-08-10T22:44:46Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "Ozempic Maker Novo Nordisk Freezes Hiring Amid Ongoing Struggles",
         "description": "The Danish pharmaceutical company has struggled in recent months to meet its lofty sales expectations.",
         "content": "No one stays on top forever. It’s a lesson that Ozempic maker Novo Nordisk may be painfully learning about. The Danish pharmaceutical company has enacted a hiring freezethe latest sign of a sinking f… [+3973 chars]",
         "url": "https://gizmodo.com/ozempic-maker-novo-nordisk-freezes-hiring-amid-ongoing-struggles-2000646217",
         "publishedAt": "2025-08-21T15:58:43Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "The Real Reason You Haven’t Been Replaced by AI Yet",
+        "description": "AI is already powerful enough to replace millions of jobs. The only thing stopping the mass layoffs isn't technology. It's that no CEO wants to be the first one to face the political firestorm.",
+        "content": "Its the ticking time bomb in the global economy, and every CEO knows it: AI is already powerful enough to replace millions of jobs. So why haven’t the mass layoffs begun? The answer has little to do … [+4163 chars]",
+        "url": "https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235",
+        "publishedAt": "2025-08-10T22:44:46Z",
         "query": "economy",
         "language": "en"
     },
@@ -7660,22 +7660,22 @@
         "language": "en"
     },
     {
-        "source": "ABC27",
-        "title": "PennDOT plans long-term closure of I-83 on-ramp; delays expected next Sunday",
-        "description": "HARRISBURG, Pa. (WHTM) — An Interstate 83 onramp will be closed beginning next Sunday and it’ll last awhile. PennDOT says the ramp from 19th Street to I-83...",
-        "content": "HARRISBURG, Pa. (WHTM) An Interstate 83 onramp will be closed beginning next Sunday and itll last awhile.\r\nPennDOT says the ramp from 19th Street to I-83 northbound in Harrisburg will close Sunday, A… [+908 chars]",
-        "url": "https://www.abc27.com/news/traffic/penndot-plans-long-term-closure-of-i-83-on-ramp-delays-expected-next-sunday/",
-        "publishedAt": "2025-08-15T20:36:22Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
         "source": "KXAN.com",
         "title": "Tommy’s Travel Forecast: Erin update, pattern change",
         "description": "In the Eastern Atlantic Basin, a new tropical wave could develop into our next named storm. The tropics are waking up!",
         "content": "AUSTIN (KXAN) Hurricane Erin continues to move WNW as a Major Hurricane. Traveling along the U.S. East Coast? Erin will create a high rip current risk and large waves with some gusty winds.\r\nTROPICAL… [+1259 chars]",
         "url": "https://www.kxan.com/news/texas/tommys-travel-forecast-erin-update-pattern-change/",
         "publishedAt": "2025-08-17T19:53:42Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "ABC27",
+        "title": "PennDOT plans long-term closure of I-83 on-ramp; delays expected next Sunday",
+        "description": "HARRISBURG, Pa. (WHTM) — An Interstate 83 onramp will be closed beginning next Sunday and it’ll last awhile. PennDOT says the ramp from 19th Street to I-83...",
+        "content": "HARRISBURG, Pa. (WHTM) An Interstate 83 onramp will be closed beginning next Sunday and itll last awhile.\r\nPennDOT says the ramp from 19th Street to I-83 northbound in Harrisburg will close Sunday, A… [+908 chars]",
+        "url": "https://www.abc27.com/news/traffic/penndot-plans-long-term-closure-of-i-83-on-ramp-delays-expected-next-sunday/",
+        "publishedAt": "2025-08-15T20:36:22Z",
         "query": "weather",
         "language": "en"
     },
@@ -7710,6 +7710,16 @@
         "language": "en"
     },
     {
+        "source": "ABC News",
+        "title": "Northern lights could be visible in these states tonight",
+        "description": "A minor geomagnetic storm could produce auroras in more than a dozen states.",
+        "content": "Another dazzling display of northern lights could be visible Monday night with the prediction of a minor geomagnetic storm, according to space weather experts.\r\nThe National Oceanic and Atmospheric A… [+2432 chars]",
+        "url": "https://abcnews.go.com/US/northern-lights-visible-dozen-us-states-tonight/story?id=124741604",
+        "publishedAt": "2025-08-18T16:07:00Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
         "source": "Idaho Statesman",
         "title": "Where is that smoke in Boise coming from? Farther away than you’d think",
         "description": "The usual culprits for wildfire smoke drifting into the Treasure Valley aren’t to blame. But this will stick through the weekend.",
@@ -7726,16 +7736,6 @@
         "content": "Hopes are fading that an injured climber who has been stuck on a mountain in Kyrgyzstan for 12 days after rescue efforts had to be terminated because of bad weather.\r\nNatalia Nagovitsyna was descendi… [+2326 chars]",
         "url": "https://www.cnn.com/2025/08/24/world/russia-mountaineer-rescue-efforts-intl",
         "publishedAt": "2025-08-24T12:37:53Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "ABC News",
-        "title": "Northern lights could be visible in these states tonight",
-        "description": "A minor geomagnetic storm could produce auroras in more than a dozen states.",
-        "content": "Another dazzling display of northern lights could be visible Monday night with the prediction of a minor geomagnetic storm, according to space weather experts.\r\nThe National Oceanic and Atmospheric A… [+2432 chars]",
-        "url": "https://abcnews.go.com/US/northern-lights-visible-dozen-us-states-tonight/story?id=124741604",
-        "publishedAt": "2025-08-18T16:07:00Z",
         "query": "weather",
         "language": "en"
     },
