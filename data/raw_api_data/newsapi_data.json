@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 52602,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "The Fitbit App Is Turning Into an AI-Powered Personal Health Coach",
+            "description": "Built with Gemini, Google\u2019s AI health coach will be everything but a doctor.",
+            "url": "https://www.wired.com/story/fitbit-app-ai-personal-health-coach/",
+            "urlToImage": "https://media.wired.com/photos/68a51e91c49b4b40cab05f73/191:100/w_1280,c_limit/Fitbit%20Source%20Fitbit.png",
+            "publishedAt": "2025-08-20T16:42:56Z",
+            "content": "Fitbits smartphone app has undergone several redesigns over the past two years, and now theres another big one coming in October, timed to the launch of the newly announced Pixel Watch 4. Launching a\u2026 [+3190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting",
+            "description": "The health czar has been criticized for how he handled the attack on the health agency.",
+            "url": "https://gizmodo.com/rfk-jr-posts-fishing-trip-pics-online-amidst-fallout-from-cdc-shooting-2000641604",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/GettyImages-2225268507-1200x675.jpg",
+            "publishedAt": "2025-08-12T12:30:28Z",
+            "content": "A horrific shooting took place outside the Centers for Disease Control and Preventions headquarters in Atlanta on Friday. The shooting killed one police officer and left the building\u2019s staff locked d\u2026 [+3718 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "The West Texas Measles Outbreak Has Ended",
+            "description": "According to state health officials, a measles outbreak that started in an undervaccinated community and killed two children is now over.",
+            "url": "https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/",
+            "urlToImage": "https://media.wired.com/photos/68a356a3a7b1e72a7de4e295/191:100/w_1280,c_limit/west-texas-measles-sci-2201750223.jpg",
+            "publishedAt": "2025-08-18T18:30:57Z",
+            "content": "A large measles outbreak in Texas that has affected 762 people has now ended, according to an announcement Monday by the Texas Department of State Health Services. The agency says it has been more th\u2026 [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Higgins",
+            "title": "I Tried the Best At-Home Pet DNA Test Kits on My Two Cats (2025)",
+            "description": "I sent my cats' saliva to the lab to get health and genetic insights sent to my inbox\u2014with very different results.",
+            "url": "https://www.wired.com/gallery/best-pet-dna-tests/",
+            "urlToImage": "https://media.wired.com/photos/689ff4886359164ec162f6c0/191:100/w_2580,c_limit/The%20Best%20At-Home%20Pet%20DNA%20Test%20Kits,%20Tested%20on%20My%20Cats.png",
+            "publishedAt": "2025-08-16T14:05:00Z",
+            "content": "If You Have a Dog, Consider These Kits\r\nI dont have a dog, so I didn't try these at-home DNA test kits for dogs, but these are the kits specifically for dogs from Basepaws and Wisdom Panel, the two c\u2026 [+9467 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman, Matt Burgess",
+            "title": "Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database",
+            "description": "Nearly a million records, which appear to be linked to a medical cannabis card company in Ohio, included Social Security numbers, government IDs, health conditions, and more.",
+            "url": "https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/",
+            "urlToImage": "https://media.wired.com/photos/689e56af26c500411f5d07b3/191:100/w_1280,c_limit/Security_weedcard_GettyImages-1466383594.jpg",
+            "publishedAt": "2025-08-19T16:14:22Z",
+            "content": "As legal cannabis has expanded around the United States for both recreational and medical use, companies have amassed troves of data about customers and their transactions. People who have applied fo\u2026 [+2480 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "China Is Building a Brain-Computer Interface Industry",
+            "description": "A new policy document outlines China\u2019s plan to create an internationally competitive BCI industry within five years, and proposes developing devices for both health and consumer uses.",
+            "url": "https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/",
+            "urlToImage": "https://media.wired.com/photos/68a898f8bbc9e9dd3ce17f99/191:100/w_1280,c_limit/082025_Brain-Computer-Interfaces.jpg",
+            "publishedAt": "2025-08-28T10:00:00Z",
+            "content": "Given these and other recent milestones, Peng says its realistic to think that at least one BCI system could gain approval in China by 2027.\r\nMinmin Luo, director of the Chinese Institute for Brain R\u2026 [+2695 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Fitbit\u2019s AI health coach is the first I might actually be interested in",
+            "description": "I'm not a fan of AI health and fitness features. Not only do they regurgitate Captain Obvious-level summaries of what you just did, but the \"insights\" are so generalized that a Google search is often more helpful. So it was with great skepticism that I walked\u2026",
+            "url": "https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-08-20T15:49:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a complete overhaul of the Fitbit app, centered around the concept of adjustable, conversational coaching.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Rev\u2026 [+8757 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Google signs Stephen Curry to pitch its Pixel, health, and AI gear",
+            "description": "Google has brought NBA star Stephen Curry on board to help shape the company\u2019s hardware, features, and AI services. The long-term partnership was announced today at the Made by Google event, with Curry joining the company as a \u201cperformance advisor\u201d for Google\u2026",
+            "url": "https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Stephen-Curry-Google-performance-advisor.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-08-20T13:53:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCurrys role as Googles performance advisor will involve providing feedback for Health, Pixel, and Cloud products.\r\nCurrys role as Googles performance advisor wil\u2026 [+3652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "Wildfire Smoke Chokes Canada and U.S., Triggering Air Quality Alerts",
+            "description": "Hundreds of uncontrolled wildfires have created a public health hazard across much of North America.",
+            "url": "https://gizmodo.com/wildfire-smoke-chokes-canada-and-u-s-triggering-air-quality-alerts-2000639059",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Wildfire-smoke-Montreal-CA-1200x675.jpg",
+            "publishedAt": "2025-08-05T16:25:58Z",
+            "content": "Canada is battling more than 700 active wildfires across the country, roughly two-thirds of which are burning out of control, according to the Canadian Interagency Forest Fire Center (CIFFC). Smoke b\u2026 [+3545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Bill Gates Meets With Trump at the White House",
+            "description": "Did they talk about global health or their old friend Jeffrey Epstein?",
+            "url": "https://gizmodo.com/bill-gates-trump-white-house-2000649039",
+            "urlToImage": "https://gizmodo.com/app/uploads/2021/05/b80f9cee2ff0e1469856978f080097a5.jpg",
+            "publishedAt": "2025-08-27T17:20:58Z",
+            "content": "Bill Gates met with President Donald Trump at the White House on Tuesday, according to multiple reports. What did the two men talk about? It sounds like Gates wanted to discuss global health initiati\u2026 [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "The CDC\u2019s Nightmare Interim Director Is a Peter Thiel Pal",
+            "description": "As America's pivotal health agency descends into chaos, the White House has selected the worst possible person to run it.",
+            "url": "https://gizmodo.com/the-cdcs-nightmare-interim-director-is-a-peter-thiel-pal-2000650533",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Jim-ONeill-1200x675.jpg",
+            "publishedAt": "2025-08-29T19:15:59Z",
+            "content": "The Center for Disease Control and Prevention is in chaotic disarray, as a slew of resignations and an unprecedented walkout of staff have roiled the agency. At the center of the controversy is the C\u2026 [+4343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "RFK Jr. Says He Doesn\u2019t Know How Many Americans Died From Covid During Heated Senate Hearing",
+            "description": "The health secretary dodged any blame for imploding the CDC's leadership and appeared to endorse anti-vaccination talking points.",
+            "url": "https://gizmodo.com/rfk-jr-says-he-doesnt-know-how-many-americans-died-from-covid-during-heated-senate-hearing-2000653604",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Kennedy-1200x675.jpg",
+            "publishedAt": "2025-09-04T17:05:08Z",
+            "content": "Fresh off the internal collapse of the Centers for Disease Control and Prevention\u2019s senior leadership, U.S&gt; Health Secretary Robert F. Kennedy, Jr. testified before the Senate Finance Committee on\u2026 [+3965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "All-In Podcast Boys Poke Fun at Uber Founder\u2019s \u2018AI Psychosis\u2019 (Which They Encouraged)",
+            "description": "\"We may need to do a health check because smart people can get involved with these AI.\"",
+            "url": "https://gizmodo.com/all-in-podcast-boys-poke-fun-at-uber-founders-ai-psychosis-which-they-encouraged-2000644443",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/all-in-podcast-jason-calacanis-1200x675.jpg",
+            "publishedAt": "2025-08-18T21:15:36Z",
+            "content": "Remember when the guys over at the All-In podcast talked with Uber founder Travis Kalanick about \u201cvibe physics\u201c? Kalanick told viewers that he was on the verge of discovering new kinds of science by \u2026 [+6413 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Americanswers\u2026on 5 Live! Why did the internet think Trump was dead?",
+            "description": "And why is RFK Jr reshaping America\u2019s top health agency?",
+            "url": "https://www.bbc.co.uk/programmes/p0m081ky",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0j72y80.jpg",
+            "publishedAt": "2025-09-01T16:56:00Z",
+            "content": "Over the weekend rumours were swirling on social media that the president was dead. \r\nMarianna and Sumi join Matt Chorley on 5 Live to look at how the unfounded claims were sparked. \r\nAnd the US Cent\u2026 [+1989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "UK agrees to pay Kenyans affected by military fire",
+            "description": "Thousands says they have suffered health problems or lost property after fire caused by British military.",
+            "url": "https://www.bbc.com/news/articles/c9vd3k1dpymo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fa56/live/c2a95c40-7f6c-11f0-a34f-318be3fb0481.jpg",
+            "publishedAt": "2025-08-22T17:38:08Z",
+            "content": "Barbara Plett Usher\r\nThe UK government has agreed to pay compensation to thousands of Kenyans who were affected by a fire caused by a British military training exercise four years ago.\r\nThe out-of-co\u2026 [+2779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'No-one comes for us': The women trapped in Afghanistan's mental health system",
+            "description": "Accessing treatment in an Afghan mental health facility is difficult - but getting out can be harder.",
+            "url": "https://www.bbc.com/news/articles/c80dg700dego",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f4b9/live/4ad519b0-7789-11f0-a975-cb151ca452f4.jpg",
+            "publishedAt": "2025-08-18T22:19:29Z",
+            "content": "Mahjooba NowrouziBBC Afghan Service, in Kabul\r\nBBC visited a mental health centre that is struggling to cope with the number of patients\r\nHigh on a hill in the west of the Afghan capital, Kabul, behi\u2026 [+6562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Margherita Bassi",
+            "title": "How to Find Out If Microplastics Are Actually Destroying Our Health",
+            "description": "While researchers have yet to find evidence that proves plastic pollution is bad for your health, it's probably because there have been no human trials.",
+            "url": "https://gizmodo.com/how-to-find-out-if-microplastics-are-actually-destroying-our-health-2000642886",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/eating-microplastics-1200x675.jpg",
+            "publishedAt": "2025-08-14T13:35:03Z",
+            "content": "Researchers have found plastic in almost every corner of the human body, from our brains and poop to blood and testicles (at least its not making our stomachs crunch yet). Is this plastic contaminati\u2026 [+2746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "RFK Jr. Stares at Kids, Claims Their Mitochondria Are All Out of Whack",
+            "description": "At an event Wednesday, RFK Jr. argued that children's dysfunctional mitochondria are responsible for a bevy of chronic health and behavioral issues.",
+            "url": "https://gizmodo.com/rfk-jr-stares-at-kids-claims-their-mitochondria-are-all-out-of-whack-2000649715",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/RFKstare-1200x675.jpg",
+            "publishedAt": "2025-08-29T14:20:36Z",
+            "content": "It\u2019s 10 o\u2019clock somewhere. Do you know if your children are mitochondrially challenged? That\u2019s apparently one major reason why kids in America are so unwell, according to antivaxxer-turned-health-sec\u2026 [+4308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "A walk-in fishermen's clinic saved me from sepsis - and could transform the NHS",
+            "description": "Tom Parker was treated in one of 70 harbour health clinics after breaking his fibula fishing at sea.",
+            "url": "https://www.bbc.com/news/articles/cm21z711g59o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8330/live/602afd90-6ca1-11f0-89ea-4d6f9851f623.jpg",
+            "publishedAt": "2025-08-07T23:01:41Z",
+            "content": "Tom Parker, 37, broke his leg in a fishing accident three miles off the Devon coast\r\nTom Parker was working alone three miles (4.8km) off the Devon coast when his fishing boat hit a wave and lurched \u2026 [+6148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Health v heritage: Pigeon feeding ban sparks debate in India",
+            "description": "Feeding pigeons is common in Indian cities but is now controversial due to rising numbers and health risks.",
+            "url": "https://www.bbc.com/news/articles/cvg3mj0vkzro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a242/live/bb3f06f0-79ca-11f0-83cc-c5da98c419b8.jpg",
+            "publishedAt": "2025-08-17T23:32:50Z",
+            "content": "A man feeds pigeons in Srinagar in Indian-administered Kashmir\r\nA recent court ban on feeding pigeons in public spaces in the western Indian city of Mumbai has become a major flashpoint between civic\u2026 [+6123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "White House defends Robert F Kennedy Jr amid CDC turmoil",
+            "description": "The Centers for Disease Control had several top officials depart recently, leading to calls for the health secretary's resignation.",
+            "url": "https://www.bbc.com/news/articles/cedv3gg3x6xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4987/live/c1c88960-8523-11f0-a172-2d379cd1f7b4.jpg",
+            "publishedAt": "2025-08-29T23:37:32Z",
+            "content": "The White House is defending Health Secretary Robert F Kennedy Jr after a chaotic week at the US Centers for Disease Control (CDC) that led to calls for his removal.\r\nOn Friday, White House Deputy Ch\u2026 [+4307 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "TCL gives parents a monochrome mode to combat kids\u2019 phone addiction",
+            "description": "TCL has been making its E Ink-inspired Nxtpaper phones for years, but it\u2019s taken the company until now to realize that parents are a likely demographic for it. That\u2019s finally been remedied with the Nxtpaper 5G Junior, a kids phone launching in Europe with a f\u2026",
+            "url": "https://www.theverge.com/news/768556/tcl-nxtpaper-5g-junior-ifa-e-reader-kids-phone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/tcl-nxtpaper-5g-junior.jpg?quality=90&strip=all&crop=0,10.71447084873,100,78.571058302539",
+            "publishedAt": "2025-09-02T20:22:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Nxtpaper 5G Junior has an E Ink-esque display to help manage screentime.\r\nThe Nxtpaper 5G Junior has an E Ink-esque display to help manage screentime.\r\nTCL h\u2026 [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "\u2018This Was Trauma by Simulation\u2019: ChatGPT Users File Disturbing Mental Health Complaints",
+            "description": "Gizmodo obtained consumer complaints to FTC through a FOIA request.",
+            "url": "https://gizmodo.com/this-was-trauma-by-simulation-chatgpt-users-file-disturbing-mental-health-complaints-2000636943",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/depressed-man-1200x675.jpg",
+            "publishedAt": "2025-08-13T14:35:05Z",
+            "content": "With about 700 million weekly users, ChatGPT is the most popular AI chatbot in the world, according to OpenAI. CEO Sam Altman likens the latest model, GPT-5, to having a PhD expert around to answer a\u2026 [+18365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "The New \u2018Toxic Avenger\u2019 Is Helping Avenge Real-World Health Care Debt",
+            "description": "Macon Blair's new take on Troma's cult horror classic stars Peter Dinklage and hits theaters August 29.",
+            "url": "https://gizmodo.com/the-new-toxic-avenger-is-helping-avenge-real-world-health-care-debt-2000649205",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/THE-TOXIC-AVENGER_6-2-1200x675.jpg",
+            "publishedAt": "2025-08-27T19:30:11Z",
+            "content": "The new Toxic Avenger finally hits theaters this week after a few years\u2019 delay, and while audiences are in for a wild ride with the movie\u2019s hilariously gross tale of mutation and redemption, the movi\u2026 [+1781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take \u2018Breaks\u2019",
+            "description": "Having a break from reality? OpenAI thinks you should take a break.",
+            "url": "https://gizmodo.com/after-a-deluge-of-mental-health-concerns-chatgpt-will-now-nudge-users-to-take-breaks-2000638820",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg",
+            "publishedAt": "2025-08-05T13:05:00Z",
+            "content": "It\u2019s become increasingly common for OpenAI\u2019s ChatGPT to be accused of contributing to users\u2019 mental health problems. As the company readies the release of its latest algorithm (GPT-5), it wants every\u2026 [+3989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Plan to boost jobs for newly-qualified nurses and midwives",
+            "description": "The move comes after warnings there are up to three times more graduates than vacancies in some areas of the health service.",
+            "url": "https://www.bbc.com/news/articles/c39ddjv09vvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c856/live/969166d0-762e-11f0-a067-a5100ae1e8c2.jpg",
+            "publishedAt": "2025-08-10T23:42:02Z",
+            "content": "New measures to make it easier for NHS employers in England to take on newly qualified nurses and midwives have been announced by the government.\r\nThe move comes after warnings there are up to three \u2026 [+3346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Israel pounds Gaza City in preparation for planned offensive",
+            "description": "Sixty-four people were killed in Israeli attacks across Gaza in the past 24 hours, the territory's Hamas-run health ministry said.",
+            "url": "https://www.bbc.com/news/articles/cvg478y8l09o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2dc8/live/3ea13c80-80dc-11f0-a34f-318be3fb0481.jpg",
+            "publishedAt": "2025-08-24T12:18:44Z",
+            "content": "There are fears about the close to one million Palestinians in Gaza City\r\nPlanes and tanks have pounded parts of Gaza City as Israel's plans to seize the territory's largest urban area increase press\u2026 [+3444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Watch: London Zoo's capybaras and tortoises on weigh-in day",
+            "description": "London Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.",
+            "url": "https://www.bbc.com/news/videos/c6267d6ng02o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03a8/live/439b46c0-7d0a-11f0-83cc-c5da98c419b8.jpg",
+            "publishedAt": "2025-08-19T15:01:59Z",
+            "content": "London Zoo in Regent's Park has been holding its annual animal weigh-in event, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing. \r\nThe information is s\u2026 [+107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Apple May Take AirPods Pro 3 Beyond Audio",
+            "description": "The most popular wireless earbuds in the world are ready for their next act.",
+            "url": "https://gizmodo.com/apple-may-take-airpods-pro-3-beyond-audio-2000648180",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/AirPods-Pro-2-Statue-of-liberty-1.jpeg",
+            "publishedAt": "2025-08-26T15:45:48Z",
+            "content": "It\u2019s been a long time coming, but it looks like Apple is finally ready to release the next pair of AirPods Pro. According to Bloomberg\u2019s Mark Gurman, the AirPods Pro 3 will likely be among the major \u2026 [+4300 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "How Much Protein You Really Need, According to the Experts (2025)",
+            "description": "Experts answer: How much protein do I need? Plus tips on the best food sources, when to eat them, and how to avoid overdoing it.",
+            "url": "https://www.wired.com/story/how-much-protein-do-i-need/",
+            "urlToImage": "https://media.wired.com/photos/6892f859c0c7da91d044ede1/191:100/w_1280,c_limit/How%20To-%20How%20Much%20Protein%20Do%20I%20Need_.png",
+            "publishedAt": "2025-08-06T12:30:00Z",
+            "content": "Meanwhile, influencers, biohackers, and longevity-focused researchers like Peter Attiaauthor of Outlive and chief science officer of supplement company David Barshave popularized the idea that higher\u2026 [+2987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "NPR",
+            "title": "Have a health care system headache? Share your story",
+            "description": "The logistics of health care can be frustrating. If you have a bureaucratic horror story or need help with a tough question, reach out to Health Care Helpline from NPR and KFF Health News.",
+            "url": "https://www.npr.org/2025/08/21/g-s1-83791/health-care-insurance-advice-help",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+200/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F5f%2F3c35d87a4a78831bd41bf8f8f24e%2Fhhh-logo.jpg",
+            "publishedAt": "2025-08-21T09:00:00Z",
+            "content": "The health care system in the U.S. can be extremely confusing. If you've puzzled over using your insurance or dealing with hospitals and doctors, we may be able to help. \r\nPre-authorization delay? No\u2026 [+367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "NYC Legionnaires\u2019 Disease Outbreak: Cases and Deaths Double, as Officials Pinpoint the Cause",
+            "description": "Residents in five zip codes across Central Harlem are being advised to seek immediate medical care if they develop flu-like symptoms.",
+            "url": "https://gizmodo.com/nyc-legionnaires-disease-outbreak-cases-and-deaths-double-as-officials-pinpoint-the-cause-2000638967",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Harlem-1200x675.jpg",
+            "publishedAt": "2025-08-05T16:10:42Z",
+            "content": "An outbreak of Legionnaires\u2019 disease in NYC has doubled in reported cases and deaths since last week. Officials have struggled to identify the source of the outbreak, but it has now been confirmed.\r\n\u2026 [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Illinois Bans AI From Providing Therapy",
+            "description": "The law prohibits AI from making independent therapeutic decisions.",
+            "url": "https://gizmodo.com/illinois-bans-ai-from-providing-therapy-2000639042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/63e787eb5d2b18960576e0331184bf14.jpg",
+            "publishedAt": "2025-08-05T16:00:04Z",
+            "content": "Illinois Governor JB Pritzker signed, on Friday, a new measure that bans AI from acting as a therapist or counselor and limits its use to strictly administrative or support roles.\r\nThe Wellness and O\u2026 [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "OpenAI Makes a Play for Healthcare",
+            "description": "The results are mixed on whether healthcare AI will be revolutionary or problematic",
+            "url": "https://gizmodo.com/openai-makes-a-play-for-healthcare-2000648210",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT-1200x675.jpg",
+            "publishedAt": "2025-08-26T16:14:34Z",
+            "content": "OpenAI is going all in on healthcare AI.\r\nThe company added two new leaders to its burgeoning healthcare AI team, Business Insider found, and is hiring for more researchers and engineers.\r\nNate Gross\u2026 [+5926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Margherita Bassi",
+            "title": "The Top Diseases We Choose to Stay Ignorant About, According to Scientists",
+            "description": "Roughly one in three people avoid medical information. New research exploring why suggests the reasons are more complicated than they appear.",
+            "url": "https://gizmodo.com/the-diseases-wed-rather-not-know-we-have-according-to-scientists-2000648529",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/woman-at-doctors-office-1200x675.jpg",
+            "publishedAt": "2025-08-27T13:55:15Z",
+            "content": "The old adage \u201cignorance is bliss\u201d feels especially fitting when it comes to healthcare. In fact, new research reveals that one in three people avoidsor is likely to avoidmedical information.\r\nIn a s\u2026 [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Margherita Bassi",
+            "title": "Researchers Discover Another Place Where People Live Freakishly Long",
+            "description": "Blue Zone lifestyles are linked to longer-than-average lifespans in places like Italy and Japan, but newly described longevity hotspots in Finland are presenting a different story.",
+            "url": "https://gizmodo.com/researchers-discover-another-place-where-people-live-freakishly-long-2000651889",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/aland-1200x675.jpg",
+            "publishedAt": "2025-09-02T15:35:01Z",
+            "content": "There are regions where an atypically large number of people enjoy a much longer lifespan than elsewhere on the planet. In these so-called Blue Zonessuch as Ogliastra in Italy, Ikaria in Greece, Okin\u2026 [+3171 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "Top CDC Officials Resign After Director Is Pushed Out",
+            "description": "The exodus has set off alarms among staff at the US Centers for Disease Control and Prevention: \u201cMy main concern is they will be replaced with puppets.\"",
+            "url": "https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/",
+            "urlToImage": "https://media.wired.com/photos/68af9c96e6c7cf6a61f4af2f/191:100/w_1280,c_limit/2222107417",
+            "publishedAt": "2025-08-28T01:08:28Z",
+            "content": "Susan Monarez is no longer the director of the US Centers for Disease Control and Prevention, according to a post by the official Department of Health and Human Services X account. She had been in th\u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "CDC Director Denies Report She\u2019s Been Fired by Trump Regime (HHS Says She\u2019s Out)",
+            "description": "Susan Monarez is reportedly being pushed out for not supporting RFK Jr.'s anti-vaccine agenda.",
+            "url": "https://gizmodo.com/cdc-resignations-susan-monarez-denial-rfk-vaccines-2000649469",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Susan-Monarez-1200x675.jpg",
+            "publishedAt": "2025-08-28T00:00:09Z",
+            "content": "The director of the Centers for Disease Control and Prevention (CDC), Susan Monarez, was reportedly fired on Wednesday after she resisted changes to covid-19 vaccine policies, according to the Washin\u2026 [+6368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Karoline Leavitt Makes Hilarious Mistake While Defending Bullshit on Covid Vaccines",
+            "description": "The term is \"emergency use authorization.\"",
+            "url": "https://gizmodo.com/karoline-leavitt-makes-hilarious-mistake-while-defending-bullshit-on-covid-vaccines-2000649938",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/karoline-leavitt-aug.-28-2025-1200x675.jpg",
+            "publishedAt": "2025-08-28T21:10:14Z",
+            "content": "The White House is stacked with some of the dumbest people on the planet. But at least sometimes we can get a chuckle out of it.\r\nPresident Donald Trump\u2019s top spokesperson, the 28-year-old Karoline L\u2026 [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+            "description": "The first death from the illness this year comes as vaccination rates among children have declined.",
+            "url": "https://www.bbc.com/news/articles/cx2xe5l4mn5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
+            "publishedAt": "2025-08-31T09:10:53Z",
+            "content": "A baby whose mother was not vaccinated against whooping cough while pregnant has died after contracting the infection, the UK Health Security Agency (UKHSA) has said.\r\nThe death, which occurred betwe\u2026 [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+            "title": "Google's new AI health coach is coming to Fitbit and Pixel Watches next month",
+            "description": "Google's new AI health coach learns your habits, adjusts plans, and makes wearables more personal.",
+            "url": "https://www.androidcentral.com/apps-software/google-adding-ai-powered-health-coach-fitbit-and-pixel-watch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dkz2bJQ4gkYhyysyZhNHc.jpg",
+            "publishedAt": "2025-08-20T16:00:00Z",
+            "content": "What you need to know\r\n<ul><li>Google unveiled an AI-powered personal health coach for Pixel Watch and Fitbit devices.</li><li>The AI coach acts as a fitness trainer, sleep coach, and wellness adviso\u2026 [+3505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "A Common Virus Causes Cancer, but Most Americans Are Clueless About It",
+            "description": "A third of people don\u2019t even know this STD exists, a new study finds.",
+            "url": "https://gizmodo.com/a-common-virus-causes-cancer-but-most-americans-are-clueless-about-it-2000643003",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/HPV-cells-1200x675.jpg",
+            "publishedAt": "2025-08-14T15:00:09Z",
+            "content": "The human papillomavirus (HPV) is a major source of cancer that\u2019s now almost entirely preventable through vaccination. But sobering research out today shows that Americans are largely in the dark abo\u2026 [+4699 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Some doctors got worse at detecting cancer after relying on AI",
+            "description": "We\u2019ve heard about upskilling and re-skilling due to AI \u2014 but how about de-skilling? A new study published this week found that doctors who frequently use AI to detect cancer in one medical procedure got significantly worse at doing so. The researchers set out\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257892_dr_deskill_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-08-13T14:48:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the latest in worrying medical AI headlines.\r\nIts the latest in worrying medical AI headlines.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author w\u2026 [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "A treaty to end plastic pollution is still out of reach \u2014 that\u2019s not necessarily a bad thing",
+            "description": "The nations of the world have been on the precipice of reaching a global agreement to curb plastic pollution for a few years now. Delegates from 184 governments met in Geneva this month to try to hammer out a final treaty, but in the end, they walked away wit\u2026",
+            "url": "https://www.theverge.com/news/760058/plastic-pollution-treaty-negotiations-end",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/GP0SU6GWD_PressMedia-2500px.jpg?quality=90&strip=all&crop=0%2C13.35664827659%2C100%2C73.28670344682&w=1200",
+            "publishedAt": "2025-08-15T17:12:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo deal is better than a bad deal. \r\nNo deal is better than a bad deal. \r\nby\r\nJustine CalmaClose\r\nJustine Calma\r\nPosts from this author will be added to your dai\u2026 [+5079 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Autumn Wright",
+            "title": "Kirby\u2019s new Switch 2 expansion adds just the right amount of challenge",
+            "description": "So I heard you want to play Kirby on hard mode: tough bosses, tricky platforming, complicated puzzles, hidden collectibles, and maybe even punishments for failing. The Star-Crossed World expansion in Kirby and the Forgotten Land's Switch 2 edition certainly i\u2026",
+            "url": "https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/NintendoSwitch2_KirbyatFLNintendoSwitch2Edition_Star-CrossedWorld_SCRN_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-08-28T15:06:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStar-Crossed Worlds more difficult levels and enemies are offset by ridiculous new powers.\r\nStar-Crossed Worlds more difficult levels and enemies are offset by r\u2026 [+6805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "Samsung's crucial 'Preventative Care' on the Galaxy Watch 8 is here for your heart",
+            "description": "The company draws attention to ways it's trying to help users stay ahead of unsightly health concerns.",
+            "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-preventative-care-galaxy-watch-8-heart-health-report",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hYpvMH6qr3aCU7PUmPoTSG.jpg",
+            "publishedAt": "2025-08-07T18:18:07Z",
+            "content": "What you need to know\r\n<ul><li>Samsung highlights a few \"Preventative Care\" features on the Galaxy Watch 8 series, thanks to its sensors.</li><li>The devices can help detect \"premature heartbeats\" us\u2026 [+3619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Luc Olinga",
+            "title": "Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him",
+            "description": "The world of AI therapy is a minefield of dangerous chatbots and flawed advice. But against this backdrop, one founder is using her own family's crisis to build a company that puts human connection first.",
+            "url": "https://gizmodo.com/mental-health-ai-backpack-2000642729",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Backpack-has-an-AI-care-companion-989x675.jpg",
+            "publishedAt": "2025-08-13T19:49:44Z",
+            "content": "The burgeoning world of AI-powered mental health support is a minefield. From chatbots giving dangerously incorrect medical advice to AI companions encouraging self-harm, the headlines are filled wit\u2026 [+5205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Margherita Bassi",
+            "title": "Scientists Uncover Unexpected Connection Between Covid and the Common Cold",
+            "description": "If you've recently caught a cold, you might be less likely to get covid right after.",
+            "url": "https://gizmodo.com/scientists-uncover-unexpected-connection-between-covid-and-the-common-cold-2000648192",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/woman-sick-1200x675.jpg",
+            "publishedAt": "2025-08-26T15:25:00Z",
+            "content": "As annoying as catching a cold may be, there could be a silver lining. New research suggests that it may temporarily protect you from getting covid-19.\r\nResearchers revealed that individuals, especia\u2026 [+2686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Will Stone",
+            "title": "Counting steps for health? Here's how many you really need",
+            "description": "Counting steps is easy using a phone, a wearable or  fitness tracker. And Scientists have lots of data to figure out how many daily steps you need to improve health. Here's what they've found.",
+            "url": "https://www.npr.org/2025/08/14/nx-s1-5501610/counting-steps-health-fitness-tracker",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2235x1257+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F84%2Fc9c7c35143f1b9fdcb68d486d466%2Fgettyimages-1803793681.jpg",
+            "publishedAt": "2025-08-14T09:00:00Z",
+            "content": "From pricey wearable devices to your phone, it has never been easier to track your daily physical activity, or lack of it. And if you're like many Americans and spend 9-plus hours sitting everyday ch\u2026 [+6047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Natalia Mesa",
+            "title": "Woman Diagnosed with Malaria in Washington May Be State\u2019s First Locally Acquired Case",
+            "description": "The woman who contracted the disease had not traveled out of the country recently, marking the first potential locally-acquired case of malaria in the state.",
+            "url": "https://gizmodo.com/woman-diagnosed-with-malaria-in-washington-may-be-states-first-locally-acquired-case-2000640209",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/10/c6dfe2e21fa5ce9311ca3b8adc02ba04.jpg",
+            "publishedAt": "2025-08-07T19:55:11Z",
+            "content": "Washington state officials have revealed that a local woman has been diagnosed with malaria, which, if confirmed, would mark the first known case of the disease being acquired in the state.\r\nThe woma\u2026 [+2944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "Birds Across the World Are Singing All Day for a Disturbing Reason",
+            "description": "After analyzing a dataset of more than 60 million recorded birdsongs, researchers found that birds are singing an average of 50 minutes longer per day.",
+            "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/yellow-wagtail-singing-1200x675.jpg",
+            "publishedAt": "2025-08-21T18:00:30Z",
+            "content": "If the songbirds in your neighborhood are waking you up earlier and chirping well into the evening, blame light pollution. Artificial light touches nearly every corner of Earths surface, and a new st\u2026 [+3323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "Infamous \u2018Erin Brockovich\u2019 Toxin Polluted Air for Months After LA Fires",
+            "description": "Researchers detected unusually tiny particles of carcinogenic hexavalent chromium that may be able to penetrate deeper inside the body.",
+            "url": "https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/palisades-fire-1200x675.jpg",
+            "publishedAt": "2025-08-29T09:00:29Z",
+            "content": "The January wildfires left many scars on the city of Los Angeles, from rubble-reduced homes to torched abandoned vehicles. Though cleanup crews quickly cleared much of the debris, one alarming invisi\u2026 [+3951 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erica Star Domena,Henry Chandonnet",
+            "title": "Why Silicon Valley's young founders are saying no to alcohol",
+            "description": "Silicon Valley's young founders are ditching booze for health and productivity.",
+            "url": "https://www.businessinsider.com/why-silicon-valleys-young-founders-are-saying-no-to-alcohol-2025-8",
+            "urlToImage": "https://i.insider.com/689b468f194a2d49b8ae64e1?width=1200&format=jpeg",
+            "publishedAt": "2025-08-12T14:05:38Z",
+            "content": "Silicon Valley's young founders are ditching booze for health and productivity.Read the original article on Business Insider"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "More weight-loss drugs could be offered as part of new diabetes care",
+            "description": "Diabetes patients should have better and more equal access to newer medicines, says official healthcare body.",
+            "url": "https://www.bbc.com/news/articles/cgkr2g3e5p1o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8764/live/284c7db0-7d07-11f0-8fcb-fb7c59c7f97d.jpg",
+            "publishedAt": "2025-08-20T00:51:07Z",
+            "content": "Philippa Roxby\r\nTreatment for millions of people with type 2 diabetes should be more personalised, with greater access to newer medicines, including weight-loss drugs, the healthcare assessment body \u2026 [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+            "title": "Is the Galaxy Watch 8 the most comfortable smartwatch? Here\u2019s what we found",
+            "description": "Samsung's cushion design makes the Galaxy Watch 8 slimmer than ever, and it's an even better companion for fitness, health, and sleep tracking as a result.",
+            "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-8-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dxtJ6wsr2FMRBGUbiFyT36.jpg",
+            "publishedAt": "2025-08-12T15:16:44Z",
+            "content": "Why you can trust Android Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Samsung found its u\u2026 [+10636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "The Pixel 10\u2019s battery takes a hit after 200 cycles, courtesy of a feature you can\u2019t switch off",
+            "description": "Google\u2019s Pixel 10 has a locked-in Battery Health Assistance feature that purposely slows charging and caps capacity to manage battery wear.",
+            "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-10s-battery-takes-a-hit-after-200-cycles-courtesy-of-a-feature-you-cant-switch-off",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/96C4FCQjEAaN2nqESzbF57.jpg",
+            "publishedAt": "2025-08-25T13:12:00Z",
+            "content": "What you need to know\r\n<ul><li>Pixel 10\u2019s Battery Health Assistance is turned on by default, and there\u2019s no way to turn it off.</li><li>It begins lowering voltage after 200 charge cycles and keeps ad\u2026 [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi) , Nandika Ravi",
+            "title": "Samsung Health enhances care access with virtual doctor visits and guided workouts",
+            "description": "Samsung to roll out much-needed virtual health care tools that give you access to virtual doctors on the go, and more",
+            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-health-enhances-care",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/72fkSZJh2z7HYmD29AMNtX.jpg",
+            "publishedAt": "2025-09-04T16:32:48Z",
+            "content": "<ul><li>Samsung Health introduces virtual doctor visits through the new Find Care feature.</li><li>Health Records now integrates with Walgreens for easier prescription management.</li><li>Premium fit\u2026 [+2513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "michael.hicks@futurenet.com (Michael L Hicks) , Michael L Hicks",
+            "title": "The Fitbit AI coach could be the Pixel Watch 4's best trick. Its target audience may not be willing to try it",
+            "description": "You can use an old Fitbit watch or tracker with the new Fitbit personal health coach, but the best perks still require a Pixel Watch.",
+            "url": "https://www.androidcentral.com/wearables/pixel-watch-4-makes-me-yearn-for-return-to-fitbit-watches",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LoNApYCFiGqNzrPdiLbC3b.jpg",
+            "publishedAt": "2025-08-27T15:04:00Z",
+            "content": "My weekly column focuses on the state of Wear OS, from new developments to the latest apps and features.\r\nGoogle's new AI personal health coach will put your health, sleep, and workout data through a\u2026 [+6051 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Madison Hoff",
+            "title": "The 15 jobs projected to have the best growth over a decade",
+            "description": "There could be a lot more people working as home health and personal care aides or software developers in 2034.",
+            "url": "https://www.businessinsider.com/largest-job-growth-next-decade-healthcare-caregiving-tech-food-2025-8",
+            "urlToImage": "https://i.insider.com/68b089e8194a2d49b8af5e16?width=1200&format=jpeg",
+            "publishedAt": "2025-08-28T18:39:48Z",
+            "content": "There could be a lot more care aides in 2034, new employment projection data showed.LPETTET/Getty Images\r\n<ul><li>Home health and personal care aides are projected to grow to 5.1 million jobs in 2034\u2026 [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Vanessa Hand Orellana",
+            "title": "Well Played, Google: The Pixel Watch 4 May Give Apple Watch Loyalists a Wandering Eye",
+            "description": "First impressions: From satellite SOS to a Gemini-powered health coach, here's why the Pixel Watch 4 feels like the upgrade we've been waiting for.",
+            "url": "https://www.cnet.com/tech/mobile/well-played-google-the-pixel-watch-4-may-give-apple-watch-loyalists-a-wandering-eye/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1b2afba78bcb2945e74c2347380283c354846370/hub/2025/08/19/5814847f-208f-4f7a-a707-dd0fa668fd01/googlepixel.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-20T16:00:00Z",
+            "content": "Google's new Pixel Watch 4 may have dethroned its predecessor (at least on paper) as our favorite Android Watch, setting a new standard for the rest of the smartwatch world.\r\nThe company debuted its \u2026 [+8099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Shelby Brown",
+            "title": "Why Ancestry Is the Best DNA Test Kit in 2025",
+            "description": "If you're looking to uncover family history or learn more about your health, here's how to decide which DNA testing kit is best for you.",
+            "url": "https://www.cnet.com/health/medical/why-ancestry-best-dna-test-kit-2025/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/edf97f0406c96581a445d9fbfb605ca300dc21db/hub/2020/03/10/3f64ae35-43c3-415a-b65b-2d9e020effcd/gettyimages-1162352103.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-08-21T07:40:00Z",
+            "content": "When we first wrote this article, it compared 23andMe and Ancestry. Since then, 23andMe has experienced a data breach, a subsequent lawsuit, board members' resignations and layoffs amidst financial s\u2026 [+6256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "The Era of \u2018AI Psychosis\u2019 is Here. Are You a Possible Victim?",
+            "description": "Psychologists have been sounding the alarm for months.",
+            "url": "https://gizmodo.com/ai-psychosis-mental-health-2000645293",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/AIChatbotImage-1200x675.jpg",
+            "publishedAt": "2025-08-20T10:00:44Z",
+            "content": "If the term \u201cAI psychosis\u201d has completely infiltrated your social media feed lately, you\u2019re not alone.\r\nWhile not an official medical diagnosis, \u201cAI psychosis\u201d is the informal name mental health prof\u2026 [+4931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Amiran Baduashvili & Lisa Bero, The Conversation",
+            "title": "Most Air Purifiers Haven\u2019t Been Tested on Humans. That\u2019s a Problem",
+            "description": "New research exposes a startling lack of real-world testing for air-cleaning tech meant to fight airborne infections.",
+            "url": "https://gizmodo.com/most-air-purifiers-havent-been-tested-on-humans-thats-a-problem-2000647514",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/air_purifier-1200x675.jpg",
+            "publishedAt": "2025-08-25T13:50:51Z",
+            "content": "Portable air cleaners aimed at curbing indoor spread of infections are rarely tested for how well they protect peopleand very few studies evaluate their potentially harmful effects. Thats the upshot \u2026 [+4726 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "An AI Model for the Brain Is Coming to the ICU",
+            "description": "The Cleveland Clinic and startup Piramidal are developing an AI model trained on brain wave data to monitor intensive care patients.",
+            "url": "https://www.wired.com/story/an-ai-model-for-the-brain-is-coming-to-the-icu-cleveland-clinic-piramidal/",
+            "urlToImage": "https://media.wired.com/photos/689673d869fabbb0e648a5a6/191:100/w_1280,c_limit/GettyImages-1212708039.jpg",
+            "publishedAt": "2025-08-11T15:00:00Z",
+            "content": "The Cleveland Clinic is partnering with San Francisco-based startup Piramidal to develop a large-scale AI model that will be used to monitor patients brain health in intensive care units.\r\nInstead of\u2026 [+3119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Humans Inhale as Much as 68,000 Microplastic Particles Daily, Study Finds",
+            "description": "Every breath people take in their homes or car probably contains significant amounts of microplastics small enough to burrow deep into lungs, new peer-reviewed research finds, bringing into focus a little understood route of exposure and health threat. The Gu\u2026",
+            "url": "https://science.slashdot.org/story/25/08/28/1316211/humans-inhale-as-much-as-68000-microplastic-particles-daily-study-finds",
+            "urlToImage": "https://a.fsdn.com/sd/topics/science_64.png",
+            "publishedAt": "2025-08-28T18:01:00Z",
+            "content": "The study, published in the journal Plos One, estimates humans can inhale as much as 68,000 tiny plastic particles daily. Previous studies have identified larger pieces of airborne microplastics, but\u2026 [+469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "UK cases of mosquito-borne virus more than double",
+            "description": "More than 70 cases of the chikungunya virus were reported in the UK in the first six months of this year.",
+            "url": "https://www.bbc.com/news/articles/c7419g1l488o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7576/live/a8169f20-7835-11f0-9116-4d3546f2bbbf.jpg",
+            "publishedAt": "2025-08-14T01:22:10Z",
+            "content": "There has been a significant increase in the number of UK cases of a mosquito-borne virus that can cause sudden fever and joint pain and is normally only found in Africa and southern Asia.\r\nThe UK He\u2026 [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Gazan woman flown to Italy dies of malnutrition",
+            "description": "The woman was one of 180 Gazans evacuated by Italy in response to the humanitarian crisis",
+            "url": "https://www.bbc.com/news/articles/ce87n455dvxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e04/live/bc9a0ef0-7ace-11f0-a34f-318be3fb0481.jpg",
+            "publishedAt": "2025-08-16T18:50:17Z",
+            "content": "A Gazan woman who was evacuated to Italy for treatment while severely emaciated has died in hospital. \r\nThe 20-year-old, who was identified as Marah Abu Zuhri, flew to Pisa with her mother on an over\u2026 [+2318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Man injured at funfair dies of head injuries",
+            "description": "The Spanish City Summer Funfair will remain closed until further notice, police say.",
+            "url": "https://www.bbc.com/news/articles/c7vl9yn00g3o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b314/live/e4d54a40-8039-11f0-9ef8-cb29d22fe717.jpg",
+            "publishedAt": "2025-08-23T21:05:23Z",
+            "content": "A man has died after being injured at a seaside fairground. \r\nNorthumbria Police said officers were called to Spanish City, in Whitley Bay, shortly before 14:15 BST to reports of a man in his 20s bei\u2026 [+201 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Google\u2019s Pixel Watch 4 has big ideas \u2014 and an even bigger focus on AI",
+            "description": "The original Pixel Watch was late to the game. For years, there had been rumors of a Google smartwatch that never materialized. Then, when it finally arrived, it was a quintessential first-gen device, with thicc bezels, dismal battery life, and a host of quir\u2026",
+            "url": "https://www.theverge.com/hands-on/761918/google-pixel-watch-4-hands-on-smartwatch-wearable-gemini",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257901_Made_by_Google_2025_AJohnson_0019.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-08-20T16:06:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDare I say it? Google has the wearable juice.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will be added to you\u2026 [+9538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "FDA Warns Public Not to Eat Frozen Shrimp That Could Be Radioactive",
+            "description": "The shrimp was sold at Walmart with a best-by date of March 2027.",
+            "url": "https://gizmodo.com/fda-warns-public-not-to-eat-frozen-shrimp-that-could-be-radioactive-2000645121",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/shrimp-plate-1200x675.jpg",
+            "publishedAt": "2025-08-19T19:45:28Z",
+            "content": "Food recalls and warnings happen every day. But the latest warning from the Food and Drug Administration about frozen shrimp is an odd one. That\u2019s because the health agency is concerned about possibl\u2026 [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Study: Sex Education in the U.S. Is a Complete Joke",
+            "description": "New research shows that most states are still requiring kids to be taught abstinence, while only a minority of states require medically accurate lessons.",
+            "url": "https://gizmodo.com/study-sex-education-in-the-u-s-is-a-complete-joke-2000648182",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/condoms-1200x675.jpg",
+            "publishedAt": "2025-08-26T15:40:16Z",
+            "content": "New research appears to confirm what\u2019s apparent to most anyone who\u2019s taken sex ed in school: it\u2019s largely terrible.\r\nScientists at Boston University led the study, which examined state laws and regul\u2026 [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "A \u2018Flesh-Eating\u2019 Germ Is on the Rise This Summer",
+            "description": "Several states have reported higher than normal cases of Vibrio vulnificus, a bacterium found in coastal waters.",
+            "url": "https://gizmodo.com/a-flesh-eating-germ-is-on-the-rise-this-summer-2000639077",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/vibriobacteria-1200x675.jpg",
+            "publishedAt": "2025-08-05T19:45:07Z",
+            "content": "A bacterial infection that can cause \u201cflesh-eating\u201d disease is becoming a bigger problem in the U.S.and climate change is at least partly to blame.\r\nSeveral states along the Gulf Coast and Eastern Se\u2026 [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "A Shocking Number of Kids Don\u2019t Play Outside",
+            "description": "An alarming percentage of children aren't spending any free time outdoors, even on weekends.",
+            "url": "https://gizmodo.com/a-shocking-number-of-kids-dont-play-outside-2000652776",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/emptyswing-1200x675.jpg",
+            "publishedAt": "2025-09-03T20:10:27Z",
+            "content": "For plenty of us grown-ups, the time spent running around our neighborhoods or hanging by the playground swings was a highlight of our childhood. Kids today often can\u2019t say the same, though. New rese\u2026 [+3678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOODTV.com"
+            },
+            "author": "Zach Avery",
+            "title": "Balloon festival unites Wayland, supports mental health",
+            "description": "The annual Wayland BalloonFest from nonprofit 4 One 2 Cares raises awareness for mental health issues affecting West Michigan through a weekend of community ...",
+            "url": "https://www.woodtv.com/westmichiganguide/balloon-festival-unites-wayland-supports-mental-health/",
+            "urlToImage": "https://media.zenfs.com/en/wood_articles_694/b204eace8437661fb20b6530bc0a7143",
+            "publishedAt": "2025-08-25T16:50:25Z",
+            "content": "LEIGHTON TOWNSHIP, Mich. (WOOD) On Sept. 5 and Sept 6, visitors to Calkins Field at the Wayland Municipal Airport north of Wayland can attend the fifth annual Wayland BalloonFest.\r\nIts been growing e\u2026 [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Bloomberg",
+            "title": "TPG's Africa Health Push Raised Whistleblower Complaints",
+            "description": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and ...",
+            "url": "https://finance.yahoo.com/video/tpgs-africa-health-push-raised-061220727.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.BpNlTxcTA2DVSbnDQ45dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/e390f98abac57e7589f833e4e953fb82",
+            "publishedAt": "2025-08-27T06:12:20Z",
+            "content": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and Pakistan on behalf of investors, including\u2026 [+339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Felice J. Freyer",
+            "title": "Amid growing 'scandal' of elder homelessness, health care groups aim to help",
+            "description": "The housing crisis is requiring creative scrambling and new partnerships from health care organizations to keep older patients out of expensive nursing homes as homelessness grows.",
+            "url": "https://www.npr.org/sections/shots-health-news/2025/08/16/nx-s1-5504068/homeless-older-americans-housing-pace-medicare-medicaid",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1199x674+0+133/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F7d%2Fd0f2849143718fad3dd188081ca3%2Felderhousing-01.jpg",
+            "publishedAt": "2025-08-16T11:00:00Z",
+            "content": "BRISTOL, R.I. At age 82, Roberta Rabinovitz realized she had no place to go. A widow, she had lost both her daughters to cancer, after living with one and then the other, nursing them until their dea\u2026 [+8359 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Torrence",
+            "title": "$5.3 billion Abridge wants to make acquisitions. Here's what the healthcare AI startup is looking for.",
+            "description": "Abridge is looking for acquisitions after raising $700 million in 18 months. Here's what the red-hot health AI startup wants in a deal.",
+            "url": "https://www.businessinsider.com/abridge-wants-to-buy-healthcare-ai-startups-2025-8",
+            "urlToImage": "https://i.insider.com/689b5fb4194a2d49b8ae6898?width=1200&format=jpeg",
+            "publishedAt": "2025-08-14T09:00:02Z",
+            "content": "Dr. Shiv Rao, Abridge CEO and cofounder.Abridge\r\n<ul><li>The red-hot healthcare AI startup Abridge is looking for deals.</li><li>Abridge has raised $700 million in the past 18 months and hit a $5.3 b\u2026 [+6565 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "White House AI czar David Sacks says 'AI psychosis' is similar to the 'moral panic' of social media's early days",
+            "description": "David Sacks, the White House AI czar, doesn't believe \"AI psychosis\" is real. But he does believe there's a mental health crisis in the country.",
+            "url": "https://www.businessinsider.com/david-sacks-ai-psychosis-social-media-moral-panic-safety-2025-8",
+            "urlToImage": "https://i.insider.com/68a26560cfc04e97619b8d2a?width=1200&format=jpeg",
+            "publishedAt": "2025-08-18T00:19:36Z",
+            "content": "David Sacks is a special advisor to the president on AI and crypto.The Washington Post/The Washington Post via Getty Images\r\n<ul><li>The White House AI advisor discussed \"AI psychosis\" on a recent po\u2026 [+2684 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Robert Pene",
+            "title": "I was surprised to see I had spent nearly $11,000 on DoorDash deliveries. I'm now cooking at home to save money.",
+            "description": "In 2024 I was ordering food around the clock. My health was not great and I decided to join a gym and start cooking instead.",
+            "url": "https://www.businessinsider.com/cut-doordash-deliveries-health-improved-saved-money-2025-8",
+            "urlToImage": "https://i.insider.com/6847003785e81483682bb2c1?width=1200&format=jpeg",
+            "publishedAt": "2025-08-05T14:14:01Z",
+            "content": "The author cut his spending on DoorDash and joined a gym to get healthier.Courtesy of the author\r\n<ul><li>I work from home in Southern California and would order food from DoorDash around the clock. \u2026 [+4225 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Torrence",
+            "title": "OpenAI taps Instagram and Doximity execs to lead its next AI healthcare push",
+            "description": "OpenAI wants to compete to sell directly to healthcare customers. It brought on digital health veteran Nate Gross to lead its commercial strategy.",
+            "url": "https://www.businessinsider.com/openai-taps-doximity-cofounder-to-lead-its-next-healthcare-push-2025-8",
+            "urlToImage": "https://i.insider.com/68aca240cfc04e97619bf7f9?width=1200&format=jpeg",
+            "publishedAt": "2025-08-26T09:00:01Z",
+            "content": "OpenAI CEO Sam Altman said older people tend to use ChatGPT as a \"Google replacement\" while college students use it like an operating system.Tomohiro Ohsumi via Getty Images\r\n<ul><li>OpenAI wants to \u2026 [+4562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "Pixel Watch 4 unveiled: A smarter, sleeker companion for health and fitness tracking",
+            "description": "The Pixel Watch 4 gets Google's ultimate AI, with a bigger screen and 40-plus exercise modes.",
+            "url": "https://www.androidcentral.com/wearables/google-pixel-watch/the-google-pixel-watch-4-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UoMn66K4534Tgghr2mtHSa.jpg",
+            "publishedAt": "2025-08-20T16:00:00Z",
+            "content": "What you need to know\r\n<ul><li>Google debuted the Pixel Watch 4 during its main event in NYC, detailing the device's thinner bezels and Actua 360 domed glass display.</li><li>The device boasts loads \u2026 [+5761 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Torrence",
+            "title": "Why health AI unicorn Innovaccer is making acquisitions and raising secondary rounds instead of chasing an IPO",
+            "description": "The health AI unicorn isn't planning to go public anytime soon. Instead, it's using cash from its recent $275 million fundraise to power acquisitions.",
+            "url": "https://www.businessinsider.com/innovaccer-buying-startups-raising-secondaries-instead-of-ipo-2025-8",
+            "urlToImage": "https://i.insider.com/68a374b9cfc04e97619b9621?width=1200&format=jpeg",
+            "publishedAt": "2025-08-21T09:00:02Z",
+            "content": "Innovaccer CEO Abhinav Shashank.Innovaccer\r\n<ul><li>Healthcare AI unicorn Innovaccer is planning to make two to three acquisitions in the coming months.</li><li>Innovaccer is 11 years old, but it's n\u2026 [+5510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "AirPods Pro 3 Said to Gain Two Health Sensors, But Translation Delayed",
+            "description": "Apple's upcoming AirPods Pro 3 will indeed feature in-ear temperature sensing as well as heart-rate sensing, but the rumored live translation feature is not ready for launch and will instead arrive in a later software update. That's according to an anonymous \u2026",
+            "url": "https://www.macrumors.com/2025/09/02/airpods-pro-3-health-sensors-no-translation/",
+            "urlToImage": "https://images.macrumors.com/t/SqAbb1el0sYFJ09YSsVD6Y3zFNM=/1920x/article-new/2025/06/AirPods-Pro-3-Thumb-2.jpg",
+            "publishedAt": "2025-09-02T11:40:54Z",
+            "content": "Apple's upcoming AirPods Pro 3 will indeed feature in-ear temperature sensing as well as heart-rate sensing, but the rumored live translation feature is not ready for launch and will instead arrive i\u2026 [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Children offered chickenpox vaccine on NHS",
+            "description": "All young children in England and Wales will be offered a free chickenpox vaccine by the NHS from January 2026.",
+            "url": "https://www.bbc.com/news/articles/c860n445vyxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1cdd/live/0a171f00-8421-11f0-8920-cb71bf7274c6.jpg",
+            "publishedAt": "2025-08-29T00:01:09Z",
+            "content": "Michelle RobertsDigital health editor, BBC News\r\nBaby Mia had a bad case of chickenpox, with a skin infection that needed hospital treatment\r\nAll young children in England and Wales will be offered a\u2026 [+4206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Our Brains Contain Lithium\u2014and Its Loss Might Help Drive Alzheimer\u2019s, Study Finds",
+            "description": "Harvard researchers have found evidence in mice and human brains that the element lithium could be key to a healthy brain.",
+            "url": "https://gizmodo.com/our-brains-contain-lithium-and-its-loss-might-help-drive-alzheimers-study-finds-2000639558",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/MRIs-1200x675.jpg",
+            "publishedAt": "2025-08-07T10:00:00Z",
+            "content": "Alzheimer\u2019s disease is one of the cruelest conditions a person can develop. And even with recent advances, there\u2019s only so much that can be done once its symptoms emerge. Research out this week might\u2026 [+4813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Pixel Watch 4 Hands-On: The Apple Watch Finally Has a Real Competitor",
+            "description": "We tried Google's new Pixel Watch 4 smartwatch, and Apple might need to stop resting on its laurels with the Apple Watch.",
+            "url": "https://gizmodo.com/pixel-watch-4-hands-on-the-apple-watch-finally-has-a-real-competitor-2000645519",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Google-Pixel-Phone-Watch-03-1200x675.jpg",
+            "publishedAt": "2025-08-20T16:00:40Z",
+            "content": "As if four Pixel 10 phones (including one foldable) weren\u2019t overwhelming for a single announcement at Google\u2019s Pixel launch event, the tech giant also introduced the Pixel Watch 4. The new smartwatch\u2026 [+4895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Missouri Man Dies After Water Skiing Leads to Brain-Eating Amoeba Infection",
+            "description": "While rare, Naegleria fowleri infections have a 98% mortality rate.",
+            "url": "https://gizmodo.com/missouri-man-dies-after-water-skiing-leads-to-brain-eating-amoeba-infection-2000646278",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/brain-amoeba-1200x675.jpg",
+            "publishedAt": "2025-08-21T17:55:40Z",
+            "content": "A Missouri man\u2019s lake outing has ended in tragedy. Local health officials announced this week that a resident died from a rare but nearly always fatal brain amoeba infection likely caught while water\u2026 [+2529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "People Are Now Seeing \u2018Zombie\u2019 Squirrels in Their Backyards",
+            "description": "Scary as squirrel fibroma virus looks, the animals usually recover and the infection isn't dangerous to people.",
+            "url": "https://gizmodo.com/people-are-now-seeing-zombie-squirrels-in-their-backyards-2000644281",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/squirrelpox-1200x675.jpg",
+            "publishedAt": "2025-08-18T16:35:30Z",
+            "content": "As if black-horned rabbits werent strange enough, people are now spotting zombie-like squirrels covered in odd, sometimes bleeding sores in their backyards and parks. These sickly squirrels aren\u2019t zo\u2026 [+2472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rising costs blamed for drop in pool temperatures",
+            "description": "New figures show that 15% of councils have reduced pool temperatures in the last five years.",
+            "url": "https://www.bbc.com/news/articles/c98l4pj5rv6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce76/live/83c71e10-7137-11f0-ae6e-5f40c3f99170.jpg",
+            "publishedAt": "2025-08-13T06:25:32Z",
+            "content": "Lauren Woodhead\r\nMore than one in seven councils have lowered swimming pool temperatures in the past five years, new figures have revealed.\r\nFreedom of Information (FOI) requests by the BBC found 15%\u2026 [+3523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rob Stein",
+            "title": "Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research",
+            "description": "The Trump administration cancelled about $500 million for research into mRNA vaccines. The move slows progress in using the technology to prevent a future pandemic or treat disease, experts say.",
+            "url": "https://www.npr.org/sections/shots-health-news/2025/08/06/nx-s1-5493544/rfk-defunding-mrna-vaccine-research",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fe8%2Fc56cb17d4c93969045d84923e696%2Fgettyimages-2151784824.jpg",
+            "publishedAt": "2025-08-06T19:18:08Z",
+            "content": "The Trump administration is cancelling almost $500 million in contracts to develop mRNA vaccines to protect the nation against future viral threats. The move thrilled critics of the technology but ho\u2026 [+4981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rhitu Chatterjee",
+            "title": "Children in a mental health crisis can spend days languishing in the ER",
+            "description": "A new study finds that nearly 1 in 10 kids on Medicaid visiting an emergency department for mental health care remain stuck there for days waiting for follow up psychiatric care.",
+            "url": "https://www.npr.org/sections/shots-health-news/2025/08/15/nx-s1-5502689/pediatric-mental-health-er-boarding-jama-health-forum",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4376x2462+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fde%2F04a487eb45fb99dc8682cc71c4e7%2Fgettyimages-1866981928.jpg",
+            "publishedAt": "2025-08-15T19:05:12Z",
+            "content": "Children who go to emergency departments in a mental health crisis and need to be hospitalized often end up stuck there for days, a new study finds. That happens in roughly one in ten of all mental h\u2026 [+3844 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jacob Shamsian",
+            "title": "Rupert Murdoch promises to give Trump 'regularly scheduled' health updates while staving off deposition",
+            "description": "The deal between Rupert Murdoch and Donald Trump came in a lawsuit the president filed over an article about his relationship with Jeffrey Epstein.",
+            "url": "https://www.businessinsider.com/rupert-murdoch-trump-health-updates-no-deposition-discovery-2025-8",
+            "urlToImage": "https://i.insider.com/68922dc585e81483682f4f18?width=1200&format=jpeg",
+            "publishedAt": "2025-08-05T16:35:55Z",
+            "content": "Donald Trump is suing Rupert Murdoch over a Wall Street Journal article about the president's past relationship with Jeffrey Epstein.REUTERS/Ken Cedeno; REUTERS/Elizabeth Frantz\r\n<ul><li>94-year-old \u2026 [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kim Schewitz",
+            "title": "Everything a doctor who studies gut health and colon cancer ate in 2 weeks",
+            "description": "Dr. Neelendu Dey, who researches how gut microbes could prevent colon cancer, is mostly plant-based but still enjoys his favorite foods.",
+            "url": "https://www.businessinsider.com/diet-doctor-how-gut-health-prevent-lowers-colon-cancer-risk-2025-8",
+            "urlToImage": "https://i.insider.com/68aebd20194a2d49b8af40df?width=1184&format=jpeg",
+            "publishedAt": "2025-08-27T09:05:42Z",
+            "content": "Dr. Neelendu Dey studies how gut microbes could prevent colon cancer.Neelendu Dey.\r\n<ul><li>What we eat can affect our gut health and colon cancer risk.</li><li>Dr. Neelendu Dey is a gastroenterologi\u2026 [+6030 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hilary Brueck",
+            "title": "A protein researcher shares his easy go-to breakfast for strong muscles and good health",
+            "description": "Breakfast is often a missed opportunity to consume more protein. One key ingredient can help.",
+            "url": "https://www.businessinsider.com/how-to-eat-more-protein-easy-breakfast-from-nutrition-expert-2025-8",
+            "urlToImage": "https://i.insider.com/689c9905cfc04e97619b532f?width=1200&format=jpeg",
+            "publishedAt": "2025-08-13T14:18:42Z",
+            "content": "Breakfast is often a missed opportunity to fuel your daily protein needs, Phillips said.Taras Grebinets/Getty Images\r\n<ul><li>A protein researcher who studies muscle-building says our protein craze i\u2026 [+4342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "UAE Adds Newborns To Major Genome Project",
+            "description": "Abu Dhabi is gathering the DNA of Emirati newborns in a significant expansion of a national genomic sequencing project that aims to put the UAE on the cutting-edge of health care. From a report: The UAE capital has so far mapped the genomes of 68% of Emirati \u2026",
+            "url": "https://news.slashdot.org/story/25/08/20/1948219/uae-adds-newborns-to-major-genome-project",
+            "urlToImage": "https://a.fsdn.com/sd/topics/news_64.png",
+            "publishedAt": "2025-08-20T20:05:00Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Why Donald Trump\u2019s environmental data purge is so much worse this time",
+            "description": "Now that we're about halfway into the first year of President Donald Trump's second term, we can take stock of his administration's destruction of online environmental resources. It's worse than last time. It's also, seemingly, just the beginning - paving the\u2026",
+            "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25531807/STK175_DONALD_TRUMP_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-08-08T23:25:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nResources on climate change and inequity have vanished, and disinformation is taking its place.\r\nResources on climate change and inequity have vanished, and disi\u2026 [+8603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "RFK Jr. pulls $500 million in funding for mRNA vaccine contracts",
+            "description": "The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu.",
+            "url": "https://www.npr.org/2025/08/05/nx-s1-5493550/rfk-jr-funding-mrna-vaccine-development",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4874x2742+0+254/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F3f%2F18ec19304a479ff140a705bf8a57%2Fap25211762797023.jpg",
+            "publishedAt": "2025-08-06T03:55:48Z",
+            "content": "WASHINGTON The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu.\r\nRober\u2026 [+3766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Katia Riddle",
+            "title": "Are weighted vests good for bones and muscle? Fact-checking a fitness trend",
+            "description": "It's a growing fitness trend. People say wearing a weighted vest when you exercise builds bones, strengthens muscles and improves cardiovascular health. But does research back up these claims?",
+            "url": "https://www.npr.org/2025/08/25/nx-s1-5503969/fitness-bone-muscle-trends-weighted-vest",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F6f%2F86389e954ec280cf96fce26e2f98%2Fnpr-8-22-2025.jpg",
+            "publishedAt": "2025-08-25T09:00:00Z",
+            "content": "It seems like you can't go anywhere without seeing someone wearing a weighted vest. They're at the gym, on hiking trails, in public parks and on social media feeds, where influencers claim wearing on\u2026 [+5591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rachel Treisman",
+            "title": "A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals",
+            "description": "Amanda Anisimova beat Naomi Osaka in the U.S. Open semifinals early Friday in a tense, three-set match. Both players have been climbing up the rankings after taking mental health breaks from the sport.",
+            "url": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2376x1337+0+123/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fd9%2F7cf219b64960844218dc62a8751f%2Fanisimova2-getty.jpg",
+            "publishedAt": "2025-09-04T17:38:55Z",
+            "content": "Two comeback stories collided on the tennis court Thursday night when American Amanda Anisimova and Naomi Osaka of Japan who was also raised in the U.S. played each other in the U.S. Open semifinals.\u2026 [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Kate Wells",
+            "title": "He built Michigan's Medicaid work requirement system. Now he's warning other states",
+            "description": "Michigan's health director spent a year and $30 million building a work requirements system for Medicaid. The problems he encountered have him worried now that 40 states must do the same by 2027.",
+            "url": "https://www.npr.org/sections/shots-health-news/2025/08/08/nx-s1-5493417/michigan-robert-gordon-medicaid-work-requirements",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2249+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F28%2F81af0c134ae3b1fb7cbf72b97417%2Fgettyimages-2218306345.jpg",
+            "publishedAt": "2025-08-08T13:43:05Z",
+            "content": "It was March 2020, and Robert Gordon was about to kick some 80,000 people off health insurance.\r\nAs the Michigan state health director, he had just spent the past year, and some $30 million in state \u2026 [+10426 chars]"
+        }
+    ]
+}
