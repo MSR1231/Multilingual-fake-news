@@ -10,11 +10,13 @@ import requests
 import json
 import pandas as pd
 import yaml
+import time
 
 def fetch_news(queries, api_key, page_size=100):
     """Fetch articles from NewsAPI for each query."""
     all_articles = []
     base_url = 'https://newsapi.org/v2/everything'
+    last_data = {}  # to store last successful response
 
     for term in queries:
         params = {
@@ -28,6 +30,7 @@ def fetch_news(queries, api_key, page_size=100):
             response = requests.get(base_url, params=params, timeout=30)
             response.raise_for_status()
             data = response.json()
+            last_data = data  # keep last successful response
         except requests.exceptions.Timeout:
             print(f"[!] Timeout while fetching '{term}'. Try again later.")
             continue
@@ -39,8 +42,16 @@ def fetch_news(queries, api_key, page_size=100):
             print(f"[!] No articles found for query '{term}'.")
             continue
 
+        # Save this query's raw JSON
+        json_path = os.path.join('data', 'raw_api_data', f"{term.replace(' ', '_')}.json")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4)
+        print(f"[+] Raw JSON saved for '{term}' -> {json_path}")
+
+        # Extract articles
+        query_articles = []
         for article in data['articles']:
-            all_articles.append({
+            query_articles.append({
                 'source': article.get('source', {}).get('name', ''),
                 'title': article.get('title', '') or '',
                 'description': article.get('description', '') or '',
@@ -50,7 +61,22 @@ def fetch_news(queries, api_key, page_size=100):
                 'query': term
             })
 
-    return all_articles, data
+        # Save this query's CSV
+        if query_articles:
+            df = pd.DataFrame(query_articles)
+            df.dropna(subset=['title', 'content'], inplace=True)
+            csv_path = os.path.join('data', 'raw_api_data', f"{term.replace(' ', '_')}.csv")
+            df.to_csv(csv_path, index=False)
+            print(f"[+] CSV saved for '{term}' -> {csv_path} with {len(df)} articles.")
+
+        # Add to combined list
+        all_articles.extend(query_articles)
+
+        # Respect NewsAPI rate limit (1 request/sec)
+        time.sleep(1)
+
+    return all_articles, last_data
+
 
 def main():
     # Ensure config.yaml exists
@@ -75,21 +101,16 @@ def main():
 
     articles, full_json = fetch_news(queries, api_key)
 
-    # Save raw JSON
-    json_path = os.path.join('data', 'raw_api_data', 'newsapi_data.json')
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(full_json, f, indent=4)
-    print(f"[+] Raw JSON saved to {json_path}")
-
-    # Save to CSV
+    # Save combined CSV
     if articles:
         df = pd.DataFrame(articles)
         df.dropna(subset=['title', 'content'], inplace=True)
-        csv_path = os.path.join('data', 'raw_api_data', 'newsapi_data.csv')
+        csv_path = os.path.join('data', 'raw_api_data', 'newsapi_combined.csv')
         df.to_csv(csv_path, index=False)
-        print(f"[+] CSV saved to {csv_path} with {len(df)} articles.")
+        print(f"[+] Combined CSV saved to {csv_path} with {len(df)} total articles.")
     else:
         print("[!] No articles fetched from NewsAPI.")
+
 
 if __name__ == "__main__":
     main()
