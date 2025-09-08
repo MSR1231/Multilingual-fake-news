@@ -141,6 +141,16 @@
     },
     {
         "source": "Fox News",
+        "title": "New AI apps help rental drivers avoid fake damage fees",
+        "description": "Rental car drivers use AI-powered apps like Proofr to protect themselves from unfair damage fees as major companies deploy automated inspection tools.",
+        "content": "Rental car drivers are now turning to artificial intelligence to protect themselves from surprise damage fees. Major companies, such as Hertz and Sixt, have begun using automated inspection tools to … [+5753 chars]",
+        "url": "https://www.foxnews.com/tech/new-ai-apps-help-rental-drivers-avoid-fake-damage-fees",
+        "publishedAt": "2025-09-06T16:33:44Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
+        "source": "Fox News",
         "title": "Jury duty phone scams on the rise as fraudsters impersonate local officials, threaten arrest",
         "description": "Fraudsters posing as local officials are making fake calls about missed jury duty, demanding payments in a rising scheme that exploits fear of arrest.",
         "content": "Scammers are constantly finding new ways to trick people. While older tactics like phishing emails and impersonating government agencies to steal credentials are becoming easier to spot, bad actors a… [+7749 chars]",
@@ -216,6 +226,16 @@
         "content": "A very strange video appearing to show large objects being thrown out of a window at the White House went viral over Labor Day weekend. President Donald Trump was asked about it during a press confer… [+5072 chars]",
         "url": "https://gizmodo.com/trump-blames-ai-for-weird-video-of-stuff-being-tossed-out-white-house-window-2000652191",
         "publishedAt": "2025-09-02T21:00:36Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "Nvidia Is Not Happy With the Gain AI Act, Says As Much",
+        "description": "It's no huge surprise that Nvidia, a Chinese corporation and currently the world's biggest company, would take aim at laws that might potentially restrict the competitiveness of foreign technology.",
+        "content": "In a move drawing considerable attention across the tech industry, Nvidia Corporation has publicly critiqued the recently proposed Gain AI Act, emphasizing its potential to stifle competition in the … [+5948 chars]",
+        "url": "https://gizmodo.com/nvidia-hates-the-gain-ai-act-2000654972",
+        "publishedAt": "2025-09-06T19:09:41Z",
         "query": "fake news",
         "language": "en"
     },
@@ -300,6 +320,16 @@
         "language": "en"
     },
     {
+        "source": "Yahoo Entertainment",
+        "title": "After largely ignoring suffering in Gaza, Israeli media start to report on Palestinian hardships",
+        "description": "The war in the Gaza Strip is starting to look different these days on the Israeli news.  For most of the past two years, television stations in Israel have...",
+        "content": "TEL AVIV, Israel (AP) The war in the Gaza Strip is starting to look different these days on the Israeli news.\r\nFor most of the past two years, television stations in Israel have paid little attention… [+5755 chars]",
+        "url": "https://www.yahoo.com/news/articles/largely-ignoring-suffering-gaza-israeli-040915521.html",
+        "publishedAt": "2025-09-07T04:09:15Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
         "source": "Daily Beast",
         "title": "Trump Melts Down Over Negative Coverage of Putin Summit Flop",
         "description": "President Donald Trump launched into a Sunday morning rage on the heels of negative media coverage around his flop summit with Russian President Vladimir...",
@@ -366,16 +396,6 @@
         "content": "Con-artist turned influencer Anna Delvey is seen posing for the photo shoot with the two bunnies that were found abandoned in a Brooklyn park.\r\nAnna Delvey — the fake heiress who scammed New Yorks el… [+3642 chars]",
         "url": "https://petapixel.com/2025/08/12/fake-heiress-accused-of-dumping-bunnies-in-new-york-park-after-photo-shoot/",
         "publishedAt": "2025-08-12T14:09:24Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "ABC News",
-        "title": "WATCH: Putin and Trump to meet 'in the coming days': Russia",
-        "description": "Russian President Vladimir Putin has agreed to meet with President Donald Trump, the Kremlin said. A date or location has yet to be announced. ABC News' Martha Raddatz reports.",
-        "content": "<ul><li>FBI granted request to locate fleeing Texas House Democrats, Sen. Cornyn says\r\n</li><li>United Airlines grounded flights nationwide amid tech issue\r\n</li><li>Trump's mass tariffs now in effec… [+4461 chars]",
-        "url": "https://abcnews.go.com/International/video/putin-trump-meet-coming-days-russia-124450784",
-        "publishedAt": "2025-08-07T15:40:42Z",
         "query": "fake news",
         "language": "en"
     },
@@ -460,16 +480,6 @@
         "language": "en"
     },
     {
-        "source": "24sight.news",
-        "title": "Prosecutor investigating alleged fake topless video of Indiana lawmaker's wife...",
-        "description": "Beckwith says no evidence of deepfake video shared in his office at Monday town hall meeting with staff member who, per sources, watched topless deepfake in April",
-        "content": "Support independent journalism, $5/month, $50/year. No billionaires, no bribes.\r\nThe Marion County prosecutors office in Indianapolis has begun interviewing people regarding a deepfake video of a sta… [+6089 chars]",
-        "url": "https://www.24sight.news/p/indy-prosecutor-probes-topless-deepfake",
-        "publishedAt": "2025-08-06T16:55:37Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
         "source": "Forbes",
         "title": "Google Confirms Gmail Data Breach Warning Is Fake News",
         "description": "Google slams viral data breach stories as \"misleading\" — what to know.",
@@ -486,6 +496,16 @@
         "content": "Nigeria has deported 102 foreign nationals, including 60 Chinese and 39 people from the Philippines, who were convicted of cyber-terrorism and internet fraud, according to the countrys anticorruption… [+1984 chars]",
         "url": "https://www.aljazeera.com/news/2025/8/22/nigeria-deports-60-chinese-39-filipino-convicted-in-crypto-romance-scams",
         "publishedAt": "2025-08-22T02:05:24Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
+        "source": "Merced Sun-Star",
+        "title": "Trump death rumors show how conspiracy theories take on a life of their own | Opinion",
+        "description": "“Wishful thinking satisfies our desire for things to make sense. Communities of gullible people reinforce outlandish ideas.”",
+        "content": "Conspiracy theories are everywhere. Before Labor Day, the internet buzzed with the rumor that President Donald Trump was dead. He proved his existence by showing up at a press conference, where he ca… [+3808 chars]",
+        "url": "https://www.mercedsunstar.com/opinion/article311973215.html",
+        "publishedAt": "2025-09-06T13:00:00Z",
         "query": "fake news",
         "language": "en"
     },
@@ -536,26 +556,6 @@
         "content": "Astronomy and space sciences have mostly avoided the fraudulent practices of paper mills and predatory journals, but that might be about to change, warn the authors of a new report that delves into t… [+6335 chars]",
         "url": "https://www.space.com/astronomy/is-astronomy-safe-from-organized-scientific-fraud",
         "publishedAt": "2025-08-11T10:00:00Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "Creative Bloq",
-        "title": "So, you think you can tell the difference between AI and reality?",
-        "description": "You're telling me those chickens were fake!?",
-        "content": "We all knew that AI-generated videos were coming, but I definitely wasn't prepared for how strikingly realistic these visuals are. In a recent viral video, YouTuber and Photoshop expert Madeline Sala… [+2160 chars]",
-        "url": "https://www.creativebloq.com/tech/phones-tablets/so-you-think-you-can-tell-the-difference-between-ai-and-reality",
-        "publishedAt": "2025-08-07T11:51:17Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "Internet",
-        "title": "Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams",
-        "description": "The malicious ad tech purveyor known as VexTrio Viper has been observed developing several malicious apps that have been published on Apple and Google's official app storefronts under the guise of seemingly useful applications.\nThese apps masquerade as VPNs, …",
-        "content": "The malicious ad tech purveyor known as VexTrio Viper has been observed developing several malicious apps that have been published on Apple and Google's official app storefronts under the guise of se… [+5453 chars]",
-        "url": "https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html",
-        "publishedAt": "2025-08-06T20:00:00Z",
         "query": "fake news",
         "language": "en"
     },
@@ -690,16 +690,6 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "82-year-old CEO grew a $7.8 billion fortune from company shares—now she’s selling stock to charity and signed Bill Gates’ pledge to give away 99%",
-        "description": "Epic Systems CEO Judy Faulkner pours profits from selling her nonvoting shares into charity. She also defies the Silicon Valley standard by having ‘Harry...",
-        "content": "<ul><li>The 82-year-old CEO of Epic Systems, Judy Faulkner, boasts a $7.8 billion fortune from owning 43% of the tech companyyet says shes never cashed a single share for herself. The silent generati… [+5573 chars]",
-        "url": "https://finance.yahoo.com/news/82-old-ceo-grew-7-160800344.html",
-        "publishedAt": "2025-08-19T16:08:00Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
         "source": "TechRadar",
         "title": "Hackers are distributing a fake PDF Editor loaded with TamperedChef credential stealing malware",
         "description": "Be careful when searching for PDF editors, many are fake despite being advertised on Google.",
@@ -710,12 +700,12 @@
         "language": "en"
     },
     {
-        "source": "CNN",
-        "title": "Researchers find oldest written claim that the Shroud of Turin was faked",
-        "description": "Fourteenth century documents reveal that a philosopher was casting doubt on the Shroud of Turin’s authenticity earlier than once thought, according to new...",
-        "content": "The Shroud of Turin a 14-foot-long linen cloth bearing an image of a crucified man has captivated people for centuries, stirring debate over whether the relic once wrapped the body of Jesus Christ.\r\n… [+7454 chars]",
-        "url": "https://www.cnn.com/2025/09/04/science/shroud-of-turin-oresme-philosopher",
-        "publishedAt": "2025-09-04T15:04:19Z",
+        "source": "Yahoo Entertainment",
+        "title": "82-year-old CEO grew a $7.8 billion fortune from company shares—now she’s selling stock to charity and signed Bill Gates’ pledge to give away 99%",
+        "description": "Epic Systems CEO Judy Faulkner pours profits from selling her nonvoting shares into charity. She also defies the Silicon Valley standard by having ‘Harry...",
+        "content": "<ul><li>The 82-year-old CEO of Epic Systems, Judy Faulkner, boasts a $7.8 billion fortune from owning 43% of the tech companyyet says shes never cashed a single share for herself. The silent generati… [+5573 chars]",
+        "url": "https://finance.yahoo.com/news/82-old-ceo-grew-7-160800344.html",
+        "publishedAt": "2025-08-19T16:08:00Z",
         "query": "fake news",
         "language": "en"
     },
@@ -730,12 +720,12 @@
         "language": "en"
     },
     {
-        "source": "ABC News",
-        "title": "WATCH: Dog owner captures golden retriever's 'uncanny human-like smile'",
-        "description": "Bowie the golden retriever is blessed with a “human-like” smile, which his owners say is \"right on the edge of adorable and a little uncanny.\"",
-        "content": "<ul><li>United Airlines grounded flights nationwide amid tech issue\r\n</li><li>Trump's mass tariffs now in effect, what they mean\r\n</li><li>Millions under air quality alerts as wildfires rage in Canad… [+4464 chars]",
-        "url": "https://abcnews.go.com/Lifestyle/video/dog-owner-captures-golden-retrievers-uncanny-human-smile-124441526",
-        "publishedAt": "2025-08-07T12:04:39Z",
+        "source": "CNN",
+        "title": "Researchers find oldest written claim that the Shroud of Turin was faked",
+        "description": "Fourteenth century documents reveal that a philosopher was casting doubt on the Shroud of Turin’s authenticity earlier than once thought, according to new...",
+        "content": "The Shroud of Turin a 14-foot-long linen cloth bearing an image of a crucified man has captivated people for centuries, stirring debate over whether the relic once wrapped the body of Jesus Christ.\r\n… [+7454 chars]",
+        "url": "https://www.cnn.com/2025/09/04/science/shroud-of-turin-oresme-philosopher",
+        "publishedAt": "2025-09-04T15:04:19Z",
         "query": "fake news",
         "language": "en"
     },
@@ -801,26 +791,6 @@
     },
     {
         "source": "ABC News",
-        "title": "WATCH: Salt-N-Pepa on how they want to be remembered",
-        "description": "The hip-hop group is set to be inducted into the Rock & Roll Hall of Fame this year.",
-        "content": "<ul><li>White House pushes back on claims that Trump and Putin are set to meet soon\r\n</li><li>Judge temporarily blocks further construction of 'Alligator Alcatraz'\r\n</li><li>Trump orders new census e… [+4458 chars]",
-        "url": "https://abcnews.go.com/Entertainment/video/salt-pepa-remembered-124452972",
-        "publishedAt": "2025-08-07T20:30:23Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "ABC News",
-        "title": "WATCH: Twin waterspouts swirl side by side off coast of northern Italy",
-        "description": "Breathtaking video captured the moment two twin waterspouts merged off the Po River Delta on Italy's north-eastern coast, driven by strong winds that hit the area.",
-        "content": "<ul><li>United Airlines grounded flights nationwide amid tech issue\r\n</li><li>Trump's mass tariffs now in effect, what they mean\r\n</li><li>Millions under air quality alerts as wildfires rage in Canad… [+4464 chars]",
-        "url": "https://abcnews.go.com/International/video/twin-waterspouts-swirl-side-side-off-coast-northern-124441434",
-        "publishedAt": "2025-08-07T12:06:23Z",
-        "query": "fake news",
-        "language": "en"
-    },
-    {
-        "source": "ABC News",
         "title": "WATCH: Suspect indicted in killing of Israeli Embassy staffers in Washington, D.C.",
         "description": "U.S. Attorney for the District of Columbia Jeanine Pirro spoke about prosecuting hate crimes at a press conference regarding the shooting of Israeli Embassy staffers in Washington, D.C., on May 21.",
         "content": "<ul><li>White House pushes back on claims that Trump and Putin are set to meet soon\r\n</li><li>Judge temporarily blocks further construction of 'Alligator Alcatraz'\r\n</li><li>Trump orders new census e… [+4458 chars]",
@@ -856,6 +826,16 @@
         "content": "<ul><li>Urgent investigation after shooter opens fire at Minnesota Catholic school\r\n</li><li>Minneapolis Mayor Jacob Frey shares latest on Minneapolis shooting aftermath\r\n</li><li>Local hero who race… [+4590 chars]",
         "url": "https://abcnews.go.com/US/video/witness-speaks-helping-minneapolis-shooting-victims-125065091",
         "publishedAt": "2025-08-28T15:48:49Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
+        "source": "ABC News",
+        "title": "WATCH: Salt-N-Pepa on how they want to be remembered",
+        "description": "The hip-hop group is set to be inducted into the Rock & Roll Hall of Fame this year.",
+        "content": "<ul><li>White House pushes back on claims that Trump and Putin are set to meet soon\r\n</li><li>Judge temporarily blocks further construction of 'Alligator Alcatraz'\r\n</li><li>Trump orders new census e… [+4458 chars]",
+        "url": "https://abcnews.go.com/Entertainment/video/salt-pepa-remembered-124452972",
+        "publishedAt": "2025-08-07T20:30:23Z",
         "query": "fake news",
         "language": "en"
     },
@@ -930,6 +910,16 @@
         "language": "en"
     },
     {
+        "source": "Fox News",
+        "title": "Delivery giant's data breach exposes 40,000 personal records",
+        "description": "OnTrac data breach between April 13-15, 2025, exposed personal information of over 40,000 people including Social Security numbers and medical records.",
+        "content": "Thousands of people have had their sensitive personal information exposed in a data breach at U.S. delivery company OnTrac. The breach occurred between April 13 and April 15, 2025, and impacted over … [+7616 chars]",
+        "url": "https://www.foxnews.com/tech/delivery-giants-data-breach-exposes-40000-personal-records",
+        "publishedAt": "2025-09-06T12:23:02Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
         "source": "Forbes",
         "title": "Satirical Posts On Facebook About Hurricane Erin Are Causing A Stir",
         "description": "Unfortunately, a portion of the evacuation news is entirely accurate. Hurricane Erin does pose a threat as it moves through the Caribbean and toward Puerto Rico.",
@@ -1000,22 +990,22 @@
         "language": "en"
     },
     {
+        "source": "Techdirt",
+        "title": "DHS Arrests Kilmar Abrego Garcia With Plans To Ship Him To Uganda, Because He Refused To Plead Guilty To Fake Human Trafficking Charges",
+        "description": "The man who never expected to be the public face of the Trump administration’s shotgun approach to deportation is, yet again, being given a set of untenable options and expected to pick one of them. And when he refused to accept the bad choice they gave him, …",
+        "content": "from the lose-lose-proposition dept\r\nThe man who never expected to be the public face of the Trump administration’s shotgun approach to deportation is, yet again, being given a set of untenable optio… [+4654 chars]",
+        "url": "https://www.techdirt.com/2025/08/25/dhs-arrests-kilmar-abrego-garcia-with-plans-to-ship-him-to-uganda-because-he-refused-to-plead-guilty-to-fake-human-trafficking-charges/",
+        "publishedAt": "2025-08-25T16:44:04Z",
+        "query": "fake news",
+        "language": "en"
+    },
+    {
         "source": "Gizmodo.com",
         "title": "Intel CEO Responds to Trump’s Threat",
         "description": "Intel’s chief executive says there is a lot of ‘misinformation’ circulating about his past.",
         "content": "Intel CEO Lip-Bu Tan has responded to President Donald Trumps call for his resignation over alleged conflicts of interest. In a memo sent to staff on Thursday, Tan said those concerns are based on “m… [+2317 chars]",
         "url": "https://gizmodo.com/intel-ceo-responds-to-trumps-threat-2000640849",
         "publishedAt": "2025-08-08T19:35:40Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "Inside the Biden Administration’s Unpublished Report on AI Safety",
-        "description": "The US government conducted a groundbreaking study on frontier models—and never published the results.",
-        "content": "At a computer security conference in Arlington, Virginia, last October, a few dozen AI researchers took part in a first-of-its-kind exercise in red teaming, or stress-testing a cutting-edge language … [+3360 chars]",
-        "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
-        "publishedAt": "2025-08-06T18:00:00Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1220,16 +1210,6 @@
         "language": "en"
     },
     {
-        "source": "Theregister.com",
-        "title": "Amnesty slams Elon Musk's X for 'central role' in fueling 2024 UK riots",
-        "description": "Human rights org calls for greater accountability and stronger enforcement of Online Safety Act\nAmnesty International claims Elon Musk's X platform \"played a central role\" in pushing the misinformation that stoked racially charged violence following last year…",
-        "content": "Amnesty International claims Elon Musk's X platform \"played a central role\" in pushing the misinformation that stoked racially charged violence following last year's Southport murders.\r\nSouthport, Me… [+5910 chars]",
-        "url": "https://www.theregister.com/2025/08/07/amnesty_x_uk_riots/",
-        "publishedAt": "2025-08-07T08:45:08Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
         "source": "Al Jazeera English",
         "title": "How false rumours of Trump’s untimely ‘death’ spread on social media",
         "description": "Amid speculation and misinformation about his health, President Donald Trump is well and playing golf.",
@@ -1291,21 +1271,21 @@
     },
     {
         "source": "Psychology Today",
-        "title": "'The Certainty Illusion' and Credible Psychology",
-        "description": "The credibility of science, including psychology, is under attack via misinformation. \"The Certainty Illusion\" provides tools to understand and face the tide of misinformation.",
-        "content": "The credibility of psychological science and clinical practice is at a low point. Expertise of any type is systematically denigrated by some governments, those who profit from spurious therapies, and… [+4879 chars]",
-        "url": "https://www.psychologytoday.com/us/blog/how-to-do-academia/202509/the-certainty-illusion-and-credible-psychology",
-        "publishedAt": "2025-09-04T17:15:56Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "Psychology Today",
         "title": "The End of the Word “Misinformation”?",
         "description": "NewsGuard rates the reliability of news sources globally. They retired the words “misinformation” and “disinformation” in favor of specific descriptions of problematic reports.",
         "content": "In todays fractured information ecosystem, one persons misinformation or disinformation is anothers truth. And in that ambiguity, bad actors win. So writes McKenzie Sadeghi of the online platform New… [+4464 chars]",
         "url": "https://www.psychologytoday.com/us/blog/misinformation-desk/202509/the-end-of-the-word-misinformation",
         "publishedAt": "2025-09-05T21:01:53Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Psychology Today",
+        "title": "'The Certainty Illusion' and Credible Psychology",
+        "description": "The credibility of science, including psychology, is under attack via misinformation. \"The Certainty Illusion\" provides tools to understand and face the tide of misinformation.",
+        "content": "The credibility of psychological science and clinical practice is at a low point. Expertise of any type is systematically denigrated by some governments, those who profit from spurious therapies, and… [+4879 chars]",
+        "url": "https://www.psychologytoday.com/us/blog/how-to-do-academia/202509/the-certainty-illusion-and-credible-psychology",
+        "publishedAt": "2025-09-04T17:15:56Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1401,16 +1381,6 @@
     },
     {
         "source": "Yahoo Entertainment",
-        "title": "Intel CEO responds after Trump calls for resignation",
-        "description": "President Trump on Thursday called for Intel CEO Lip-Bu Tan to resign.",
-        "content": "Intel (INTC) chief Lip-Bu Tan responded late Thursday, calling reports about his career \"misinformation.\" In a letter to staff, he said the company was engaging with the Trump administration.\r\nThere … [+4504 chars]",
-        "url": "https://finance.yahoo.com/news/intel-ceo-responds-after-trump-calls-for-resignation-122344026.html",
-        "publishedAt": "2025-08-07T12:23:44Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "Yahoo Entertainment",
         "title": "Tesla owner stunned after witnessing shocking act in broad daylight: 'Can't believe he actually did it in front of me'",
         "description": "Others were appalled.",
         "content": "A shocked Tesla Model 3 owner turned to Reddit after their electric vehicle's tire was slashed in plain sight.\r\n\"Can't believe he actually did it in front of me too,\" wrote the owner in the post to r… [+2080 chars]",
@@ -1446,16 +1416,6 @@
         "content": "The recent departure of high-level Centers for Disease Control and Prevention (CDC) officials has brought vaccine policy back into national headlines. Combined with the resurgence this year of measle… [+5322 chars]",
         "url": "https://www.psychologytoday.com/us/blog/fevered-mind/202507/how-the-anti-vaccine-movement-spreads-doubt-and-mistrust",
         "publishedAt": "2025-09-02T16:53:04Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "The Indian Express",
-        "title": "7 books that faced bans in India and why they were controversial",
-        "description": "The Jammu & Kashmir Home Department has banned 25 books on Kashmir, citing concerns over “secessionist content” and their alleged role in spreading misinformation, glorifying militancy, and undermining national sovereignty.",
-        "content": "The Jammu &amp; Kashmir Home Department has banned 25 books on Kashmir, citing concerns over secessionist content and their alleged role in spreading misinformation, glorifying militancy, and undermi… [+5541 chars]",
-        "url": "https://indianexpress.com/article/books-and-literature/7-banned-books-india-arundhati-roy-satanic-verses-rushdie-kashmir-10176274/",
-        "publishedAt": "2025-08-07T16:33:39Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1501,31 +1461,11 @@
     },
     {
         "source": "Forbes",
-        "title": "Feeding Misinformation: Why Food Literacy Is A Risk and A Solution",
-        "description": "Misinformation is changing how we eat, think, and trust. Food literacy is now a frontline defense, for health, the planet, and the future of business.",
-        "content": "CHICAGO, ILLINOIS - DECEMBER 11: In this photo illustration, food products manufactured by Mondelez and Coca-Cola are shown on December 11, 2024 in Chicago, Illinois. Both companies are among those n… [+8654 chars]",
-        "url": "https://www.forbes.com/sites/feliciajackson/2025/08/07/feeding-misinformation-why-food-literacy-is-a-risk-and-a-solution/",
-        "publishedAt": "2025-08-07T09:06:00Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "Forbes",
         "title": "Climate: Mr. President, Pacific Northwest Water Does NOT Flow To L.A.",
         "description": "In this week's Current Climate newsletter, correcting presidential misinformation on water; the Moon is going nuclear; Ford is developing next-generation EVs in Long Beach",
         "content": "Current Climate brings you the latest news about the business of sustainability every Monday. Sign up to get it in your inbox.\r\nTraditionally, U.S. Presidents try to be circumspect and accurate when … [+9329 chars]",
         "url": "https://www.forbes.com/sites/alanohnsman/2025/08/11/pacific-northwest-water-does-not-flow-to-la/",
         "publishedAt": "2025-08-11T12:15:00Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
-        "source": "Forbes",
-        "title": "WWE Consumer Pricing In 2026 Is Way Less Expensive Than You Think",
-        "description": "WWE signed a deal with ESPN DTC to air premium live events, and the $29.99 price point has been the subject of misinformation and overreaction.",
-        "content": "WWE will air on ESPN DTC in 2026 as part of a $1.6 billion deal.\r\nESPN\r\nWWE announced a five-year deal to air on ESPN DTC. But as WWEs already plum bank account continues to grow, some fans are worri… [+2752 chars]",
-        "url": "https://www.forbes.com/sites/alfredkonuwa/2025/08/06/wwe-consumer-pricing-in-2026-is-way-less-expensive-than-you-think/",
-        "publishedAt": "2025-08-06T21:42:39Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1566,6 +1506,16 @@
         "content": "Nearly two dozen people 60 and older attended an introductory AI class in August.Clark Hodgin for BI\r\nAmid the clanging sounds of construction from outside, some of New York City's most ambitious AI … [+9448 chars]",
         "url": "https://www.businessinsider.com/ai-class-retirement-aging-boomer-technology-hiring-chatgpt-gemini-2025-8",
         "publishedAt": "2025-08-24T08:05:02Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Merced Sun-Star",
+        "title": "Trump death rumors show how conspiracy theories take on a life of their own | Opinion",
+        "description": "“Wishful thinking satisfies our desire for things to make sense. Communities of gullible people reinforce outlandish ideas.”",
+        "content": "Conspiracy theories are everywhere. Before Labor Day, the internet buzzed with the rumor that President Donald Trump was dead. He proved his existence by showing up at a press conference, where he ca… [+3808 chars]",
+        "url": "https://www.mercedsunstar.com/opinion/article311973215.html",
+        "publishedAt": "2025-09-06T13:00:00Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1690,16 +1640,6 @@
         "language": "en"
     },
     {
-        "source": "ProPublica",
-        "title": "How the Rapid Spread of Misinformation Pushed Oregon Lawmakers to Kill the State’s Wildfire Risk Map",
-        "description": "by Rob Davis \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to receive our stories in your inbox every week.\n\n \n\n \n\n \n \n\n\n\n \nThis is how misinf…",
-        "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to receive our stories in your inbox every we… [+16175 chars]",
-        "url": "https://www.propublica.org/article/oregon-wildfire-risk-map-rural-homeowners",
-        "publishedAt": "2025-08-07T10:00:00Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
         "source": "Boredpanda.com",
         "title": "“What Do You Want Me To Do? Photosynthesis?”: 62 Science Memes Non-Science People Might Enjoy",
         "description": "The majority of material surrounding scientific topics is still quite stiff and dry—void of any humor. It’s because many believe that joking about science undermines its authority and legitimacy. However, some studies and science communicators are trying to p…",
@@ -1740,22 +1680,22 @@
         "language": "en"
     },
     {
-        "source": "Motorfinanceonline.com",
-        "title": "Why misinformation threatens the future of EVs",
-        "description": "A quiet information revolution is underway to empower drivers with the truth about electric vehicles — and close the gap between perception and progress...",
-        "content": "While headlines sow doubt about cost, range, and reliability, the real story of EVs is far more optimistic. Industry leaders are calling out the falsehoods and pushing facts to the forefront because … [+13351 chars]",
-        "url": "https://www.motorfinanceonline.com/features/why-misinformation-threatens-the-future-of-evs/",
-        "publishedAt": "2025-08-07T11:10:23Z",
-        "query": "misinformation",
-        "language": "en"
-    },
-    {
         "source": "RT",
         "title": "EU targeting Georgia with ‘lies, slander and misinformation’ – Tbilisi mayor",
         "description": "Brussels is punishing the country for refusing to fight Russia for Ukraine, Kakha Kaladze has said Read Full Article at RT.com",
         "content": "European Union officials are spreading “lies, slander and misinformation” to pressure Georgia, Tbilisi Mayor Kakha Kaladze asserted on Monday, saying the bloc had failed before in trying to draw the … [+2135 chars]",
         "url": "https://www.rt.com/russia/623573-georgia-eu-visa-blackmail/",
         "publishedAt": "2025-08-27T10:49:12Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Americanthinker.com",
+        "title": "Scottish Police Worry More About ‘Misinformation’ Than Child Prostitution",
+        "description": "In an interview with me, a local resident of Dundee has detailed the police disinterest that he encountered when reporting a profoundly concerning instance of child sexual exploitation that he had witnessed first-hand.\r\n\r\nThis stands in stark contras...",
+        "content": "In an interview with me, a local resident of Dundee has detailed the police disinterest that he encountered when reporting a profoundly concerning instance of child sexual exploitation that he had wi… [+6238 chars]",
+        "url": "https://www.americanthinker.com/articles/2025/09/scottish_police_worry_more_about_misinformation_than_child_prostitution.html",
+        "publishedAt": "2025-09-07T04:00:00Z",
         "query": "misinformation",
         "language": "en"
     },
@@ -1980,6 +1920,66 @@
         "language": "en"
     },
     {
+        "source": "Cracked.com",
+        "title": "Unauthorized A.I. Jon Stewart Bashes Trump, Representing Scary Future of Comedy",
+        "description": "A disturbing deepfake shows us where political satire is heading",
+        "content": "Its probably a good thing that I cant find a copy of the recent viral Jon Stewart clip to share especially since the video doesnt feature Jon Stewart at all.\r\narchive.is\r\nInstead, a creepy Polar Expr… [+2565 chars]",
+        "url": "https://www.cracked.com/article_47979_unauthorized-ai-jon-stewart-bashes-trump-representing-scary-future-of-comedy.html",
+        "publishedAt": "2025-08-21T17:30:00Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Windows Central",
+        "title": "Trump’s changing stance on Intel's \"conflicted\" CEO Lip-Bu Tan sparks talk of government stake in the chipmaker",
+        "description": "In a pivot, President Trump praises Intel CEO Lip-Bu Tan following their recent meeting, unveiling potential plans to acquire a stake in the chipmaker.",
+        "content": "A stake in Intel could soon be owned by the United States government. The Trump administration is reportedly considering purchasing part of the chipmaker following a meeting with Intel CEO Lip-Bu Tan… [+5402 chars]",
+        "url": "https://www.windowscentral.com/hardware/intel/trumps-changing-stance-on-intel-sparks-talk-of-government-stake",
+        "publishedAt": "2025-08-15T14:12:00Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Forbes",
+        "title": "Engineered Confusion: The $100 Million Threat To Business Integrity",
+        "description": "From ad budgets to supply chains, fossil-fueled disinformation is infiltrating business systems, rewriting policy, and creating systemic corporate risk.",
+        "content": "NEW YORK, NEW YORK - AUGUST 04: The Coney Island boardwalk stands mostly empty as Tropical Storm Isaias churns its way up the East Coast on on August 04, 2020 in New York City. The storm, which regai… [+11115 chars]",
+        "url": "https://www.forbes.com/sites/feliciajackson/2025/08/13/engineered-confusion-the-100-million-threat-to-business-integrity/",
+        "publishedAt": "2025-08-13T07:00:00Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Columbia Journalism Review",
+        "title": "What’s in a Hand?",
+        "description": "The White House press corps gets credit for not falling for misinformation about Trump’s health. But is it missing the story again?",
+        "content": "Sign up for The Media Today, CJRs daily newsletter.\r\nHow did you find out over the weekend that you were dead? It was Tuesday afternoon, and Fox News correspondent Peter Doocy was asking Donald Trump… [+5269 chars]",
+        "url": "https://www.cjr.org/analysis/trump-health-misinformation-hand-social-media.php",
+        "publishedAt": "2025-09-04T18:29:18Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Android Police",
+        "title": "8 apps I removed to finally break free from my phone",
+        "description": "These 8 apps were wrecking my focus. Here&#039;s what changed when I let them go",
+        "content": "I didnt realize how much control my phone had over me until I checked its built-in Digital Wellbeing tool.\r\nI noticed that what started as a quick scroll between tasks turned into hours lost in a blu… [+6988 chars]",
+        "url": "https://www.androidpolice.com/apps-i-deleted-take-back-control-of-phone/",
+        "publishedAt": "2025-08-09T16:32:10Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
+        "source": "Vanity Fair",
+        "title": "Reality Winner Served More Than Four Years in Prison for Leaking a Single Document on 2016 Russian Election Interference. This Is Why She Did It",
+        "description": "The whistleblower shares a detailed account of her motivations—from military PTSD to Donald Trump’s misinformation—for the first time, in this exclusive excerpt from her memoir, I Am Not Your Enemy.",
+        "content": "At the outset of 2017, I was 25 years old, living in Georgia, and excited about a new career.\r\nThe year ended with me in handcuffs and shackles. I would receive the longest federal prison sentence ev… [+4782 chars]",
+        "url": "https://www.vanityfair.com/news/story/reality-winner",
+        "publishedAt": "2025-09-04T13:25:42Z",
+        "query": "misinformation",
+        "language": "en"
+    },
+    {
         "source": "BBC News",
         "title": "Chris Mason: How Polanski's Green leadership could impact UK politics",
         "description": "Zack Polanski's landslide victory is the latest example of a shake up in the country's politics.",
@@ -2010,16 +2010,6 @@
         "language": "en"
     },
     {
-        "source": "Gizmodo.com",
-        "title": "“We Miss All the Trains to Get Rich”: The Real Story of Crypto and the Black Community",
-        "description": "I went to a journalism convention expecting to talk about AI and politics. Instead, a chance encounter with a 24-year-old leader revealed a devastating truth about who gets left behind.",
-        "content": "Ive been at the National Association of Black Journalists (NABJ) Annual Convention in Cleveland since August 6. I came expecting to hear about the state of our industry under Donald Trump’s second pr… [+6039 chars]",
-        "url": "https://gizmodo.com/we-miss-all-the-trains-to-get-rich-the-real-story-of-crypto-and-the-black-community-2000640036",
-        "publishedAt": "2025-08-07T15:23:51Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
         "source": "BBC News",
         "title": "Suranne Jones: Playing the prime minister 'changes your perception' of politics",
         "description": "Suranne Jones plays the Prime Minister whose husband is kidnapped in new political thriller, Hostage.",
@@ -2031,21 +2021,21 @@
     },
     {
         "source": "The Verge",
-        "title": "Florida man orders beautification of America after gold-plating the White House",
-        "description": "President Donald Trump signed a new executive order on Thursday to improve the “usability and aesthetics” of US government services by creating “first-class online and offline experiences for Americans.” “It is time to update the Government’s design language …",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nMake America Design Again.\r\nMake America Design Again.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author will be added to your daily email diges… [+2092 chars]",
-        "url": "https://www.theverge.com/news/764142/trump-executive-order-national-design-studio",
-        "publishedAt": "2025-08-22T08:35:35Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Intel will receive a $2 billion lifeline from SoftBank",
         "description": "SoftBank will invest $2 billion into Intel as the struggling chipmaker pulls back on spending and lays off thousands of workers. In an announcement, SoftBank CEO Masayoshi Son said the investment aligns with the firm’s belief that “advanced semiconductor manu…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nThe news comes amid reports of the US government taking a stake in Intel.\r\nby\r\nEmma Ro… [+2340 chars]",
         "url": "https://www.theverge.com/news/761259/intel-softbank-2-billion-investment",
         "publishedAt": "2025-08-19T12:44:27Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Florida man orders beautification of America after gold-plating the White House",
+        "description": "President Donald Trump signed a new executive order on Thursday to improve the “usability and aesthetics” of US government services by creating “first-class online and offline experiences for Americans.” “It is time to update the Government’s design language …",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMake America Design Again.\r\nMake America Design Again.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author will be added to your daily email diges… [+2092 chars]",
+        "url": "https://www.theverge.com/news/764142/trump-executive-order-national-design-studio",
+        "publishedAt": "2025-08-22T08:35:35Z",
         "query": "politics",
         "language": "en"
     },
@@ -2071,16 +2061,6 @@
     },
     {
         "source": "The Verge",
-        "title": "Ousted Democratic FTC commissioner can return (again) for now",
-        "description": "Rebecca Kelly Slaughter, the Democratic Federal Trade Commissioner fired by President Donald Trump without cause, can at least temporarily return to work while her legal case plays out. This happened once before when Slaughter briefly returned to her office m…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nRuling for the Trump administration would have to defy repeatedly preserved Supreme Court precedent, the court writes.\r\nRuling for the Trump administration would… [+2096 chars]",
-        "url": "https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated",
-        "publishedAt": "2025-09-02T23:19:51Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Trump is moving Space Command to Alabama",
         "description": "President Donald Trump is moving US Space Command’s headquarters from Colorado to Alabama, he announced during a press conference on Tuesday. The change reverses former President Joe Biden’s 2023 decision to leave it in Colorado Springs, where its temporary h…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nPoliticians from Alabama and Colorado have been battling over the headquarters for four years. \r\nPoliticians from Alabama and Colorado have been battling over th… [+2523 chars]",
@@ -2091,21 +2071,21 @@
     },
     {
         "source": "The Verge",
-        "title": "US demands cut of Nvidia sales in order to ship AI chips to China",
-        "description": "The Trump administration has ordered Nvidia and AMD to pay the federal government a 15 percent cut of their AI chip sales revenue to China, according to reports from The New York Times and The Financial Times. Nvidia CEO Jensen Huang reportedly reached an agr…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 15 percent commission could net the US government $2 billion per year, according to The New York Times.\r\nThe 15 percent commission could net the US governmen… [+3426 chars]",
-        "url": "https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china",
-        "publishedAt": "2025-08-11T14:54:48Z",
+        "title": "Ousted Democratic FTC commissioner can return (again) for now",
+        "description": "Rebecca Kelly Slaughter, the Democratic Federal Trade Commissioner fired by President Donald Trump without cause, can at least temporarily return to work while her legal case plays out. This happened once before when Slaughter briefly returned to her office m…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nRuling for the Trump administration would have to defy repeatedly preserved Supreme Court precedent, the court writes.\r\nRuling for the Trump administration would… [+2096 chars]",
+        "url": "https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated",
+        "publishedAt": "2025-09-02T23:19:51Z",
         "query": "politics",
         "language": "en"
     },
     {
         "source": "The Verge",
-        "title": "Senators are trying to force ISPs to block all foreign pirate sites",
-        "description": "Lawmakers have introduced a new bill aimed at countering “foreign piracy sites,” as reported earlier by TorrentFreak. The bill, called the Block Bad Electronic Art and Recording Distributors (Block BEARD) Act, would allow copyright holders to ask a federal co…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Block BEARD Act would allow copyright holders to make site-blocking requests in court.\r\nThe Block BEARD Act would allow copyright holders to make site-blocki… [+3505 chars]",
-        "url": "https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act",
-        "publishedAt": "2025-08-07T16:45:10Z",
+        "title": "US demands cut of Nvidia sales in order to ship AI chips to China",
+        "description": "The Trump administration has ordered Nvidia and AMD to pay the federal government a 15 percent cut of their AI chip sales revenue to China, according to reports from The New York Times and The Financial Times. Nvidia CEO Jensen Huang reportedly reached an agr…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 15 percent commission could net the US government $2 billion per year, according to The New York Times.\r\nThe 15 percent commission could net the US governmen… [+3426 chars]",
+        "url": "https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china",
+        "publishedAt": "2025-08-11T14:54:48Z",
         "query": "politics",
         "language": "en"
     },
@@ -2181,16 +2161,6 @@
     },
     {
         "source": "The Verge",
-        "title": "Apple announces $100 billion US manufacturing plan after pressure from Donald Trump",
-        "description": "Apple is putting another $100 billion toward expanding manufacturing in the US as the company responds to pressure from President Donald Trump to manufacture more of its products in the US. The move builds upon the company’s initial plan to invest $500 billio…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is trying to stave off Trumps threat by bringing iPhone and Watch cover glass production to the US.\r\nApple is trying to stave off Trumps threat by bringing… [+4015 chars]",
-        "url": "https://www.theverge.com/news/719929/apple-100-billion-investment-us-manufacturing-trump",
-        "publishedAt": "2025-08-06T21:07:49Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "PBS is slashing its budget in response to Trump’s attack on public media",
         "description": "Now that Congress has passed a bill that will defund the Corporation for Public Broadcasting, PBS is taking drastic measures to stay alive. In an email sent out to PBS station managers on Wednesday, PBS president and CEO Paula Kerger announced that the organi…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe broadcaster also plans to reduce its member station dues by $35 million.\r\nThe broadcaster also plans to reduce its member station dues by $35 million.\r\nby\r\nC… [+4512 chars]",
@@ -2216,6 +2186,16 @@
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe two controversial sites claim that the Online Safety Act infringes on their rights as American corporations.\r\nThe two controversial sites claim that the Onli… [+4787 chars]",
         "url": "https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom",
         "publishedAt": "2025-08-27T21:11:53Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Reform UK's new faces seek to share spotlight with Farage",
+        "description": "The party is keen to get away from the idea that it is a one-man-band, focused too much on its leader Nigel Farage.",
+        "content": "Joshua NevettPolitical reporter\r\nFor a party that makes a lot of noise in British politics, Reform UK has relatively few senior elected politicians.\r\nAnd one man, its leader Nigel Farage, who's a tru… [+6208 chars]",
+        "url": "https://www.bbc.com/news/articles/cgl1k744548o",
+        "publishedAt": "2025-09-07T00:15:41Z",
         "query": "politics",
         "language": "en"
     },
@@ -2361,21 +2341,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Anger in Italy over non-consensual photos of women shared online",
-        "description": "The My Wife Facebook group had 32,000 members before it was shut down for violating adult sexual exploitation policies.",
-        "content": "Facebook has removed an Italian group which saw men sharing intimate images of often unsuspecting women with thousands of people online.\r\nThe Mia Moglie group, which translates to My Wife in English,… [+2118 chars]",
-        "url": "https://www.bbc.com/news/articles/ce874j4ye3no",
-        "publishedAt": "2025-08-22T01:59:57Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "Nigel Farage urges PM to appoint Reform peers to House of Lords",
         "description": "Reform has four MPs in the House of Commons and controls ten councils in England, but currently has no peers.",
         "content": "Iain Watson\r\nReform UK leader Nigel Farage has called on the prime minister to allow him to appoint peers to the House of Lords. \r\nIn a letter to Sir Keir Starmer, Farage said he wanted \"the democrat… [+2379 chars]",
         "url": "https://www.bbc.com/news/articles/c8der86r6n0o",
         "publishedAt": "2025-08-15T03:25:03Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Anger in Italy over non-consensual photos of women shared online",
+        "description": "The My Wife Facebook group had 32,000 members before it was shut down for violating adult sexual exploitation policies.",
+        "content": "Facebook has removed an Italian group which saw men sharing intimate images of often unsuspecting women with thousands of people online.\r\nThe Mia Moglie group, which translates to My Wife in English,… [+2118 chars]",
+        "url": "https://www.bbc.com/news/articles/ce874j4ye3no",
+        "publishedAt": "2025-08-22T01:59:57Z",
         "query": "politics",
         "language": "en"
     },
@@ -2411,21 +2391,21 @@
     },
     {
         "source": "The Verge",
-        "title": "Why Donald Trump’s environmental data purge is so much worse this time",
-        "description": "Now that we're about halfway into the first year of President Donald Trump's second term, we can take stock of his administration's destruction of online environmental resources. It's worse than last time. It's also, seemingly, just the beginning - paving the…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nResources on climate change and inequity have vanished, and disinformation is taking its place.\r\nResources on climate change and inequity have vanished, and disi… [+8603 chars]",
-        "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
-        "publishedAt": "2025-08-08T23:25:48Z",
-        "query": "politics",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "What is Laura Loomer?",
         "description": "For the uninitiated, watching a Jeffrey Epstein truther such as Laura Loomer have such influence over the White House's decisions is nothing short of baffling. ABC News attributes \"the ouster of at least 15 individuals from Trump's second administration\" to L…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe most effective MAGA influencer happens to be the most shameless, IRL attention seeker of them all.\r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washi… [+8669 chars]",
         "url": "https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump",
         "publishedAt": "2025-08-08T13:51:24Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Why Donald Trump’s environmental data purge is so much worse this time",
+        "description": "Now that we're about halfway into the first year of President Donald Trump's second term, we can take stock of his administration's destruction of online environmental resources. It's worse than last time. It's also, seemingly, just the beginning - paving the…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nResources on climate change and inequity have vanished, and disinformation is taking its place.\r\nResources on climate change and inequity have vanished, and disi… [+8603 chars]",
+        "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
+        "publishedAt": "2025-08-08T23:25:48Z",
         "query": "politics",
         "language": "en"
     },
@@ -2496,6 +2476,16 @@
         "content": "<ul><li></li><li></li><li></li></ul>\r\nDigg has launched its new mobile apps for iOS and Android. I tried the new iOS app out, and its bare-bones but promising.\r\nDigg has launched its new mobile apps … [+4410 chars]",
         "url": "https://www.theverge.com/apps/763689/digg-mobile-ios-android-app-relaunch",
         "publishedAt": "2025-08-21T23:09:55Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "'They wanted to get rid of the worst of the worst': why do so many people want to work for ICE?",
+        "description": "The New York Times went to the Department of Homeland Security's \"ICE Career Expo\" in Texas, where prospective hires are being offered a $50,000 signing...",
+        "content": "The New York Times went to the Department of Homeland Security's \"ICE Career Expo\" in Texas, where prospective hires are being offered a $50,000 signing bonus, $60,000 in student loan reductions, and… [+260 chars]",
+        "url": "https://www.yahoo.com/news/videos/wanted-rid-worst-worst-why-202623619.html",
+        "publishedAt": "2025-09-05T20:26:23Z",
         "query": "politics",
         "language": "en"
     },
@@ -2676,6 +2666,16 @@
         "content": "As the Department of Homeland Security cashes a $175 billion check from Congress and ICE raids continue across the country, 21st century America’s answer to the brownshirts are hitting the ground run… [+3157 chars]",
         "url": "https://www.jezebel.com/ice-dhs-recruitment-uncle-sam",
         "publishedAt": "2025-08-08T11:22:21Z",
+        "query": "politics",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Reform conference shows party's growing ambition like never before",
+        "description": "The conference feels like that of a big party - but retains the insurgency vibe that the party is seeking to channel.",
+        "content": "Chris MasonPolitical editor\r\nThis is the most fascinating party conference I have ever been to.\r\nYes, I am an insufferable nerd: I have been coming to things like this for 20 years.\r\nI have been to L… [+3691 chars]",
+        "url": "https://www.bbc.com/news/articles/c62zdpke8kko",
+        "publishedAt": "2025-09-06T17:59:05Z",
         "query": "politics",
         "language": "en"
     },
@@ -3031,46 +3031,6 @@
     },
     {
         "source": "The Verge",
-        "title": "Samsung has launched its first Micro RGB TV with improved color accuracy",
-        "description": "First teased at CES 2025, Samsung has finally launched a TV featuring the company’s new Micro RGB backlight technology. The 115-inch TV is first launching in South Korea for over $32,000, according to SamMobile, but Samsung says it’s coming to the US next, fo…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 115-inch TV is debuting in South Korea for over $32,000, but Samsung plans to bring it to the US.\r\nThe 115-inch TV is debuting in South Korea for over $32,00… [+3698 chars]",
-        "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
-        "publishedAt": "2025-08-12T14:46:45Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
-        "title": "Meta is going to stuff Midjourney AI images into your feed",
-        "description": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta is partnering with Midjourney to license its aesthetic technology for models and products.\r\nMeta is partnering with Midjourney to license its aesthetic tech… [+2987 chars]",
-        "url": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
-        "publishedAt": "2025-08-22T21:07:04Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
-        "title": "Hisense’s 116-inch RGB MiniLED TV is now available for $30,000",
-        "description": "Following Samsung’s announcement of the company’s first Micro RGB TV yesterday, Hisense has finally revealed the price tag for its 4K TriChroma TV that uses similar technology and was first revealed at CES 2025. The 116-inch Hisense 116UX is available now fro…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nFirst announced at CES 2025, the TV could deliver more accurate colors using a new multicolor backlight technology.\r\nFirst announced at CES 2025, the TV could de… [+2208 chars]",
-        "url": "https://www.theverge.com/news/758201/hisense-rgb-miniled-tv-116ux-100ux-now-available",
-        "publishedAt": "2025-08-12T20:03:17Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
-        "title": "DJI’s first robovac features drone tech and a transparent design",
-        "description": "Following the reveal of its first 360-degree action camera a week ago, DJI has announced its first robot vacuum cleaner. The DJI Romo is available in three versions that are mostly differentiated by their appearance  — two use transparent shells to reveal the…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nLike DJIs recently announced drone and 360-degree camera, the Romo isnt launching in the US.\r\nLike DJIs recently announced drone and 360-degree camera, the Romo … [+4493 chars]",
-        "url": "https://www.theverge.com/news/754168/dji-romo-robot-vacuum",
-        "publishedAt": "2025-08-07T14:33:01Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "Apple’s plan for AI could make Siri the animated center of your smart home",
         "description": "Apple is developing a bunch of products and features to deliver its vision of AI, including multiple robots, a smart home display, and a revamped version of Siri with new technology powering it, according to an extensive report from Bloomberg. The company’s g…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest Apple AI rumor covers a Clippy-like AI assistant, robots, and security cameras for your smart home.\r\nThe latest Apple AI rumor covers a Clippy-like AI… [+3417 chars]",
@@ -3086,6 +3046,36 @@
         "content": "<ul><li></li><li></li><li></li></ul>\r\nSimulated vroom vroom to impress your date.\r\nSimulated vroom vroom to impress your date.\r\nby\r\nThomas RickerClose\r\nThomas Ricker\r\nPosts from this author will be a… [+3426 chars]",
         "url": "https://www.theverge.com/news/772274/honda-prelude-fake-shifting-sound-hyrbid",
         "publishedAt": "2025-09-05T09:03:58Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Samsung has launched its first Micro RGB TV with improved color accuracy",
+        "description": "First teased at CES 2025, Samsung has finally launched a TV featuring the company’s new Micro RGB backlight technology. The 115-inch TV is first launching in South Korea for over $32,000, according to SamMobile, but Samsung says it’s coming to the US next, fo…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 115-inch TV is debuting in South Korea for over $32,000, but Samsung plans to bring it to the US.\r\nThe 115-inch TV is debuting in South Korea for over $32,00… [+3698 chars]",
+        "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
+        "publishedAt": "2025-08-12T14:46:45Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Hisense’s 116-inch RGB MiniLED TV is now available for $30,000",
+        "description": "Following Samsung’s announcement of the company’s first Micro RGB TV yesterday, Hisense has finally revealed the price tag for its 4K TriChroma TV that uses similar technology and was first revealed at CES 2025. The 116-inch Hisense 116UX is available now fro…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nFirst announced at CES 2025, the TV could deliver more accurate colors using a new multicolor backlight technology.\r\nFirst announced at CES 2025, the TV could de… [+2208 chars]",
+        "url": "https://www.theverge.com/news/758201/hisense-rgb-miniled-tv-116ux-100ux-now-available",
+        "publishedAt": "2025-08-12T20:03:17Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
+        "title": "Meta is going to stuff Midjourney AI images into your feed",
+        "description": "Meta is partnering with Midjourney to “license their aesthetic technology” for use in its own models and products, Meta’s new chief AI officer, Alexandr Wang, announced on Friday. The partnership involves a “technical collaboration between our research teams,…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta is partnering with Midjourney to license its aesthetic technology for models and products.\r\nMeta is partnering with Midjourney to license its aesthetic tech… [+2987 chars]",
+        "url": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
+        "publishedAt": "2025-08-22T21:07:04Z",
         "query": "technology",
         "language": "en"
     },
@@ -3110,6 +3100,16 @@
         "language": "en"
     },
     {
+        "source": "Gizmodo.com",
+        "title": "Nvidia Is Not Happy With the Gain AI Act, Says As Much",
+        "description": "It's no huge surprise that Nvidia, a Chinese corporation and currently the world's biggest company, would take aim at laws that might potentially restrict the competitiveness of foreign technology.",
+        "content": "In a move drawing considerable attention across the tech industry, Nvidia Corporation has publicly critiqued the recently proposed Gain AI Act, emphasizing its potential to stifle competition in the … [+5948 chars]",
+        "url": "https://gizmodo.com/nvidia-hates-the-gain-ai-act-2000654972",
+        "publishedAt": "2025-09-06T19:09:41Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
         "source": "MacRumors",
         "title": "Apple Releases Safari Technology Preview 227 With Bug Fixes and Performance Improvements",
         "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S…",
@@ -3126,16 +3126,6 @@
         "content": "The initial adoption of new technology follows a regular pattern.\r\nThe first group are hobbyists, people looking for a fascinating way to spend time. But that’s a small group–ham radio operators, for… [+808 chars]",
         "url": "https://seths.blog/2025/08/after-the-shortcuts/",
         "publishedAt": "2025-08-12T09:03:00Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "The Tech That Keeps Planes Flying for Ultra-Long-Haul Flights",
-        "description": "Wide wingspans, more powerful engines, and high-efficiency materials are making super long flights more possible than ever.",
-        "content": "The increased wingspan is one reason the A350-900 can fly from New York to Singaporethe longest flight in the worldwith just two engines. Another crucial factor is that, over the last 30 years, aircr… [+3839 chars]",
-        "url": "https://www.wired.com/story/tech-necessary-for-long-haul-flghts/",
-        "publishedAt": "2025-08-06T13:00:00Z",
         "query": "technology",
         "language": "en"
     },
@@ -3231,21 +3221,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "ARM’s New Neural Upscaler Could Finally Make Gaming on Phones Exciting Again",
-        "description": "Maybe we'll finally see bigger games play well on smartphones.",
-        "content": "Todays PCs dont have to be so powerful to get strong performance out of games, and its mostly due to occasionally derided but increasingly ubiquitous AI upscaling. For those of us who dream of their … [+4813 chars]",
-        "url": "https://gizmodo.com/arms-new-neural-upscaler-could-finally-make-gaming-on-phones-exciting-again-2000641838",
-        "publishedAt": "2025-08-12T13:27:35Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is",
         "description": "Recent polls have shown at least 60% of people asked—sometimes as many as 90%—have absolutely no idea what crypto is or how it works but would definitely not put their own money in it.",
         "content": "Blockchain-based lender Figure Technology Solutions has officially filed for an initial public offering, marking another move by crypto-related firms seeking a slice of the trillion-dollar machine of… [+4110 chars]",
         "url": "https://gizmodo.com/figure-ipo-crypto-2000644738",
         "publishedAt": "2025-08-18T23:50:36Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "ARM’s New Neural Upscaler Could Finally Make Gaming on Phones Exciting Again",
+        "description": "Maybe we'll finally see bigger games play well on smartphones.",
+        "content": "Todays PCs dont have to be so powerful to get strong performance out of games, and its mostly due to occasionally derided but increasingly ubiquitous AI upscaling. For those of us who dream of their … [+4813 chars]",
+        "url": "https://gizmodo.com/arms-new-neural-upscaler-could-finally-make-gaming-on-phones-exciting-again-2000641838",
+        "publishedAt": "2025-08-12T13:27:35Z",
         "query": "technology",
         "language": "en"
     },
@@ -3256,16 +3246,6 @@
         "content": "Hear the difference between Sarah's old robotic voice and her new AI-generated one\r\n\"After such a long time, I couldn't really remember my voice,\" Sarah Ezekiel tells BBC Access All. \"When I first he… [+6657 chars]",
         "url": "https://www.bbc.com/news/articles/c1ejvxne7elo",
         "publishedAt": "2025-08-20T04:51:38Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "Want a Different Kind of Work Trip? Try a Robot Hotel",
-        "description": "At Japan’s Henn na Hotels droids pretty much run the show, from greeting you at the door to adjusting the temperature.",
-        "content": "The decision to employ robots across Henn nas portfolio is made on a case-by-case basis depending upon location and market conditions, according to spokeswoman Mami Matsumoto.\r\nGenerally, Henn nas ro… [+2748 chars]",
-        "url": "https://www.wired.com/story/inside-japan-henn-na-robot-hotel/",
-        "publishedAt": "2025-08-06T13:00:00Z",
         "query": "technology",
         "language": "en"
     },
@@ -3346,16 +3326,6 @@
         "content": "States are increasingly clamping down on how tech companies digitally scan and analyze our most sensitive and potentially lucrative commodity: the faces, eyeballs and other \"biometric\" data of millio… [+7054 chars]",
         "url": "https://www.npr.org/2025/08/28/nx-s1-5519756/biometrics-facial-recognition-laws-privacy",
         "publishedAt": "2025-08-28T17:23:08Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
-        "title": "Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research",
-        "description": "The Trump administration cancelled about $500 million for research into mRNA vaccines. The move slows progress in using the technology to prevent a future pandemic or treat disease, experts say.",
-        "content": "The Trump administration is cancelling almost $500 million in contracts to develop mRNA vaccines to protect the nation against future viral threats. The move thrilled critics of the technology but ho… [+4981 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/08/06/nx-s1-5493544/rfk-defunding-mrna-vaccine-research",
-        "publishedAt": "2025-08-06T19:18:08Z",
         "query": "technology",
         "language": "en"
     },
@@ -3441,16 +3411,6 @@
     },
     {
         "source": "Seths.blog",
-        "title": "Brittle systems",
-        "description": "Large organizations are purpose-built to do what they do, under prevailing conditions. People are hired, assets are acquired, measurements are put in place–all to optimize what’s happening right here and right now. In 1929, 200 million telegrams were sent. Th…",
-        "content": "Large organizations are purpose-built to do what they do, under prevailing conditions.\r\nPeople are hired, assets are acquired, measurements are put in place–all to optimize what’s happening right her… [+1398 chars]",
-        "url": "https://seths.blog/2025/08/brittle-systems/",
-        "publishedAt": "2025-08-30T09:03:00Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Seths.blog",
         "title": "Job churn",
         "description": "Since I was born, humans have created 6 billion jobs. All while technology relentlessly disrupts existing industries. The pin making machine replaced the hand-crafted pin. The ox-pulled plow replaced millions of hours of backbreaking work. The amplification a…",
         "content": "Since I was born, humans have created 6 billion jobs.\r\nAll while technology relentlessly disrupts existing industries.\r\nThe pin making machine replaced the hand-crafted pin.\r\nThe ox-pulled plow repla… [+2118 chars]",
@@ -3460,12 +3420,12 @@
         "language": "en"
     },
     {
-        "source": "ABC News",
-        "title": "United Airlines grounds flights nationwide over technology issue",
-        "description": "United Airlines has grounded flights nationwide on Wednesday night due to an issue with its weight and balance computer system.",
-        "content": "United Airlines has grounded flights nationwide on Wednesday night due to an issue with its weight and balance computer system, according to the airline.\r\n\"Due to a technology issue, we are holding U… [+710 chars]",
-        "url": "https://abcnews.go.com/US/united-airlines-grounds-flights-nationwide-technology-issue/story?id=124433330",
-        "publishedAt": "2025-08-07T00:50:45Z",
+        "source": "Seths.blog",
+        "title": "Brittle systems",
+        "description": "Large organizations are purpose-built to do what they do, under prevailing conditions. People are hired, assets are acquired, measurements are put in place–all to optimize what’s happening right here and right now. In 1929, 200 million telegrams were sent. Th…",
+        "content": "Large organizations are purpose-built to do what they do, under prevailing conditions.\r\nPeople are hired, assets are acquired, measurements are put in place–all to optimize what’s happening right her… [+1398 chars]",
+        "url": "https://seths.blog/2025/08/brittle-systems/",
+        "publishedAt": "2025-08-30T09:03:00Z",
         "query": "technology",
         "language": "en"
     },
@@ -3476,6 +3436,16 @@
         "content": "The companies operating in the Zacks Oil-Energy sector present a strong long-term investment case, supported by vast shale reserves, advanced extraction methods, and resilient global energy demand. B… [+6803 chars]",
         "url": "https://finance.yahoo.com/news/oxy-vs-fang-oil-energy-154700938.html",
         "publishedAt": "2025-08-29T15:47:00Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Hopefulmons.com",
+        "title": "We Rarely Lose Technology (2023)",
+        "description": "There are few forgotten inventions, and none that we might truly care about ",
+        "content": "A common trope in the land of fantasy fiction and games is that of lost technology. The hero stumbles upon some ancient ruins, and then finds an ancient weapon, or an ancient vehicle, or an ancient i… [+23548 chars]",
+        "url": "https://www.hopefulmons.com/p/we-rarely-lose-technology",
+        "publishedAt": "2025-09-04T18:18:27Z",
         "query": "technology",
         "language": "en"
     },
@@ -3491,16 +3461,6 @@
     },
     {
         "source": "Wired",
-        "title": "Sena S1 Smart Cycling Helmet Review: Listen to Everything",
-        "description": "Sena's S1 smart cycling helmet with a mesh intercom system kept me sane on the world's most boring century ride.",
-        "content": "One of the most important senses we have as bike riders is our hearing. Whether you're in a group ride, where other riders are calling out road and traffic hazards, or alone, to keep ears out for veh… [+2321 chars]",
-        "url": "https://www.wired.com/review/sena-s1-smart-cycling-helmet/",
-        "publishedAt": "2025-08-10T12:30:00Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
         "title": "How Does an Electric Bicycle Work? (2025)",
         "description": "Short answer: There’s a drivetrain on it! We go over the battery, sensors, and other components that make your electric bicycle go.",
         "content": "An electric bicycleit's a regular bicycle, but with a motor on it! There are enough moving pieces on these personal mobility vehicles to make buying one confusing. Even if you're pretty sure you know… [+2229 chars]",
@@ -3510,12 +3470,12 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "Reactions to Trump demanding Intel CEO's resignation",
-        "description": "Tan has invested in hundreds of Chinese technology firms, including at least eight with links to the People's Liberation Army, Reuters reported in April.  On...",
-        "content": "(Reuters) -U.S. President Donald Trump has demanded the immediate resignation of Intel CEO Lip-Bu Tan over concerns of his extensive investments in Chinese firms, just months after he assumed leaders… [+3191 chars]",
-        "url": "https://finance.yahoo.com/news/reactions-trump-demanding-intel-ceos-145923144.html",
-        "publishedAt": "2025-08-07T14:59:23Z",
+        "source": "Wired",
+        "title": "Sena S1 Smart Cycling Helmet Review: Listen to Everything",
+        "description": "Sena's S1 smart cycling helmet with a mesh intercom system kept me sane on the world's most boring century ride.",
+        "content": "One of the most important senses we have as bike riders is our hearing. Whether you're in a group ride, where other riders are calling out road and traffic hazards, or alone, to keep ears out for veh… [+2321 chars]",
+        "url": "https://www.wired.com/review/sena-s1-smart-cycling-helmet/",
+        "publishedAt": "2025-08-10T12:30:00Z",
         "query": "technology",
         "language": "en"
     },
@@ -3730,6 +3690,16 @@
         "language": "en"
     },
     {
+        "source": "Fox News",
+        "title": "Fox News AI Newsletter: Melania Trump puts AI front and center",
+        "description": "Fox News' AI newsletter brings you the latest on technology advancements around artificial intelligence.",
+        "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Google CEO, major tech leaders join first lady Melania Trump at White Hous… [+2828 chars]",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-melania-trump-puts-ai-front-center",
+        "publishedAt": "2025-09-06T12:30:11Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
         "source": "BBC News",
         "title": "Serious offenders to be kept in restricted zones under plans",
         "description": "Ministers hope the legislation will give victims of crime more peace of mind.",
@@ -3746,6 +3716,16 @@
         "content": "<ul><li></li><li></li><li></li></ul>\r\nAlien: Earth is a brilliant and terrifying expansion of the franchise\r\nFXs new Alien spinoff series is bursting with ideas about what really makes an apex predat… [+8597 chars]",
         "url": "https://www.theverge.com/tv-reviews/719173/alien-earth-review",
         "publishedAt": "2025-08-12T13:16:07Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’",
+        "description": "\"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad.\"",
+        "content": "<ul><li>Computer scientist and Nobel laureate Geoffrey Hinton predicted artificial intelligence will spark a surge in unemployment and profits as companies replace workers with AI. But it’s not the t… [+4364 chars]",
+        "url": "https://www.yahoo.com/news/articles/godfather-ai-says-technology-create-192740371.html",
+        "publishedAt": "2025-09-06T19:27:40Z",
         "query": "technology",
         "language": "en"
     },
@@ -3851,31 +3831,11 @@
     },
     {
         "source": "Wired",
-        "title": "Inside the Biden Administration’s Unpublished Report on AI Safety",
-        "description": "The US government conducted a groundbreaking study on frontier models—and never published the results.",
-        "content": "At a computer security conference in Arlington, Virginia, last October, a few dozen AI researchers took part in a first-of-its-kind exercise in red teaming, or stress-testing a cutting-edge language … [+3360 chars]",
-        "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
-        "publishedAt": "2025-08-06T18:00:00Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
         "title": "The Plan to Turn the Caribbean’s Glut of Sargassum Into Biofuel",
         "description": "With record-breaking quantities of the seaweed set to hit Mexico’s beaches, experts propose converting it into biogas and construction materials, as well as using it to underwrite carbon credits.",
         "content": "Esteban Amaro, director of the Quintana Roo Sargassum Monitoring Network, agrees that fuel is the best product to focus on. Processing the seaweed into other consumer products is possible, but inadvi… [+2981 chars]",
         "url": "https://www.wired.com/story/there-is-more-sargassum-than-ever-in-the-caribbean-and-they-want-to-turn-it-into-energy/",
         "publishedAt": "2025-08-18T09:00:00Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
-        "title": "Trump demands CEO of Intel resign over ties to China",
-        "description": "President Donald Trump has called for Lip-Bu Tan to immediately resign as Intel’s CEO over his reported ties to Chinese tech firms. The demand follows Arkansas Senator Tom Cotton questioning Intel’s board chairman whether Tan’s alleged connections to China wo…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThere is no other solution to this problem.\r\nThere is no other solution to this problem.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author will … [+2622 chars]",
-        "url": "https://www.theverge.com/news/754269/trump-intel-ceo-lip-bu-tan-china",
-        "publishedAt": "2025-08-07T14:25:28Z",
         "query": "technology",
         "language": "en"
     },
@@ -3901,6 +3861,16 @@
     },
     {
         "source": "The Verge",
+        "title": "Mini Ikea stores will be opening inside select Best Buy locations this year",
+        "description": "Ikea has announced that it’s opening mini retail experiences in a handful of Best Buy stores in the southern US later this year. It’s the first time Ikea’s products and services will be available through another US retailer, saving shoppers from having to vis…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the first time Ikeas products will be sold through another retailer in the US.\r\nIts the first time Ikeas products will be sold through another retailer in th… [+2902 chars]",
+        "url": "https://www.theverge.com/news/756868/ikea-retail-experience-best-buy",
+        "publishedAt": "2025-08-08T16:54:41Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "The Verge",
         "title": "Sam Altman says ‘yes,’ AI is in a bubble",
         "description": "As economists speculate whether the stock market is in an AI bubble that could soon burst, OpenAI CEO Sam Altman has just admitted to believing we're in one. \"Are we in a phase where investors as a whole are overexcited about AI?\" Altman said during a lengthy…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen bubbles happen, smart people get overexcited about a kernel of truth.\r\nWhen bubbles happen, smart people get overexcited about a kernel of truth.\r\nby\r\nEmma … [+2734 chars]",
@@ -3921,11 +3891,11 @@
     },
     {
         "source": "The Verge",
-        "title": "Mini Ikea stores will be opening inside select Best Buy locations this year",
-        "description": "Ikea has announced that it’s opening mini retail experiences in a handful of Best Buy stores in the southern US later this year. It’s the first time Ikea’s products and services will be available through another US retailer, saving shoppers from having to vis…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the first time Ikeas products will be sold through another retailer in the US.\r\nIts the first time Ikeas products will be sold through another retailer in th… [+2902 chars]",
-        "url": "https://www.theverge.com/news/756868/ikea-retail-experience-best-buy",
-        "publishedAt": "2025-08-08T16:54:41Z",
+        "title": "Roblox experiences are getting ESRB age ratings",
+        "description": "Roblox is going to start showing ESRB ratings alongside experiences to help users in the US better understand if an experience is appropriate for a user of a certain age. The new ratings will appear thanks to Roblox’s new partnership with the International Ag…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAll users who use Robloxs communication features are also going to have to have their age estimated by the platform.\r\nAll users who use Robloxs communication fea… [+2926 chars]",
+        "url": "https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation",
+        "publishedAt": "2025-09-03T16:43:32Z",
         "query": "technology",
         "language": "en"
     },
@@ -3941,11 +3911,11 @@
     },
     {
         "source": "The Verge",
-        "title": "Roblox experiences are getting ESRB age ratings",
-        "description": "Roblox is going to start showing ESRB ratings alongside experiences to help users in the US better understand if an experience is appropriate for a user of a certain age. The new ratings will appear thanks to Roblox’s new partnership with the International Ag…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nAll users who use Robloxs communication features are also going to have to have their age estimated by the platform.\r\nAll users who use Robloxs communication fea… [+2926 chars]",
-        "url": "https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation",
-        "publishedAt": "2025-09-03T16:43:32Z",
+        "title": "Roblox is locking down sexual content and access to ‘adult’ locations after lawsuits",
+        "description": "Roblox is updating its policies prohibiting romantic or sexual content to also forbid “content, settings, or behavior that implies sexual activity,” according to a Friday post from chief safety officer Matt Kaufman (emphasis Kaufman’s). The changes follow rec…",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nExperiences with content that implies sexual activity are banned, while virtual bars and nightclubs are being restricted to ID-verified players over 17.\r\nExperie… [+3326 chars]",
+        "url": "https://www.theverge.com/news/760805/roblox-sexual-content-lawsuit-age-verification",
+        "publishedAt": "2025-08-18T17:56:59Z",
         "query": "technology",
         "language": "en"
     },
@@ -3961,21 +3931,51 @@
     },
     {
         "source": "The Verge",
-        "title": "Roblox is locking down sexual content and access to ‘adult’ locations after lawsuits",
-        "description": "Roblox is updating its policies prohibiting romantic or sexual content to also forbid “content, settings, or behavior that implies sexual activity,” according to a Friday post from chief safety officer Matt Kaufman (emphasis Kaufman’s). The changes follow rec…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nExperiences with content that implies sexual activity are banned, while virtual bars and nightclubs are being restricted to ID-verified players over 17.\r\nExperie… [+3326 chars]",
-        "url": "https://www.theverge.com/news/760805/roblox-sexual-content-lawsuit-age-verification",
-        "publishedAt": "2025-08-18T17:56:59Z",
-        "query": "technology",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
         "title": "We saw the next Boox Palma and… is that a color E Ink screen and cellular connectivity?",
         "description": "It wasn’t on public display at its IFA 2025 booth, but Boox gave The Verge’s Jess Weatherbed a brief but early look at its next Palma smartphone-sized e-reader. The company wasn’t yet willing to divulge any technical specs. Still, the new Palma appears to fea…",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next Boox Palma could be a true smartphone replacement.\r\nThe next Boox Palma could be a true smartphone replacement.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Lisze… [+2490 chars]",
         "url": "https://www.theverge.com/news/772647/boox-palma-e-reader-e-ink-smartphone-4g-cellular",
         "publishedAt": "2025-09-05T15:27:36Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "MacRumors",
+        "title": "Apple CEO Tim Cook Invited Back to White House for Tech Event",
+        "description": "Apple CEO Tim Cook has been invited to an event for tech leaders at the White House today in the newly renovated Rose Garden, according to The Hill.\n\n\n\n\n\nCook is among more than two dozen technology executives invited to the White House by President Donald Tr…",
+        "content": "Apple CEO Tim Cook has been invited to an event for tech leaders at the White House today in the newly renovated Rose Garden, according to The Hill.\r\nCook is among more than two dozen technology exec… [+1289 chars]",
+        "url": "https://www.macrumors.com/2025/09/04/tim-cook-invited-back-to-white-house/",
+        "publishedAt": "2025-09-04T12:14:25Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Derekthompson.org",
+        "title": "The Evidence That AI Is Destroying Jobs for Young People Just Got Stronger",
+        "description": "A big nerd debate with bigger implications for the future of work, technology, and the economy",
+        "content": "In a moment with manyimportanteconomicquestions and fears, I continue to find this among the more interesting mysteries about the US economy in the long run: Is artificial intelligence already taking… [+14318 chars]",
+        "url": "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying",
+        "publishedAt": "2025-09-03T23:07:36Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him",
+        "description": "The world of AI therapy is a minefield of dangerous chatbots and flawed advice. But against this backdrop, one founder is using her own family's crisis to build a company that puts human connection first.",
+        "content": "The burgeoning world of AI-powered mental health support is a minefield. From chatbots giving dangerously incorrect medical advice to AI companions encouraging self-harm, the headlines are filled wit… [+5205 chars]",
+        "url": "https://gizmodo.com/mental-health-ai-backpack-2000642729",
+        "publishedAt": "2025-08-13T19:49:44Z",
+        "query": "technology",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "Batman Beyond and Static Are Teaming Up Again for a New Comic",
+        "description": "'Batman/Static Beyond' will see io9 alum Evan Narcisse build on Terry and Virgil's relationship together, alongside artist Nikolas Draper-Ivey.",
+        "content": "Terry McGinnis and Virgil Hawkins have a long history together, ever since the classic Batman Beyond/Static Shock crossover episode “Future Shock,” all the way up to their team-up in the Milestone Co… [+3717 chars]",
+        "url": "https://gizmodo.com/batman-beyond-static-shock-team-up-comic-dc-2000642579",
+        "publishedAt": "2025-08-13T17:30:47Z",
         "query": "technology",
         "language": "en"
     },
@@ -4110,6 +4110,16 @@
         "language": "en"
     },
     {
+        "source": "Gizmodo.com",
+        "title": "Withings Updates ScanWatch 2 With 35-Day Battery Life the Apple Watch Could Only Dream Of",
+        "description": "The latest OS version for Withings's smartwatch-in-disguise also brings updates to sleep tracking and health metrics.",
+        "content": "Withings, which is best known for its smart scales and similar devices, also makes a smartwatch series, the latest of which is the ScanWatch 2. At IFA 2025, the company announced a new blue and silve… [+5090 chars]",
+        "url": "https://gizmodo.com/withings-updates-scanwatch-2-with-35-day-battery-life-the-apple-watch-could-only-dream-of-2000654923",
+        "publishedAt": "2025-09-06T21:00:21Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
         "source": "BBC News",
         "title": "Americanswers…on 5 Live! Why did the internet think Trump was dead?",
         "description": "And why is RFK Jr reshaping America’s top health agency?",
@@ -4141,21 +4151,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "RFK Jr. Stares at Kids, Claims Their Mitochondria Are All Out of Whack",
-        "description": "At an event Wednesday, RFK Jr. argued that children's dysfunctional mitochondria are responsible for a bevy of chronic health and behavioral issues.",
-        "content": "It’s 10 o’clock somewhere. Do you know if your children are mitochondrially challenged? That’s apparently one major reason why kids in America are so unwell, according to antivaxxer-turned-health-sec… [+4308 chars]",
-        "url": "https://gizmodo.com/rfk-jr-stares-at-kids-claims-their-mitochondria-are-all-out-of-whack-2000649715",
-        "publishedAt": "2025-08-29T14:20:36Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "How to Find Out If Microplastics Are Actually Destroying Our Health",
         "description": "While researchers have yet to find evidence that proves plastic pollution is bad for your health, it's probably because there have been no human trials.",
         "content": "Researchers have found plastic in almost every corner of the human body, from our brains and poop to blood and testicles (at least its not making our stomachs crunch yet). Is this plastic contaminati… [+2746 chars]",
         "url": "https://gizmodo.com/how-to-find-out-if-microplastics-are-actually-destroying-our-health-2000642886",
         "publishedAt": "2025-08-14T13:35:03Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "RFK Jr. Stares at Kids, Claims Their Mitochondria Are All Out of Whack",
+        "description": "At an event Wednesday, RFK Jr. argued that children's dysfunctional mitochondria are responsible for a bevy of chronic health and behavioral issues.",
+        "content": "It’s 10 o’clock somewhere. Do you know if your children are mitochondrially challenged? That’s apparently one major reason why kids in America are so unwell, according to antivaxxer-turned-health-sec… [+4308 chars]",
+        "url": "https://gizmodo.com/rfk-jr-stares-at-kids-claims-their-mitochondria-are-all-out-of-whack-2000649715",
+        "publishedAt": "2025-08-29T14:20:36Z",
         "query": "health",
         "language": "en"
     },
@@ -4231,21 +4241,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Watch: London Zoo's capybaras and tortoises on weigh-in day",
-        "description": "London Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.",
-        "content": "London Zoo in Regent's Park has been holding its annual animal weigh-in event, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing. \r\nThe information is s… [+107 chars]",
-        "url": "https://www.bbc.com/news/videos/c6267d6ng02o",
-        "publishedAt": "2025-08-19T15:01:59Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "Israel pounds Gaza City in preparation for planned offensive",
         "description": "Sixty-four people were killed in Israeli attacks across Gaza in the past 24 hours, the territory's Hamas-run health ministry said.",
         "content": "There are fears about the close to one million Palestinians in Gaza City\r\nPlanes and tanks have pounded parts of Gaza City as Israel's plans to seize the territory's largest urban area increase press… [+3444 chars]",
         "url": "https://www.bbc.com/news/articles/cvg478y8l09o",
         "publishedAt": "2025-08-24T12:18:44Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Watch: London Zoo's capybaras and tortoises on weigh-in day",
+        "description": "London Zoo in Regent's Park holds its annual animal weigh-in, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing.",
+        "content": "London Zoo in Regent's Park has been holding its annual animal weigh-in event, with zookeepers weighing and measuring over 10,000 animals to monitor their health and wellbeing. \r\nThe information is s… [+107 chars]",
+        "url": "https://www.bbc.com/news/videos/c6267d6ng02o",
+        "publishedAt": "2025-08-19T15:01:59Z",
         "query": "health",
         "language": "en"
     },
@@ -4256,16 +4266,6 @@
         "content": "It’s been a long time coming, but it looks like Apple is finally ready to release the next pair of AirPods Pro. According to Bloomberg’s Mark Gurman, the AirPods Pro 3 will likely be among the major … [+4300 chars]",
         "url": "https://gizmodo.com/apple-may-take-airpods-pro-3-beyond-audio-2000648180",
         "publishedAt": "2025-08-26T15:45:48Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "How Much Protein You Really Need, According to the Experts (2025)",
-        "description": "Experts answer: How much protein do I need? Plus tips on the best food sources, when to eat them, and how to avoid overdoing it.",
-        "content": "Meanwhile, influencers, biohackers, and longevity-focused researchers like Peter Attiaauthor of Outlive and chief science officer of supplement company David Barshave popularized the idea that higher… [+2987 chars]",
-        "url": "https://www.wired.com/story/how-much-protein-do-i-need/",
-        "publishedAt": "2025-08-06T12:30:00Z",
         "query": "health",
         "language": "en"
     },
@@ -4451,21 +4451,21 @@
     },
     {
         "source": "Gizmodo.com",
-        "title": "Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires",
-        "description": "Researchers detected unusually tiny particles of carcinogenic hexavalent chromium that may be able to penetrate deeper inside the body.",
-        "content": "The January wildfires left many scars on the city of Los Angeles, from rubble-reduced homes to torched abandoned vehicles. Though cleanup crews quickly cleared much of the debris, one alarming invisi… [+3951 chars]",
-        "url": "https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102",
-        "publishedAt": "2025-08-29T09:00:29Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
         "title": "Birds Across the World Are Singing All Day for a Disturbing Reason",
         "description": "After analyzing a dataset of more than 60 million recorded birdsongs, researchers found that birds are singing an average of 50 minutes longer per day.",
         "content": "If the songbirds in your neighborhood are waking you up earlier and chirping well into the evening, blame light pollution. Artificial light touches nearly every corner of Earths surface, and a new st… [+3323 chars]",
         "url": "https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257",
         "publishedAt": "2025-08-21T18:00:30Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "Gizmodo.com",
+        "title": "Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires",
+        "description": "Researchers detected unusually tiny particles of carcinogenic hexavalent chromium that may be able to penetrate deeper inside the body.",
+        "content": "The January wildfires left many scars on the city of Los Angeles, from rubble-reduced homes to torched abandoned vehicles. Though cleanup crews quickly cleared much of the debris, one alarming invisi… [+3951 chars]",
+        "url": "https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102",
+        "publishedAt": "2025-08-29T09:00:29Z",
         "query": "health",
         "language": "en"
     },
@@ -4601,21 +4601,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Gazan woman flown to Italy dies of malnutrition",
-        "description": "The woman was one of 180 Gazans evacuated by Italy in response to the humanitarian crisis",
-        "content": "A Gazan woman who was evacuated to Italy for treatment while severely emaciated has died in hospital. \r\nThe 20-year-old, who was identified as Marah Abu Zuhri, flew to Pisa with her mother on an over… [+2318 chars]",
-        "url": "https://www.bbc.com/news/articles/ce87n455dvxo",
-        "publishedAt": "2025-08-16T18:50:17Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "UK cases of mosquito-borne virus more than double",
         "description": "More than 70 cases of the chikungunya virus were reported in the UK in the first six months of this year.",
         "content": "There has been a significant increase in the number of UK cases of a mosquito-borne virus that can cause sudden fever and joint pain and is normally only found in Africa and southern Asia.\r\nThe UK He… [+2334 chars]",
         "url": "https://www.bbc.com/news/articles/c7419g1l488o",
         "publishedAt": "2025-08-14T01:22:10Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Gazan woman flown to Italy dies of malnutrition",
+        "description": "The woman was one of 180 Gazans evacuated by Italy in response to the humanitarian crisis",
+        "content": "A Gazan woman who was evacuated to Italy for treatment while severely emaciated has died in hospital. \r\nThe 20-year-old, who was identified as Marah Abu Zuhri, flew to Pisa with her mother on an over… [+2318 chars]",
+        "url": "https://www.bbc.com/news/articles/ce87n455dvxo",
+        "publishedAt": "2025-08-16T18:50:17Z",
         "query": "health",
         "language": "en"
     },
@@ -4670,22 +4670,22 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "TPG's Africa Health Push Raised Whistleblower Complaints",
-        "description": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and ...",
-        "content": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and Pakistan on behalf of investors, including… [+339 chars]",
-        "url": "https://finance.yahoo.com/video/tpgs-africa-health-push-raised-061220727.html",
-        "publishedAt": "2025-08-27T06:12:20Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
         "source": "WOODTV.com",
         "title": "Balloon festival unites Wayland, supports mental health",
         "description": "The annual Wayland BalloonFest from nonprofit 4 One 2 Cares raises awareness for mental health issues affecting West Michigan through a weekend of community ...",
         "content": "LEIGHTON TOWNSHIP, Mich. (WOOD) On Sept. 5 and Sept 6, visitors to Calkins Field at the Wayland Municipal Airport north of Wayland can attend the fifth annual Wayland BalloonFest.\r\nIts been growing e… [+1757 chars]",
         "url": "https://www.woodtv.com/westmichiganguide/balloon-festival-unites-wayland-supports-mental-health/",
         "publishedAt": "2025-08-25T16:50:25Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "TPG's Africa Health Push Raised Whistleblower Complaints",
+        "description": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and ...",
+        "content": "Whistleblower complaints have raised questions about private equity giant TPG's ability to manage five hospitals and dozens of clinics in Kenya, Nigeria and Pakistan on behalf of investors, including… [+339 chars]",
+        "url": "https://finance.yahoo.com/video/tpgs-africa-health-push-raised-061220727.html",
+        "publishedAt": "2025-08-27T06:12:20Z",
         "query": "health",
         "language": "en"
     },
@@ -4760,6 +4760,16 @@
         "language": "en"
     },
     {
+        "source": "Business Insider",
+        "title": "I visit my 82-year-old dad multiple times a week. He still tells people he's lonely.",
+        "description": "Watching my father's health decline has been hard. When my patience runs low, I try to consider the frustration he must be feeling.",
+        "content": "TKCourtesy of Kelly Kanaras\r\n<ul><li>Since he had two strokes, I've experienced a complete role reversal with my father.</li><li>I visit him multiple times a week, but he still tells people he gets l… [+3731 chars]",
+        "url": "https://www.businessinsider.com/caring-for-aging-father-he-is-still-lonely-2025-9",
+        "publishedAt": "2025-09-06T14:33:01Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
         "source": "MacRumors",
         "title": "AirPods Pro 3 Said to Gain Two Health Sensors, But Translation Delayed",
         "description": "Apple's upcoming AirPods Pro 3 will indeed feature in-ear temperature sensing as well as heart-rate sensing, but the rumored live translation feature is not ready for launch and will instead arrive in a later software update. That's according to an anonymous …",
@@ -4776,16 +4786,6 @@
         "content": "Michelle RobertsDigital health editor, BBC News\r\nBaby Mia had a bad case of chickenpox, with a skin infection that needed hospital treatment\r\nAll young children in England and Wales will be offered a… [+4206 chars]",
         "url": "https://www.bbc.com/news/articles/c860n445vyxo",
         "publishedAt": "2025-08-29T00:01:09Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
-        "title": "Our Brains Contain Lithium—and Its Loss Might Help Drive Alzheimer’s, Study Finds",
-        "description": "Harvard researchers have found evidence in mice and human brains that the element lithium could be key to a healthy brain.",
-        "content": "Alzheimer’s disease is one of the cruelest conditions a person can develop. And even with recent advances, there’s only so much that can be done once its symptoms emerge. Research out this week might… [+4813 chars]",
-        "url": "https://gizmodo.com/our-brains-contain-lithium-and-its-loss-might-help-drive-alzheimers-study-finds-2000639558",
-        "publishedAt": "2025-08-07T10:00:00Z",
         "query": "health",
         "language": "en"
     },
@@ -4820,22 +4820,22 @@
         "language": "en"
     },
     {
+        "source": "Yahoo Entertainment",
+        "title": "Eat a banana before you exercise, stop fawning at work and do a push-up — plus 7 more health tips to help you have a great week",
+        "description": "Try these health tips to have your best week yet.",
+        "content": "Hello, wellness enthusiasts! My name is Kaitlin Reilly, and I am here to share the internets best tips for living your best life.\r\nConnection is crucial for both our physical and mental health. In fa… [+8551 chars]",
+        "url": "https://www.yahoo.com/lifestyle/article/eat-banana-exercise-stop-fawning-090026169.html",
+        "publishedAt": "2025-09-07T09:00:26Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
         "source": "BBC News",
         "title": "Rising costs blamed for drop in pool temperatures",
         "description": "New figures show that 15% of councils have reduced pool temperatures in the last five years.",
         "content": "Lauren Woodhead\r\nMore than one in seven councils have lowered swimming pool temperatures in the past five years, new figures have revealed.\r\nFreedom of Information (FOI) requests by the BBC found 15%… [+3523 chars]",
         "url": "https://www.bbc.com/news/articles/c98l4pj5rv6o",
         "publishedAt": "2025-08-13T06:25:32Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
-        "title": "Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research",
-        "description": "The Trump administration cancelled about $500 million for research into mRNA vaccines. The move slows progress in using the technology to prevent a future pandemic or treat disease, experts say.",
-        "content": "The Trump administration is cancelling almost $500 million in contracts to develop mRNA vaccines to protect the nation against future viral threats. The move thrilled critics of the technology but ho… [+4981 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/08/06/nx-s1-5493544/rfk-defunding-mrna-vaccine-research",
-        "publishedAt": "2025-08-06T19:18:08Z",
         "query": "health",
         "language": "en"
     },
@@ -4901,16 +4901,6 @@
     },
     {
         "source": "NPR",
-        "title": "HHS responds to report about autism and acetaminophen",
-        "description": "A report that health secretary Robert F. Kennedy, Jr. has promised will come out this  month will look at the causes of autism. Many worry it will have claims unsupported by science.",
-        "content": "The Trump administration is planning to release a report this month that will reportedly link use of the common painkiller acetaminophen (sold under the brand name Tylenol) during pregnancy, as well … [+3423 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/09/06/nx-s1-5532143/hhs-responds-to-report-about-autism-and-acetaminophen",
-        "publishedAt": "2025-09-06T10:00:00Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
         "title": "A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals",
         "description": "Amanda Anisimova beat Naomi Osaka in the U.S. Open semifinals early Friday in a tense, three-set match. Both players have been climbing up the rankings after taking mental health breaks from the sport.",
         "content": "Two comeback stories collided on the tennis court Thursday night when American Amanda Anisimova and Naomi Osaka of Japan who was also raised in the U.S. played each other in the U.S. Open semifinals.… [+5354 chars]",
@@ -4921,11 +4911,11 @@
     },
     {
         "source": "NPR",
-        "title": "After the CDC shooting, federal workers pressure RFK Jr. for more protections",
-        "description": "More than 750 current and former HHS employees signed a letter to Health Secretary Robert F. Kennedy, Jr. demanding he stop spreading inaccurate information and guarantee the safety of the workforce.",
-        "content": "In the aftermath of an attack on the main campus for the Centers for Disease Control and Prevention in Atlanta on Aug. 8, employees at the CDC, National Institutes of Health, and other health agencie… [+4171 chars]",
-        "url": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5507208/after-shooting-cdc-workers-demand-more-protections-from-hhs-secretary",
-        "publishedAt": "2025-08-20T12:09:55Z",
+        "title": "HHS responds to report about autism and acetaminophen",
+        "description": "A report that health secretary Robert F. Kennedy, Jr. has promised will come out this  month will look at the causes of autism. Many worry it will have claims unsupported by science.",
+        "content": "The Trump administration is planning to release a report this month that will reportedly link use of the common painkiller acetaminophen (sold under the brand name Tylenol) during pregnancy, as well … [+3423 chars]",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/09/06/nx-s1-5532143/hhs-responds-to-report-about-autism-and-acetaminophen",
+        "publishedAt": "2025-09-06T10:00:00Z",
         "query": "health",
         "language": "en"
     },
@@ -4941,6 +4931,16 @@
     },
     {
         "source": "NPR",
+        "title": "After the CDC shooting, federal workers pressure RFK Jr. for more protections",
+        "description": "More than 750 current and former HHS employees signed a letter to Health Secretary Robert F. Kennedy, Jr. demanding he stop spreading inaccurate information and guarantee the safety of the workforce.",
+        "content": "In the aftermath of an attack on the main campus for the Centers for Disease Control and Prevention in Atlanta on Aug. 8, employees at the CDC, National Institutes of Health, and other health agencie… [+4171 chars]",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5507208/after-shooting-cdc-workers-demand-more-protections-from-hhs-secretary",
+        "publishedAt": "2025-08-20T12:09:55Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "NPR",
         "title": "Israel increasingly bars foreign doctors who want to volunteer in Gaza",
         "description": "Foreign doctors have been serving as medical volunteers, but must be approved by Israel to enter Gaza. The World Health Organization says denial rates have increased by 50% since March.",
         "content": "AMMAN, Jordan Dr. Mimi Syed, an emergency medicine physician from Washington state, is in an Amman hotel room, surrounded by infant formula and devices used for resuscitation that she had hoped to ta… [+8837 chars]",
@@ -4951,21 +4951,21 @@
     },
     {
         "source": "NPR",
-        "title": "Whatever happened to mpox? Is it still a threat?",
-        "description": "The virus took the world by storm. It was declared a \"public health emergency of continental concern.\" What's the current status? With the U.S. aid cuts, one doctor says, \"We're flying blind.\"",
-        "content": "In August 2024, the news came in quick succession. On Tuesday Aug. 13, 2024 Africa Centers for Disease Control and Prevention declared mpox a public health emergency of continental concern. The very … [+8443 chars]",
-        "url": "https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa",
-        "publishedAt": "2025-09-02T11:05:02Z",
-        "query": "health",
-        "language": "en"
-    },
-    {
-        "source": "NPR",
         "title": "Hurricane Katrina had a silver-lining for some: Post-traumatic growth",
         "description": "The mental health effects of Hurricane Katrina have been studied for more than a decade, and that research found that post-traumatic growth can co-exist with post-traumatic stress.",
         "content": "NhuNgoc Pham was a high school student living in the New Orleans metro area when Hurricane Katrina hit the Gulf Coast on August 29, 2005. Her parents, immigrants from Vietnam, had recently purchased … [+10932 chars]",
         "url": "https://www.npr.org/sections/shots-health-news/2025/09/03/nx-s1-5525985/hurricane-katrina-20-years-ptsd-post-traumatic-growth",
         "publishedAt": "2025-09-03T18:10:40Z",
+        "query": "health",
+        "language": "en"
+    },
+    {
+        "source": "NPR",
+        "title": "Whatever happened to mpox? Is it still a threat?",
+        "description": "The virus took the world by storm. It was declared a \"public health emergency of continental concern.\" What's the current status? With the U.S. aid cuts, one doctor says, \"We're flying blind.\"",
+        "content": "In August 2024, the news came in quick succession. On Tuesday Aug. 13, 2024 Africa Centers for Disease Control and Prevention declared mpox a public health emergency of continental concern. The very … [+8443 chars]",
+        "url": "https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa",
+        "publishedAt": "2025-09-02T11:05:02Z",
         "query": "health",
         "language": "en"
     },
@@ -5000,16 +5000,6 @@
         "language": "en"
     },
     {
-        "source": "The Verge",
-        "title": "Truth Social’s new AI search engine basically just pushes Fox News",
-        "description": "Donald Trump’s Truth Social has launched a new AI search feature that consistently pushes conservative media sources. The feature, Truth Search AI, is powered by the AI startup Perlexity and is now available on the web version of Trump’s social media platform…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Perplexity-powered Truth Search AI tool appears to selectively source from conservative media.\r\nThe Perplexity-powered Truth Search AI tool appears to select… [+3299 chars]",
-        "url": "https://www.theverge.com/news/753863/trump-truth-social-ai-search-perplexity-conservative-bias",
-        "publishedAt": "2025-08-07T14:04:06Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
         "source": "NPR",
         "title": "Take The Planet Money Summer School Quiz In Political Economy",
         "description": "Think you have what it takes to successfully manipulate the market and build a domestic industry from the ground up? If so, these eight questions stand between you and your Summer School diploma in Political Economy.",
@@ -5026,26 +5016,6 @@
         "content": "Keke Palmer.Axelle/Bauer-Griffin/FilmMagic\r\n<ul><li>Keke Palmer doesn't think that working moms should feel mom guilt — especially not in this economy.</li><li>\"But the reality is, if you got to work… [+2553 chars]",
         "url": "https://www.businessinsider.com/keke-palmer-single-working-mom-guilt-economy-parenting-2025-8",
         "publishedAt": "2025-08-12T06:43:34Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Business Insider",
-        "title": "We're producing a generation of students who will feel they 'don't fit' in the AI world, economist Tyler Cowen warns",
-        "description": "Colleges are failing to prepare students for the AI economy — and the biggest cost may be psychological, Tyler Cowen said.",
-        "content": "Tyler Cowen says AI is forcing a reckoning in education — and most institutions aren't ready for it.Leon Neal/Getty Images\r\n<ul><li>Economist Tyler Cowen said college students were unprepared for an … [+2751 chars]",
-        "url": "https://www.businessinsider.com/economist-tyler-cowen-warns-students-unprepared-for-ai-economy-2025-8",
-        "publishedAt": "2025-08-06T11:52:41Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "The Internet’s Biggest Travel Nerd Shares Pointers on Points",
-        "description": "Gary Leff has been writing his blog on business travel for 23 years. WIRED asked him to share his most time-tested business travel tips.",
-        "content": "Is that how the blog starteda passion for sharing the fine print?\r\nWhen I lived in Washington, DC, in 2002, a bunch of people I knew were starting political blogs, but I didn't feel like I had someth… [+2527 chars]",
-        "url": "https://www.wired.com/story/pointers-on-travel-points-view-from-the-wing/",
-        "publishedAt": "2025-08-06T13:00:00Z",
         "query": "economy",
         "language": "en"
     },
@@ -5131,6 +5101,16 @@
     },
     {
         "source": "Business Insider",
+        "title": "I toured an $85 million Hamptons mansion and learned something about the economy",
+        "description": "I felt Wall Street's confidence despite broader economic uncertainty during my tours, which included both ocean views and a giant lobster art piece.",
+        "content": "43 E Dune Lane is listed for $85 million.Douglas Friedman\r\n<ul><li>I toured an $85 million and $18 million home in the Hamptons.</li><li>More than the surprising decor, I was struck by how strongly I… [+5876 chars]",
+        "url": "https://www.businessinsider.com/85-million-home-hamptons-real-estate-tour-photos-wall-street-2025-9",
+        "publishedAt": "2025-09-07T09:19:01Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Business Insider",
         "title": "Meet 16 VC firms investing in innovative creator economy startups like Substack, Whatnot, and Agentio",
         "description": "These venture capital firms are funding the next wave of creator companies. Investors are particularly interested in AI-powered creative tools.",
         "content": "Meet VCs backing creator economy startups, including Amy Wu Martin at Menlo Ventures, Sasha Kaletsky at Creator Ventures, and Ishan Sinha at Point72 Ventures.Courtesy Menlo Ventures; Courtesy Creator… [+22099 chars]",
@@ -5180,22 +5160,22 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "Markets pricing in rate cut, but 'be careful what you wish for'",
-        "description": "The US economy added fewer jobs in August than economists expected. UBS Global Wealth Management head of taxable fixed income strategy Leslie Falconio and...",
-        "content": "And Leslie, the change in private payrolls coming in at 38,000, the expectation was 75,000. July was also revised lower. Is that a concern for you at all when we look at the private sector? \r\nWell, I… [+3064 chars]",
-        "url": "https://finance.yahoo.com/video/markets-pricing-rate-cut-careful-142009441.html",
-        "publishedAt": "2025-09-05T14:20:09Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
         "source": "Business Insider",
         "title": "Can you make it as an Uber driver? A new game simulates work in the gig economy",
         "description": "GigU's Cherry Picker game challenges players to make money as an Uber driver. Its creators hope it will make players sympathize with gig workers.",
         "content": "GigU's Cherry Picker game focuses on Charles, a fictional ride-hailing driver trying to make money.GigU\r\n<ul><li>A new game gives players a taste of what it's like to work in the gig economy.</li><li… [+3469 chars]",
         "url": "https://www.businessinsider.com/gigu-cherry-picker-game-meant-simulate-a-gig-work-driver-2025-8",
         "publishedAt": "2025-08-30T09:46:02Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "Markets pricing in rate cut, but 'be careful what you wish for'",
+        "description": "The US economy added fewer jobs in August than economists expected. UBS Global Wealth Management head of taxable fixed income strategy Leslie Falconio and...",
+        "content": "And Leslie, the change in private payrolls coming in at 38,000, the expectation was 75,000. July was also revised lower. Is that a concern for you at all when we look at the private sector? \r\nWell, I… [+3064 chars]",
+        "url": "https://finance.yahoo.com/video/markets-pricing-rate-cut-careful-142009441.html",
+        "publishedAt": "2025-09-05T14:20:09Z",
         "query": "economy",
         "language": "en"
     },
@@ -5336,16 +5316,6 @@
         "content": "After Donald Trump announced ruinously high tariffs on China in the spring, a simple reminder of that country’s growing technological power forced him to back down. Shortly after Trump’s April 2 tari… [+14100 chars]",
         "url": "https://www.theatlantic.com/ideas/archive/2025/08/china-america-tariffs-trump-economy/683895/",
         "publishedAt": "2025-08-18T10:00:00Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Derekthompson.org",
-        "title": "How AI Conquered the US Economy: A Visual FAQ",
-        "description": "Artificial intelligence is the biggest tech construction project in a century. Here's what that looks like.",
-        "content": "The American economy has split in two. Theres a rip-roaring AI economy. And theres a lackluster consumer economy.\r\nYou see it in the economic statistics. Last quarter, spending on artificial intellig… [+8918 chars]",
-        "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
-        "publishedAt": "2025-08-07T10:12:54Z",
         "query": "economy",
         "language": "en"
     },
@@ -5650,16 +5620,6 @@
         "language": "en"
     },
     {
-        "source": "CNET",
-        "title": "Trump Media Is Testing an AI Search Engine Powered by Perplexity",
-        "description": "The president's media company is beta-testing Truth Search AI, but will the results lean toward conservative opinions?",
-        "content": "President Donald Trump's media company, Trump Media, is beta-testing a new AI search feature, Truth Search AI, on the Truth Social platform. The Florida-based company announced the news on Wednesday … [+3095 chars]",
-        "url": "https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/",
-        "publishedAt": "2025-08-07T00:35:09Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
         "source": "ABC News",
         "title": "Why the stock market shrugged off weak data, recession fears",
         "description": "\"The mindset of the market is to embrace risk,\" one expert said.",
@@ -5700,32 +5660,12 @@
         "language": "en"
     },
     {
-        "source": "Business Insider",
-        "title": "I flew from Florida to Italy for $260 using budget airlines. My first flight was cheap, but my experience felt anything but.",
-        "description": "Using cheap budget airlines easyJet and Norse Atlantic, I flew from Orlando, Florida to Venice, Italy, for under $300. Norse especially impressed me.",
-        "content": "I flew with budget carriers Norse Airlines and easyJet to fly from Florida to Italy for under $300.Amanda Adler\r\n<ul><li>Using budget airlines, I flew from my home in Orlando, Florida, to Venice, Ita… [+5857 chars]",
-        "url": "https://www.businessinsider.com/american-flew-to-italy-cheap-airlines-norse-atlantic-easyjet-review-2025-8",
-        "publishedAt": "2025-08-07T14:12:01Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
         "source": "Slashdot.org",
         "title": "Americans Lose Faith That Hard Work Leads to Economic Gains, WSJ-NORC Poll Finds",
         "description": "America is becoming a nation of economic pessimists. WSJ reports: A new Wall Street Journal-NORC poll [PDF] finds that the share of people who say they have a good chance of improving their standard of living fell to 25%, a record low in surveys dating to 198…",
         "content": "A new Wall Street Journal-NORC poll[PDF] finds that the share of people who say they have a good chance of improving their standard of living fell to 25%, a record low in surveys dating to 1987. More… [+965 chars]",
         "url": "https://news.slashdot.org/story/25/09/02/164215/americans-lose-faith-that-hard-work-leads-to-economic-gains-wsj-norc-poll-finds",
         "publishedAt": "2025-09-02T16:04:00Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
-        "source": "Wired",
-        "title": "16 Golden Rules That Business Travelers Swear By",
-        "description": "People who constantly hit the road for work share their business travel tips, including what they wish they’d known from the jump.",
-        "content": "Business travelers are made, not born. And almost everyone who travels frequently for work can list off at least a few things they wish theyd known when they first got into the game. It's not all obv… [+12155 chars]",
-        "url": "https://www.wired.com/story/golden-rules-of-business-travel/",
-        "publishedAt": "2025-08-06T14:30:00Z",
         "query": "economy",
         "language": "en"
     },
@@ -5750,22 +5690,22 @@
         "language": "en"
     },
     {
-        "source": "Business Insider",
-        "title": "Trump is trying to fire a Fed governor. Here's what happened when other countries' presidents did the same thing.",
-        "description": "President Donald Trump wants to fire Federal Reserve Gov. Lisa Cook. Here's what it means for inflation and interest rates.",
-        "content": "President Donald Trump wants to fire Federal Reserve Gov. Lisa Cook.SAUL LOEB/AFP via Getty Images; Chip Somodevilla/Getty Images\r\n<ul><li>President Donald Trump wants to remove Federal Reserve Gov. … [+5684 chars]",
-        "url": "https://www.businessinsider.com/trump-fire-fed-governor-lisa-cook-means-inflation-interest-rates-2025-8",
-        "publishedAt": "2025-08-26T20:21:05Z",
-        "query": "economy",
-        "language": "en"
-    },
-    {
         "source": "Yahoo Entertainment",
         "title": "Bubble Risks Grow as China’s Stock Bull Run Defies Economy Angst",
         "description": "",
         "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
         "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_85244187-ad50-4956-b0eb-bdd5c306b337",
         "publishedAt": "2025-08-24T00:00:00Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Business Insider",
+        "title": "Trump is trying to fire a Fed governor. Here's what happened when other countries' presidents did the same thing.",
+        "description": "President Donald Trump wants to fire Federal Reserve Gov. Lisa Cook. Here's what it means for inflation and interest rates.",
+        "content": "President Donald Trump wants to fire Federal Reserve Gov. Lisa Cook.SAUL LOEB/AFP via Getty Images; Chip Somodevilla/Getty Images\r\n<ul><li>President Donald Trump wants to remove Federal Reserve Gov. … [+5684 chars]",
+        "url": "https://www.businessinsider.com/trump-fire-fed-governor-lisa-cook-means-inflation-interest-rates-2025-8",
+        "publishedAt": "2025-08-26T20:21:05Z",
         "query": "economy",
         "language": "en"
     },
@@ -5810,12 +5750,12 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "Average rate on a 30-year mortgage drops to lowest level since April",
-        "description": "The average rate on a 30-year U.S. mortgage has fallen to its lowest level in four months, welcome news for prospective homebuyers who have been held back by...",
-        "content": "The average rate on a 30-year U.S. mortgage has fallen to its lowest level in four months, welcome news for prospective homebuyers who have been held back by stubbornly high home financing costs.\r\nTh… [+3123 chars]",
-        "url": "https://finance.yahoo.com/news/average-rate-30-mortgage-drops-160621983.html",
-        "publishedAt": "2025-08-07T16:06:21Z",
+        "source": "Philadelphiafed.org",
+        "title": "Historical Housing Prices Project",
+        "description": "The Historical Housing Prices (HHP) Project at the Philadelphia Fed provides new data on the price of housing for sale and for rent over the 20th century using the real estate sections of historical newspapers. The data cover 30 major cities, including Philad…",
+        "content": "Housing impacts individual economic well-being, influences wealth-building opportunities, and is vital to the overall economy. Despite the critical importance of housing to the U.S. economy, existing… [+834 chars]",
+        "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/historical-housing-prices",
+        "publishedAt": "2025-09-06T19:13:43Z",
         "query": "economy",
         "language": "en"
     },
@@ -5956,6 +5896,66 @@
         "content": "There are certain words you don’t want to hear in a medical checkup or in an investment bank’s recession outlook: “stable but elevated.” It’s a phrase that could refer to blood pressure, even risk of… [+4678 chars]",
         "url": "https://finance.yahoo.com/news/ubs-gives-america-recession-checkup-162216945.html",
         "publishedAt": "2025-09-02T16:22:16Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Android Central",
+        "title": "The Garmin August 2025 update throws the Forerunner 970's best tricks onto other watches",
+        "description": "Garmin is plucking the Forerunner 970's exclusives for its other premium watches, while adding several exciting new coaching tools.",
+        "content": "<ul><li>Garmin announced its major August 2025 update on Tuesday, and it's currently rolling out to most recent watches.</li><li>The Garmin Fenix 8, Venu X1, Enduro 3, and other watches are getting r… [+4028 chars]",
+        "url": "https://www.androidcentral.com/wearables/garmin/garmin-august-2025-update-throws-best-forerunner-970-tricks-onto-other-watches",
+        "publishedAt": "2025-08-21T11:15:00Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Android Central",
+        "title": "Labor Day is over, but these noise-cancelling headphones are still 50% OFF at Amazon",
+        "description": "That's just $30 for a pair of noise-cancelling headphones.",
+        "content": "Only a few leftover Labor Day headphone deals remain, but this one's a keeper: Amazon is still offering half off the price of the Anker Soundcore Life Q20 noise-cancelling headphones, knocking the pr… [+2256 chars]",
+        "url": "https://www.androidcentral.com/accessories/headphones/labor-day-is-over-but-these-noise-cancelling-headphones-are-still-50-percent-off-at-amazon",
+        "publishedAt": "2025-09-03T18:00:00Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Business Insider",
+        "title": "DOJ hammers Lisa Cook for not explaining mortgage document problems as Trump tries to push her out of Fed",
+        "description": "Lisa Cook asked a judge to issue a temporary restraining order on President Donald Trump, ensuring she keeps her job at the Federal Reserve.",
+        "content": "Justice Department lawyers hammered Lisa Cook for not providing any explanation for apparent irregularities in her mortgage filings, telling a federal judge there was no reason to keep her in her rol… [+5043 chars]",
+        "url": "https://www.businessinsider.com/lisa-cook-federal-reserve-tro-hearing-trump-doj-2025-8",
+        "publishedAt": "2025-08-29T15:48:27Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Harmful bacteria 'highest in summer' in Windermere",
+        "description": "New data finds England's largest lake has \"poor\" water quality during its busiest months.",
+        "content": "Gemma SherlockBBC News, North East and Cumbria\r\nCampaigners are demanding action to address \"poor\" water quality results\r\nEngland's largest lake has \"concerning\" pollution hotspots and harmful levels… [+4692 chars]",
+        "url": "https://www.bbc.com/news/articles/cjr1q89qw8no",
+        "publishedAt": "2025-08-19T09:16:06Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Kotaku",
+        "title": "Smash Bros.Director’s New Kirby Racing Game Is Getting A Ridiculously Long Nintendo Direct",
+        "description": "A Kirby Air Riders Direct will detail the Switch 2's next exclusive\nThe post Smash Bros.Director’s New Kirby Racing Game Is Getting A Ridiculously Long Nintendo Direct appeared first on Kotaku.",
+        "content": "An August Nintendo Direct is indeed happening, though maybe not the one fans were expecting. The company announced a deep-dive into Kirby Air Riders is coming on August 19, the same day that Gamescom… [+1719 chars]",
+        "url": "https://kotaku.com/nintendo-direct-switch-2-kirby-air-riders-smash-bros-sakurai-2000618190",
+        "publishedAt": "2025-08-18T13:13:33Z",
+        "query": "economy",
+        "language": "en"
+    },
+    {
+        "source": "Space.com",
+        "title": "Is astronomy safe from organized scientific fraud?",
+        "description": "As space becomes more important to the economy of nations around the world, the risk of paper mills flooding the literature with fraudulent results is increasing.",
+        "content": "Astronomy and space sciences have mostly avoided the fraudulent practices of paper mills and predatory journals, but that might be about to change, warn the authors of a new report that delves into t… [+6335 chars]",
+        "url": "https://www.space.com/astronomy/is-astronomy-safe-from-organized-scientific-fraud",
+        "publishedAt": "2025-08-11T10:00:00Z",
         "query": "economy",
         "language": "en"
     },
@@ -6130,16 +6130,6 @@
         "language": "en"
     },
     {
-        "source": "Gizmodo.com",
-        "title": "Pranksters Interrupt Education Secretary Linda McMahon With Circus Music",
-        "description": "What a clown show.",
-        "content": "Pranksters were able to play disruptive audio clips, including the Curb Your Enthusiasm theme and circus music, during an interview with Education Secretary Linda McMahon at the Young America’s Found… [+2388 chars]",
-        "url": "https://gizmodo.com/pranksters-interrupt-education-secretary-linda-mcmahon-with-circus-music-2000639804",
-        "publishedAt": "2025-08-07T13:30:23Z",
-        "query": "education",
-        "language": "en"
-    },
-    {
         "source": "Wired",
         "title": "Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn",
         "description": "A new specimen of “infostealer” malware offers a disturbing feature: It monitors a target's browser for NSFW content, then takes simultaneous screenshots and webcam photos of the victim.",
@@ -6220,16 +6210,6 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "Google commits $1 billion for AI training at US universities",
-        "description": "SAN FRANCISCO (Reuters) -Alphabet's Google on Wednesday announced a three-year, $1 billion commitment to provide artificial intelligence training and tools...",
-        "content": "By Kenrick Cai\r\nSAN FRANCISCO (Reuters) -Alphabet's Google on Wednesday announced a three-year, $1 billion commitment to provide artificial intelligence training and tools to U.S. higher education in… [+1855 chars]",
-        "url": "https://tech.yahoo.com/ai/articles/google-commits-1-billion-ai-160316025.html",
-        "publishedAt": "2025-08-06T16:03:16Z",
-        "query": "education",
-        "language": "en"
-    },
-    {
         "source": "BBC News",
         "title": "Why did boys outperform girls at top A-level grades?",
         "description": "The percentage of boys' grades that were A* or A was 28.4%, narrowly beating the 28.2% achieved by girls.",
@@ -6286,26 +6266,6 @@
         "content": "In 2023 a 13-year-old girl \"made an offensive joke while chatting online with her classmates,\" reports the Associated Press.But when the school's surveillance software spotted that joke, \"Before the … [+3542 chars]",
         "url": "https://news.slashdot.org/story/25/08/09/0624254/students-have-been-called-to-the-office---or-arrested---for-false-alarms-from-ai-powered-surveillance-systems",
         "publishedAt": "2025-08-09T16:34:00Z",
-        "query": "education",
-        "language": "en"
-    },
-    {
-        "source": "Business Insider",
-        "title": "We're producing a generation of students who will feel they 'don't fit' in the AI world, economist Tyler Cowen warns",
-        "description": "Colleges are failing to prepare students for the AI economy — and the biggest cost may be psychological, Tyler Cowen said.",
-        "content": "Tyler Cowen says AI is forcing a reckoning in education — and most institutions aren't ready for it.Leon Neal/Getty Images\r\n<ul><li>Economist Tyler Cowen said college students were unprepared for an … [+2751 chars]",
-        "url": "https://www.businessinsider.com/economist-tyler-cowen-warns-students-unprepared-for-ai-economy-2025-8",
-        "publishedAt": "2025-08-06T11:52:41Z",
-        "query": "education",
-        "language": "en"
-    },
-    {
-        "source": "Googleblog.com",
-        "title": "#WeArePlay: Meet the people coding a more sustainable world",
-        "description": "In this #WeArePlay spotlight, meet 10 founders whose apps and games tackle environmental challenges, from nature education to building green careers.",
-        "content": "Posted by Robbie McLachlan, Developer Marketing\n\n\n \nHow do you tackle the planet's biggest sustainability and environmental challenges? For 10 new founders we’re spotlighting in #WeArePlay, it starts… [+2336 chars]",
-        "url": "https://android-developers.googleblog.com/2025/08/weareplay-meet-people-coding-sustainable-world.html",
-        "publishedAt": "2025-08-07T16:00:00Z",
         "query": "education",
         "language": "en"
     },
@@ -6740,16 +6700,6 @@
         "language": "en"
     },
     {
-        "source": "Yahoo Entertainment",
-        "title": "Students have been called to the office — and even arrested — for AI surveillance false alarms",
-        "description": "Lesley Mathis knows what her daughter said was wrong.  The teenage girl made an offensive joke while chatting online with her classmates, triggering the...",
-        "content": "Lesley Mathis knows what her daughter said was wrong. But she never expected the 13-year-old girl would get arrested for it.\r\nThe teenage girl made an offensive joke while chatting online with her cl… [+7898 chars]",
-        "url": "https://www.yahoo.com/news/articles/schools-using-ai-surveillance-protect-110342710.html",
-        "publishedAt": "2025-08-07T11:03:42Z",
-        "query": "education",
-        "language": "en"
-    },
-    {
         "source": "NPR",
         "title": "More students head back to class without one crucial thing: their phones",
         "description": "This back to school season, more districts than ever have cell phone bans in place. Teachers and legislators alike say the restrictions help kids focus in class.",
@@ -6960,6 +6910,56 @@
         "language": "en"
     },
     {
+        "source": "Android Central",
+        "title": "Base Pixel 10 (again) misses out on the free year of Google AI Pro",
+        "description": "Only the Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold include a free year of AI Pro.",
+        "content": "What you need to know\r\n<ul><li>Unlike Pro models, the base Pixel 10 does not get the free Google AI Pro plan.</li><li>The Google AI Pro offer gives access to Gemini models, 2TB cloud storage, and Wor… [+2355 chars]",
+        "url": "https://www.androidcentral.com/phones/google-pixel/pixel-10-users-again-miss-out-on-the-free-year-of-google-ai-pro",
+        "publishedAt": "2025-08-20T16:00:00Z",
+        "query": "education",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "'Two laptops, six plugs': The South Korean cafes grappling with students who don't leave",
+        "description": "Starbucks customers have been asked to stop bringing \"bulky items\" into cafes, after some brought printers and desktops.",
+        "content": "Juna MoonReporting from\r\nSouth Korea\r\nThe 'desk' of a 33-year-old developer in Starbucks\r\nIn the affluent Seoul neighbourhood of Daechi, Hyun Sung-joo has a dilemma.\r\nHis cafe is sometimes visited by… [+6908 chars]",
+        "url": "https://www.bbc.com/news/articles/c80d9e8ep7do",
+        "publishedAt": "2025-08-22T23:02:12Z",
+        "query": "education",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "'No-one comes for us': The women trapped in Afghanistan's mental health system",
+        "description": "Accessing treatment in an Afghan mental health facility is difficult - but getting out can be harder.",
+        "content": "Mahjooba NowrouziBBC Afghan Service, in Kabul\r\nBBC visited a mental health centre that is struggling to cope with the number of patients\r\nHigh on a hill in the west of the Afghan capital, Kabul, behi… [+6562 chars]",
+        "url": "https://www.bbc.com/news/articles/c80dg700dego",
+        "publishedAt": "2025-08-18T22:19:29Z",
+        "query": "education",
+        "language": "en"
+    },
+    {
+        "source": "Business Insider",
+        "title": "Trump's latest executive order banning 'debanking' takes aim at an industry that cheered his return",
+        "description": "Trump's 'debanking' executive order targets financial institutions he believes are denying services to conservatives, including his family business.",
+        "content": "President Donald Trump made his feud with big banks official.\r\nAfter making his grievances against banks clear earlier in the week, Trump signed an executive order for federal banking regulators to e… [+2982 chars]",
+        "url": "https://www.businessinsider.com/trump-debanking-executive-order-2025-8",
+        "publishedAt": "2025-08-07T23:51:57Z",
+        "query": "education",
+        "language": "en"
+    },
+    {
+        "source": "Al Jazeera English",
+        "title": "Ostapenko apologises to Townsend for ‘no education’ comments",
+        "description": "'When I said education, I was speaking only about what I believe as tennis etiquette,' Ostapenko said on social media.",
+        "content": "Jelena Ostapenko has apologised for some of the words she used in a tense altercation with American Taylor Townsend at the US Open, which led to a backlash, with the Latvian stating that English was … [+2519 chars]",
+        "url": "https://www.aljazeera.com/sports/2025/8/31/ostapenko-apologises-to-townsend-for-no-education-comments",
+        "publishedAt": "2025-08-31T06:32:37Z",
+        "query": "education",
+        "language": "en"
+    },
+    {
         "source": "Gizmodo.com",
         "title": "Google’s AI Weather Model Nailed Its First Major Storm Forecast",
         "description": "They're cooking in the Weather Lab.",
@@ -7006,26 +7006,6 @@
         "content": "The Met Office released the new set of storm names for 2025/26 on Monday with Amy, Bram, Chandra and Dave the first four on the list.\r\nStorms can be named by either the Met Office, Met Eireann or KMN… [+1053 chars]",
         "url": "https://www.bbc.com/weather/articles/c8jp4dm2mv2o",
         "publishedAt": "2025-09-01T11:57:31Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "The Verge",
-        "title": "Sonos’ smart assistant is expanding from music to home control",
-        "description": "Since its launch in 2022, the capabilities of Sonos Voice Control have expanded to include setting timers and checking the weather. But by the end of this year, the smart assistant will introduce compatibility with the Philips Hue smart home platform allowing…",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nSonos Voice Control compatibility with Philips Hue could be coming by the end of this year.\r\nSonos Voice Control compatibility with Philips Hue could be coming b… [+3085 chars]",
-        "url": "https://www.theverge.com/news/719775/sonos-voice-control-smart-assistant-philips-hue",
-        "publishedAt": "2025-08-06T14:06:01Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "Gizmodo.com",
-        "title": "Grand Canyon ‘Megafire’ Explodes in Size and Is Now Creating Its Own Weather",
-        "description": "The Dragon Bravo wildfire has been burning for over a month, and U.S. firefighting agencies are too understaffed to stop it.",
-        "content": "Despite over a month of firefighting efforts, the Dragon Bravo fire experienced a surge of growth this week, doubling in size within just a few days. The northern Arizona megafire is now the largest … [+3363 chars]",
-        "url": "https://gizmodo.com/grand-canyon-megafire-explodes-in-size-and-is-now-creating-its-own-weather-2000639749",
-        "publishedAt": "2025-08-06T20:15:02Z",
         "query": "weather",
         "language": "en"
     },
@@ -7210,12 +7190,12 @@
         "language": "en"
     },
     {
-        "source": "BBC News",
-        "title": "Mum and sons kept dogs in cramped and soiled cages",
-        "description": "Twenty two dogs were denied access to water and kept out in cold weather, the charity found.",
-        "content": "A mother and her two sons, who kept dogs in cages described as so soiled with urine the smell \"burned\" the nose and throat of an RSPCA inspector, have been banned from keeping animals.\r\nThe dogs were… [+3669 chars]",
-        "url": "https://www.bbc.com/news/articles/c3wnxlqzgj9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "publishedAt": "2025-08-06T13:49:24Z",
+        "source": "Yahoo Entertainment",
+        "title": "Severe storms in Mass. on Saturday with threats of wind damage, flooding, possible tornado",
+        "description": "Severe weather on Saturday could bring storms with wind damage, flooding, and the threat of a possible tornado.",
+        "content": "Severe storms in Mass. on Saturday with threats of wind damage, flooding, possible tornado\r\nSevere weather on Saturday could bring storms with wind damage, flooding, and the threat of a possible torn… [+1270 chars]",
+        "url": "https://www.yahoo.com/news/articles/severe-storms-mass-saturday-threats-160444942.html",
+        "publishedAt": "2025-09-06T17:08:09Z",
         "query": "weather",
         "language": "en"
     },
@@ -7226,6 +7206,16 @@
         "content": "(This story was updated with new information.)\r\nA thunderstorm system swept into the Coachella Valley from northern Mexico on Tuesday morning, causing rain across the desert while bringing with it th… [+1559 chars]",
         "url": "https://www.desertsun.com/story/weather/2025/09/02/palm-springs-weather-thunderstorms-bring-rain/85937816007/",
         "publishedAt": "2025-09-02T14:51:49Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "‘Pretty crazy’: Severe weather ravages through Massachusetts, leaving trail of destruction",
+        "description": "Following a tumultuous day of severe weather and even a tornado, some residents are dealing with the aftermath.",
+        "content": "Following a tumultuous day of severe weather and even a reported tornado, some residents are dealing with the aftermath.\r\nIn the town of Holden, residents are reeling from the effects after a reporte… [+1618 chars]",
+        "url": "https://www.yahoo.com/news/articles/pretty-crazy-tornado-severe-weather-010910716.html",
+        "publishedAt": "2025-09-07T01:09:10Z",
         "query": "weather",
         "language": "en"
     },
@@ -7256,6 +7246,16 @@
         "content": "A monsoon storm hit the Phoenix area, bringing a dust storm, thunderstorms and a ground stop at the Phoenix Sky Harbor International Airport.\r\nThe dust storm advisory was in effect until 7 p.m. Aug. … [+6192 chars]",
         "url": "https://www.azcentral.com/story/news/local/phoenix-weather/2025/08/25/dust-storm-warning-august-25-2025/85825166007/",
         "publishedAt": "2025-08-26T00:15:16Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "'Keep your cool' during emergency alert test, government says",
+        "description": "A nationwide test of the system will see most phones signal an alert at 15:00 BST on Sunday.",
+        "content": "The government has urged people to \"keep their cool\" when the national system for sending emergency alerts to mobile phones in the UK is tested on Sunday.\r\nAt 15:00 BST, compatible phones will vibrat… [+2877 chars]",
+        "url": "https://www.bbc.com/news/articles/cpw15l5n78jo",
+        "publishedAt": "2025-09-06T19:23:14Z",
         "query": "weather",
         "language": "en"
     },
@@ -7340,6 +7340,16 @@
         "language": "en"
     },
     {
+        "source": "ABC News",
+        "title": "Hawaii under state of emergency ahead of Hurricane Kiko",
+        "description": "A state of emergency has been issued in Hawaii ahead of possible inclement weather posed by Hurricane Kiko, officials said.",
+        "content": "A state of emergency has been issued in Hawaii ahead of possible inclement weather posed by Hurricane Kiko, officials said.\r\nHawaiis acting governor, Sylvia Luke, issued the emergency proclamation on… [+1747 chars]",
+        "url": "https://abcnews.go.com/US/hawaii-state-emergency-ahead-hurricane-kiko/story?id=125317034",
+        "publishedAt": "2025-09-06T10:36:25Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
         "source": "Gizmodo.com",
         "title": "Japanese Power Plant Turns Saltwater Into Electricity—and It’s a Glimpse Into the Future",
         "description": "The Japanese city of Fukuoka is the second in the world to harness the power of osmosis to generate electricity for surrounding areas.",
@@ -7391,6 +7401,16 @@
     },
     {
         "source": "ABC News",
+        "title": "Over 25 million under alert for severe weather, flash flooding in Northeast",
+        "description": "Saturday's threat for severe weather shifts east, putting more than 25 million on alert from eastern Pennsylvania up into southern Maine.",
+        "content": "The threat for severe weather on Saturday is shifting east, putting more than 25 million people on alert from eastern Pennsylvania up into southern Maine.\r\nThis includes those in Philadelphia, New Yo… [+1520 chars]",
+        "url": "https://abcnews.go.com/US/25-million-alert-severe-weather-flash-flooding-northeast/story?id=125319719",
+        "publishedAt": "2025-09-06T16:16:02Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "ABC News",
         "title": "Over 35 million Americans on alert for dangerous heat",
         "description": "Multiple areas across the country are expected to have dangerous heat and fire weather concerns this weekend with over 35 million Americans on alert for dangerous heat.",
         "content": "Multiple areas across the country are expected to have dangerous heat and fire weather concerns this weekend with over 35 million Americans on alert for dangerous heat.\r\nExtreme Heat Warnings remain … [+2227 chars]",
@@ -7430,16 +7450,6 @@
         "language": "en"
     },
     {
-        "source": "AZCentral",
-        "title": "When will it start to cool down in Arizona? Here's what experts say",
-        "description": "With all the heat, many metro Phoenix residents are craving some relief from the heat. If you're wondering when it will cool off, here's what to know.",
-        "content": "Arizona's dog days of summer are firmly here with dangerously high heat will settling in over Phoenix this week.\r\nForecast highs were expected to be 116 on Aug. 6 and 117 on Aug. 7, which would break… [+2514 chars]",
-        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2025/08/06/when-will-it-start-to-cool-down-in-arizona/85542933007/",
-        "publishedAt": "2025-08-06T16:47:38Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
         "source": "CNET",
         "title": "Arlo Announces a New Lineup of AI-Powered Security Cameras",
         "description": "The next Arlo Essential, Pro and Ultra cameras will have more Arlo Intelligence features. Pan Tilt cameras are joining the lineup.",
@@ -7451,21 +7461,21 @@
     },
     {
         "source": "BBC News",
-        "title": "Brothers set new record for 9,000-mile Pacific row",
-        "description": "Jamie, Ewan and Lachlan MacLean endured violent tropical storms during their 140-day journey.",
-        "content": "Steven McKenzieBBC Scotland News\r\nThe brothers started their challenge four and a half months ago\r\nThree brothers from Edinburgh have claimed a new record for rowing non-stop and unsupported across t… [+4727 chars]",
-        "url": "https://www.bbc.com/news/articles/c9876y4z4rgo",
-        "publishedAt": "2025-08-30T02:01:33Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
         "title": "MP Rupert Lowe mistakes charity rowers for 'illegal migrants'",
         "description": "Mr Lowe says will donate £1,000 to the crew's charity but makes \"no apologies over being vigilant\".",
         "content": "Neve Gordon-Farleigh\r\nRupert Lowe says he will now be donating £1,000 to charity after his mistake \r\nAn MP has admitted he mistook a charity rowing crew for \"illegal migrants\". \r\nIndependent MP Ruper… [+2187 chars]",
         "url": "https://www.bbc.com/news/articles/cdd32lnq445o",
         "publishedAt": "2025-08-08T08:12:23Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "BBC News",
+        "title": "Brothers set new record for 9,000-mile Pacific row",
+        "description": "Jamie, Ewan and Lachlan MacLean endured violent tropical storms during their 140-day journey.",
+        "content": "Steven McKenzieBBC Scotland News\r\nThe brothers started their challenge four and a half months ago\r\nThree brothers from Edinburgh have claimed a new record for rowing non-stop and unsupported across t… [+4727 chars]",
+        "url": "https://www.bbc.com/news/articles/c9876y4z4rgo",
+        "publishedAt": "2025-08-30T02:01:33Z",
         "query": "weather",
         "language": "en"
     },
@@ -7516,6 +7526,16 @@
         "content": "METAIRIE, La. (WGNO) A man was shot while riding in a car on Interstate 10 near the Bonnabel Exit in Metairie, according to the Jefferson Parish Sheriffs Office.\r\nJPSO officials said the shooting hap… [+728 chars]",
         "url": "https://wgno.com/news/crime/man-shot-while-riding-in-car-on-interstate-10-near-bonnabel-exit/",
         "publishedAt": "2025-09-03T21:04:31Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "Yahoo Entertainment",
+        "title": "Cool, cloudy evening coming; sun and some showers expected Sunday",
+        "description": "It will be cool and cloudy early this evening, gradually clearing overnight. Lows will drop to the upper 40s and low 50s.",
+        "content": "It will be cool and cloudy early this evening, gradually clearing overnight. Lows will drop to the upper 40s and low 50s.\r\nExpect a brighter Sunday with a mix of sun and clouds, with highs in the upp… [+686 chars]",
+        "url": "https://www.yahoo.com/news/articles/cool-cloudy-evening-coming-sun-215241454.html",
+        "publishedAt": "2025-09-06T21:52:41Z",
         "query": "weather",
         "language": "en"
     },
@@ -7660,22 +7680,22 @@
         "language": "en"
     },
     {
-        "source": "KXAN.com",
-        "title": "Tommy’s Travel Forecast: Erin update, pattern change",
-        "description": "In the Eastern Atlantic Basin, a new tropical wave could develop into our next named storm. The tropics are waking up!",
-        "content": "AUSTIN (KXAN) Hurricane Erin continues to move WNW as a Major Hurricane. Traveling along the U.S. East Coast? Erin will create a high rip current risk and large waves with some gusty winds.\r\nTROPICAL… [+1259 chars]",
-        "url": "https://www.kxan.com/news/texas/tommys-travel-forecast-erin-update-pattern-change/",
-        "publishedAt": "2025-08-17T19:53:42Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
         "source": "ABC27",
         "title": "PennDOT plans long-term closure of I-83 on-ramp; delays expected next Sunday",
         "description": "HARRISBURG, Pa. (WHTM) — An Interstate 83 onramp will be closed beginning next Sunday and it’ll last awhile. PennDOT says the ramp from 19th Street to I-83...",
         "content": "HARRISBURG, Pa. (WHTM) An Interstate 83 onramp will be closed beginning next Sunday and itll last awhile.\r\nPennDOT says the ramp from 19th Street to I-83 northbound in Harrisburg will close Sunday, A… [+908 chars]",
         "url": "https://www.abc27.com/news/traffic/penndot-plans-long-term-closure-of-i-83-on-ramp-delays-expected-next-sunday/",
         "publishedAt": "2025-08-15T20:36:22Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
+        "source": "KXAN.com",
+        "title": "Tommy’s Travel Forecast: Erin update, pattern change",
+        "description": "In the Eastern Atlantic Basin, a new tropical wave could develop into our next named storm. The tropics are waking up!",
+        "content": "AUSTIN (KXAN) Hurricane Erin continues to move WNW as a Major Hurricane. Traveling along the U.S. East Coast? Erin will create a high rip current risk and large waves with some gusty winds.\r\nTROPICAL… [+1259 chars]",
+        "url": "https://www.kxan.com/news/texas/tommys-travel-forecast-erin-update-pattern-change/",
+        "publishedAt": "2025-08-17T19:53:42Z",
         "query": "weather",
         "language": "en"
     },
@@ -7710,16 +7730,6 @@
         "language": "en"
     },
     {
-        "source": "ABC News",
-        "title": "Northern lights could be visible in these states tonight",
-        "description": "A minor geomagnetic storm could produce auroras in more than a dozen states.",
-        "content": "Another dazzling display of northern lights could be visible Monday night with the prediction of a minor geomagnetic storm, according to space weather experts.\r\nThe National Oceanic and Atmospheric A… [+2432 chars]",
-        "url": "https://abcnews.go.com/US/northern-lights-visible-dozen-us-states-tonight/story?id=124741604",
-        "publishedAt": "2025-08-18T16:07:00Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
         "source": "Idaho Statesman",
         "title": "Where is that smoke in Boise coming from? Farther away than you’d think",
         "description": "The usual culprits for wildfire smoke drifting into the Treasure Valley aren’t to blame. But this will stick through the weekend.",
@@ -7740,6 +7750,16 @@
         "language": "en"
     },
     {
+        "source": "ABC News",
+        "title": "Northern lights could be visible in these states tonight",
+        "description": "A minor geomagnetic storm could produce auroras in more than a dozen states.",
+        "content": "Another dazzling display of northern lights could be visible Monday night with the prediction of a minor geomagnetic storm, according to space weather experts.\r\nThe National Oceanic and Atmospheric A… [+2432 chars]",
+        "url": "https://abcnews.go.com/US/northern-lights-visible-dozen-us-states-tonight/story?id=124741604",
+        "publishedAt": "2025-08-18T16:07:00Z",
+        "query": "weather",
+        "language": "en"
+    },
+    {
         "source": "The Register-Guard",
         "title": "Oregon wildfires: Emigrant Fire explodes to 6,000 acres near Oakridge",
         "description": "The Emigrant Fire exploded to 6,000 acres while progress was made on the Flat Fire. Here's the latest on Oregon wildfires.",
@@ -7756,16 +7776,6 @@
         "content": "New research suggests that climate pressures could push nearly 1 million Britons into poverty, according to The Guardian.\r\nWhat's happening?\r\nAs destructive weather patterns such as floods and drough… [+2013 chars]",
         "url": "https://www.yahoo.com/news/articles/report-warns-concerning-phenomenon-could-060000226.html",
         "publishedAt": "2025-08-24T06:00:00Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "BBC News",
-        "title": "One dead and thousands without power as wildfire spreads in France",
-        "description": "The wildfire is the largest in France this year and has burned some 12,000 hectares of land and killed one.",
-        "content": "An elderly woman has died and another person is missing after a massive wildfire swept through parts of southern France, destroying homes and forcing thousands to flee.\r\nThe woman died in her home, s… [+2983 chars]",
-        "url": "https://www.bbc.com/news/articles/cj6y803pjkwo",
-        "publishedAt": "2025-08-06T11:53:38Z",
         "query": "weather",
         "language": "en"
     },
@@ -7946,16 +7956,6 @@
         "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nRepresentative Eric Sorensen of Illinois spent 22 years forecasting the weather on television before winning his congre… [+17202 chars]",
         "url": "https://www.scientificamerican.com/podcast/episode/congressman-eric-sorensen-on-defending-climate-science-depoliticizing/",
         "publishedAt": "2025-08-08T10:00:00Z",
-        "query": "weather",
-        "language": "en"
-    },
-    {
-        "source": "Android Central",
-        "title": "The first 10 things to do with the Google Pixel 10",
-        "description": "The Google Pixel 10 features a bevy of new software and AI features. Here are some of the first things you should do when you get your device.",
-        "content": "So you got your hands on a new Pixel 10 smartphone. They're great phones, and there's a lot of cool new features to check out, which can make things a little overwhelming. After all, setting up your … [+13276 chars]",
-        "url": "https://www.androidcentral.com/phones/google-pixel/first-things-to-do-with-the-google-pixel-10",
-        "publishedAt": "2025-08-30T17:04:00Z",
         "query": "weather",
         "language": "en"
     }
